@@ -1,22 +1,22 @@
 export default [
     {
-        slug: "preface",
+        id: "preface",
         display: "Preface"
     },
     {
-        slug: "abbr",
+        id: "abbr",
         display: "Abbreviations"
     },
     {
-        slug: "hebrew",
+        id: "hebrew",
         display: "Hebrew"
     },
     {
-        slug: "aramaic",
+        id: "aramaic",
         display: "Aramaic"
     },
     {
-        slug: "errata",
+        id: "errata",
         display: "Errata"
     }
 ]
