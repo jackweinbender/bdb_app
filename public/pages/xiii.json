@@ -1,7 +1,9 @@
-{"page":{
+{
+  "page": {
     "id": "xiii",
     "section": "abbr",
     "emory_page": 11,
-    "next": "/abbr-xiv.html",
-    "prev": "/preface-xii.html"
-  }}
+    "next": "/page/xiv",
+    "prev": "/page/xii"
+  }
+}
