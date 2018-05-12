@@ -3,8 +3,8 @@
     "id": 1,
     "section": "hebrew",
     "emory_page": 19,
-    "next": "/page/2",
-    "prev": "/page/xix",
+    "next": "2",
+    "prev": "xix",
     "first_root": 3
   }
 }

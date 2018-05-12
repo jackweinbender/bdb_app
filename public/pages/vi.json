@@ -3,7 +3,7 @@
     "id": "vi",
     "section": "preface",
     "emory_page": 4,
-    "next": "/page/vii",
-    "prev": "/page/v"
+    "next": "vii",
+    "prev": "v"
   }
 }

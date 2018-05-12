@@ -3,7 +3,7 @@
     "id": "title",
     "section": "title",
     "emory_page": 1,
-    "next": "/page/v",
-    "prev": "/"
+    "next": "v",
+    "prev": false
   }
 }
