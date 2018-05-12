@@ -3,7 +3,7 @@
     "id": 1127,
     "section": "errata",
     "emory_page": 1145,
-    "next": false,
+    "next": "title",
     "prev": "1126"
   }
 }

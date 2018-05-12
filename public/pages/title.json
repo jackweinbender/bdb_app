@@ -4,6 +4,6 @@
     "section": "title",
     "emory_page": 1,
     "next": "v",
-    "prev": false
+    "prev": "title"
   }
 }
