@@ -1,3 +1,10 @@
-<h3>Page: {{model.id}}</h3>
-{{nav-index section=model.section currentRoot=root}}
+{{!-- {{nav-index section=model.section currentRoot=root}} --}}
+<div>
+    {{#link-to "page" model.prev}}Prev{{/link-to}}
+    {{model.id}}
+    {{#link-to "page" model.next}}Next{{/link-to}}    
+</div>
+<div>
+    <img src="{{model.emory_url}}" alt="BDB - {{model.section}} - Page: {{model.id}}">
+</div>
 {{outlet}}
