@@ -1,6 +1,11 @@
-<h2>Application</h2>
 {{!-- Application Nav --}}
-{{nav-root}}
+<ul class="section-nav">
+    <li>{{#link-to "page" 'v'}}Preface{{/link-to}}</li>
+    <li>{{#link-to "page" 'xiii'}}Abbr{{/link-to}}</li>
+    <li>{{#link-to "page" '1'}}Hebrew{{/link-to}}</li>
+    <li>{{#link-to "page" '1078'}}Aramaic{{/link-to}}</li>
+    <li>{{#link-to "page" '1119'}}Errata{{/link-to}}</li>
+</ul>
 
 {{!-- Outlet for Page --}}
 {{outlet}}

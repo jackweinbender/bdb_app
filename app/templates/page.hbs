@@ -1,10 +1,10 @@
 {{!-- {{nav-index section=model.section currentRoot=root}} --}}
-<div>
-    {{#link-to "page" model.prev}}Prev{{/link-to}}
-    {{model.id}}
-    {{#link-to "page" model.next}}Next{{/link-to}}    
-</div>
-<div>
+<div class="page-img">
+    <div class="page-nav">
+        {{#link-to "page" model.prev}}Prev{{/link-to}}
+        <form>{{input value=gotopage}} <button {{action 'go_to' gotopage}}>Go</button></form>
+        {{#link-to "page" model.next}}Next{{/link-to}}    
+    </div>
     <img src="{{model.emory_url}}" alt="BDB - {{model.section}} - Page: {{model.id}}">
 </div>
 {{outlet}}
