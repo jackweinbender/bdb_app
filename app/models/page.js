@@ -9,9 +9,9 @@ export default DS.Model.extend({
     img_url:    computed('section', 'id', function(){
         let section = this.get('section')
         let id = this.get('id')
-        let url = `https://storage.googleapis.com/bdb.semitics-archive.org/static/dictionary/pages/`
+        let url = `http://localhost:8182/iiif/2/bdb_emory_page-${id}.jp2/full/pct:60/0/gray.jpg`
 
-        return `${url}${section}-${id}.png`
+        return url
     }),
     emory_url:  computed('emory_page', function(){
         let page = this.get('emory_page')

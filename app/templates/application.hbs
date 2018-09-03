@@ -1,11 +1,18 @@
-{{!-- Application Nav --}}
-<ul class="section-nav">
-    <li>{{#link-to "page" 'v'}}Preface{{/link-to}}</li>
-    <li>{{#link-to "page" 'xiii'}}Abbr{{/link-to}}</li>
-    <li>{{#link-to "page" '1'}}Hebrew{{/link-to}}</li>
-    <li>{{#link-to "page" '1078'}}Aramaic{{/link-to}}</li>
-    <li>{{#link-to "page" '1119'}}Errata{{/link-to}}</li>
-</ul>
+<div class="wrapper">
+    {{!-- Application Nav --}}
+    <nav class="section-nav">
+        
+        <div {{action 'toggle_section_nav'}} class="toggle-sections">BDB +</div>
+        <ul class="sections{{unless isNavHidden ' hidden'}}">
+            <li>{{#link-to "page" 'v'}}Preface{{/link-to}}</li>
+            <li>{{#link-to "page" 'xiii'}}Abbr{{/link-to}}</li>
+            <li>{{#link-to "page" '1'}}Hebrew{{/link-to}}</li>
+            <li>{{#link-to "page" '1078'}}Aramaic{{/link-to}}</li>
+            <li>{{#link-to "page" '1119'}}Errata{{/link-to}}</li>
+        </ul>
+    </nav>
 
-{{!-- Outlet for Page --}}
-{{outlet}}
+
+    {{!-- Outlet for Page --}}
+    {{outlet}}
+</div>
