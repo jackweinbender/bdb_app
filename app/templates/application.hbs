@@ -6,11 +6,11 @@
             <span {{action 'toggle_section_nav'}}>&sect;</span>
         </div>
         <ul class="sections{{if isSectionNavActive ' active'}}">
-            <li>{{#link-to "page" 'v'}}Preface{{/link-to}}</li>
-            <li>{{#link-to "page" 'xiii'}}Abbr{{/link-to}}</li>
-            <li>{{#link-to "page" '1'}}Hebrew{{/link-to}}</li>
-            <li>{{#link-to "page" '1078'}}Aramaic{{/link-to}}</li>
-            <li>{{#link-to "page" '1119'}}Errata{{/link-to}}</li>
+            <li {{action 'toggle_section_nav'}} >{{#link-to "page" 'v'}}Preface{{/link-to}}</li>
+            <li {{action 'toggle_section_nav'}} >{{#link-to "page" 'xiii'}}Abbr{{/link-to}}</li>
+            <li {{action 'toggle_section_nav'}} >{{#link-to "page" '1'}}Hebrew{{/link-to}}</li>
+            <li {{action 'toggle_section_nav'}} >{{#link-to "page" '1078'}}Aramaic{{/link-to}}</li>
+            <li {{action 'toggle_section_nav'}} >{{#link-to "page" '1119'}}Errata{{/link-to}}</li>
         </ul>
     </nav>
 

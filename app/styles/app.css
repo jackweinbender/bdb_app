@@ -7,6 +7,7 @@ html {
   height: 100%;
   margin: 0;
   padding: 0;
+  font-family: 'Linux Libertine O', 'Times New Roman', Serif;
 }
 
 body>div {
@@ -29,6 +30,7 @@ body>div {
 .section-nav {
   background-color: #c5c5c5;
   text-align: right;
+  box-shadow: #222 0px -3px 10px;
 }
 
 .toolbar {
@@ -36,11 +38,14 @@ body>div {
   justify-content: space-between;
   border-bottom: solid 1px #aaa;
   padding: 0.25rem;
+  
 }
 
 .toolbar span {
+  color: #333;
   text-align: center;
-  padding: 0.25rem 1rem;
+  padding: 0 1rem;
+  font-size: 1.5rem;
 }
 
 .toolbar span:first-of-type {
@@ -53,23 +58,39 @@ body>div {
 
 .sections {
   margin: 0;
-  padding: 0;
+  padding: 0 0.25rem;
+  background-color: #e5e5e5;
   display: none;
 }
 
-.active {
+.toolbar + .active {
   display: block;
 }
 
 .sections li {
   list-style: none;
   text-align: center;
-  padding: 0.25rem;
+  padding: 0.35rem 0;
+  border-bottom: solid 1px #aaa;
+}
+
+.sections li:last-of-type {
+  border: none;
 }
 
 .sections li a {
   color: #333;
   text-decoration: none;
+  display: block;
+}
+
+.sections li > .active {
+  text-decoration: underline;
+}
+
+.sections li a:hover {
+  text-decoration: underline;
+  /* background-color: #999; */
 }
 
 .page-nav {
