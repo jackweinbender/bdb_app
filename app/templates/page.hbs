@@ -1,7 +1,7 @@
 <div class="page">
     {{page-navigation model=model}}
-    <div class="page-img">
-        <img src="{{model.img_url}}" alt="BDB - {{model.section}} - Page: {{model.id}}">
-    </div>
+
+    {{page-image model=model}}
+    
     {{!-- {{outlet}} --}}
 </div>    {{!-- {{nav-index section=model.section currentRoot=root}} --}}
