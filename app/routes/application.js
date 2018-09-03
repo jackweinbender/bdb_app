@@ -6,7 +6,7 @@ export default Route.extend({
     },
     actions: {
         toggle_section_nav() {
-            this.controller.toggleProperty('isNavHidden');
+            this.controller.toggleProperty('isSectionNavActive');
         }
     }
 });

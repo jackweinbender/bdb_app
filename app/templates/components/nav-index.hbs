@@ -1,6 +1,0 @@
-<strong>{{currentRoot}}</strong>
-{{#each letterIndex as |letter|}}
-    <a {{action 'setLetter' letter.id}}>{{letter.translit}}</a> 
-{{/each}}
-{{nav-roots letter=activeLetter}}
-{{yield}}

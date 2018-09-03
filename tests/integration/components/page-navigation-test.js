@@ -3,22 +3,22 @@ import { setupRenderingTest } from 'ember-qunit';
 import { render } from '@ember/test-helpers';
 import hbs from 'htmlbars-inline-precompile';
 
-module('Integration | Component | nav-index', function(hooks) {
+module('Integration | Component | page-navigation', function(hooks) {
   setupRenderingTest(hooks);
 
   test('it renders', async function(assert) {
     // Set any properties with this.set('myProperty', 'value');
     // Handle any actions with this.set('myAction', function(val) { ... });
 
-    await render(hbs`{{nav-index}}`);
+    await render(hbs`{{page-navigation}}`);
 
     assert.equal(this.element.textContent.trim(), '');
 
     // Template block usage:
     await render(hbs`
-      {{#nav-index}}
+      {{#page-navigation}}
         template block text
-      {{/nav-index}}
+      {{/page-navigation}}
     `);
 
     assert.equal(this.element.textContent.trim(), 'template block text');

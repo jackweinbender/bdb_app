@@ -6,10 +6,5 @@ export default Route.extend({
             this.transitionTo('index')
         }
         return this.get('store').findRecord('page', params.page)
-    },
-    actions: {
-        go_to(page_id){
-            this.transitionTo('page', page_id)
-        }
     }
 });

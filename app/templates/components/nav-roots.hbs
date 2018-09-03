@@ -1,6 +1,0 @@
-{{#each roots as |root|}}
-    {{#link-to "page" root.page (query-params root=root.id)}}
-        {{root.root}}
-    {{/link-to}}
-{{/each}}
-{{yield}}

@@ -14,7 +14,6 @@ body>div {
 }
 
 .page {
-  background-color: aquamarine;
   height: 100%;
   overflow: auto;
 }
@@ -29,19 +28,37 @@ body>div {
 
 .section-nav {
   background-color: #c5c5c5;
+  text-align: right;
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid 1px #aaa;
+  padding: 0.25rem;
+}
+
+.toolbar span {
   text-align: center;
+  padding: 0.25rem 1rem;
+}
+
+.toolbar span:first-of-type {
+  border-right: solid 1px #aaa;
+}
+
+.toolbar span:last-of-type {
+  border-left: solid 1px #aaa;
 }
 
 .sections {
   margin: 0;
   padding: 0;
-  display: grid;
-  grid-template-columns: auto auto auto auto auto;
-  align-items: center;
+  display: none;
 }
 
-.hidden {
-  display: none !important;
+.active {
+  display: block;
 }
 
 .sections li {
@@ -68,15 +85,15 @@ body>div {
   border-top: solid 1px #aaa;
 }
 
-.page-nav span {
-  text-align: center;
-  padding: 0.5rem;
-}
-
 .page-nav a {
-  align-self: center;
+  /* align-self: center; */
   color: #333;
   text-decoration: none;
+  padding: 0.25rem;
+}
+
+.page-nav span {
+  text-align: center;
   padding: 0.25rem;
 }
 
@@ -96,10 +113,18 @@ body>div {
   border-left: solid 1px #999;
 }
 
+.page-nav form {
+  display: flex;
+  justify-content: center;
+}
+
 .page-nav input {
-  width: 60%
+  width: 40%;
+  text-align: center;
+  margin: 0 0.15rem;
 }
 
 .page-nav button {
-  width: 30%
+  width: 20;
+  margin: 0 0.15rem;
 }

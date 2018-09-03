@@ -1,9 +1,11 @@
 <div class="wrapper">
-    {{!-- Application Nav --}}
     <nav class="section-nav">
-        
-        <div {{action 'toggle_section_nav'}} class="toggle-sections">BDB +</div>
-        <ul class="sections{{unless isNavHidden ' hidden'}}">
+        <div class="toolbar">
+            <span>א</span>
+            <span>BDB</span>
+            <span {{action 'toggle_section_nav'}}>&sect;</span>
+        </div>
+        <ul class="sections{{if isSectionNavActive ' active'}}">
             <li>{{#link-to "page" 'v'}}Preface{{/link-to}}</li>
             <li>{{#link-to "page" 'xiii'}}Abbr{{/link-to}}</li>
             <li>{{#link-to "page" '1'}}Hebrew{{/link-to}}</li>

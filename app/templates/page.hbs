@@ -1,9 +1,5 @@
 <div class="page">
-    <div class="page-nav">
-        <span>{{#link-to "page" model.prev}}Prev{{/link-to}}</span>
-        <span><form>{{input value=gotopage}} <button {{action 'go_to' gotopage}}>Go</button></form></span>
-        <span>{{#link-to "page" model.next}}Next{{/link-to}}</span>    
-    </div>
+    {{page-navigation model=model}}
     <div class="page-img">
         <img src="{{model.img_url}}" alt="BDB - {{model.section}} - Page: {{model.id}}">
     </div>
