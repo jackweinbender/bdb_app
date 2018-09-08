@@ -15,18 +15,11 @@ body>div {
   height: 100%;
 }
 
-.page {
-  height: 100%;
-  overflow: auto;
-}
-
-.page-img img {
-  width: 200%;
-}
-
 .wrapper {
-  height: 100%;
-  overflow: hidden;
+	display: grid;
+	grid-template-rows: 5rem auto 5rem;
+	grid-template-columns: 1fr;
+	height: 100vh;
 }
 
 .toolbar {
@@ -62,8 +55,84 @@ body>div {
   border-left: solid 1px #ddd;
 }
 
+.page-img img {
+  width: 200%;
+}
+
+.page {
+  margin-top: 2.25rem;
+  height: calc(100vh - 5rem);
+  overflow: auto;
+}
+
+.page-nav {
+  max-width: 975px;
+  box-shadow: #222 -5px 5px 10px 0px;
+  background-color: white;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 25% 50% 25%;
+  align-items: center;
+  border-top: solid 1px #ddd;
+}
+
+.page-nav a {
+  color: #333;
+  padding: 0.25rem;
+}
+
+.page-nav span {
+  text-align: center;
+  padding: 0.25rem;
+}
+
+.page-nav span:first-of-type {
+  border-right: solid 1px #ddd;
+}
+
+.page-nav span:first-of-type::before {
+  content: '« ';
+}
+
+.page-nav span:last-of-type::after {
+  content: ' »';
+}
+
+.page-nav span:last-of-type {
+  border-left: solid 1px #ddd;
+}
+
+.page-nav form {
+  display: flex;
+  justify-content: center;
+}
+
+.page-nav input {
+  width: 40%;
+  text-align: center;
+  margin: 0 0.15rem;
+  border-radius: 2px;
+  border: solid 1px #aaa;
+}
+
+.page-nav button {
+  background-color: #eee;
+  border: solid 1px #aaa;
+  border-radius: 2px;
+  width: 30%;
+  margin: 0 0.15rem;
+}
+
+.page-img {
+  max-width: 30rem;
+}
+
 .section-nav {
-  position: relative;
+  position: absolute;
+  width: 100%;
+  max-width: 975px;
   background-color: green;
   box-shadow: 0px 12px 12px -15px #111;
   display: block;
@@ -188,75 +257,4 @@ body>div {
 
 .roots .current {
   text-decoration: underline;
-}
-
-.page {
-  padding-top: 2rem;
-  margin-bottom: 2.5rem;
-  height: 100%;
-  overflow-x: scroll;
-}
-
-.page-nav {
-  max-width: 975px;
-  box-shadow: #222 -5px 5px 10px 0px;
-  background-color: white;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  display: grid;
-  grid-template-columns: 25% 50% 25%;
-  align-items: center;
-  border-top: solid 1px #ddd;
-}
-
-.page-nav a {
-  color: #333;
-  padding: 0.25rem;
-}
-
-.page-nav span {
-  text-align: center;
-  padding: 0.25rem;
-}
-
-.page-nav span:first-of-type {
-  border-right: solid 1px #ddd;
-}
-
-.page-nav span:first-of-type::before {
-  content: '« ';
-}
-
-.page-nav span:last-of-type::after {
-  content: ' »';
-}
-
-.page-nav span:last-of-type {
-  border-left: solid 1px #ddd;
-}
-
-.page-nav form {
-  display: flex;
-  justify-content: center;
-}
-
-.page-nav input {
-  width: 40%;
-  text-align: center;
-  margin: 0 0.15rem;
-  border-radius: 2px;
-  border: solid 1px #aaa;
-}
-
-.page-nav button {
-  background-color: #eee;
-  border: solid 1px #aaa;
-  border-radius: 2px;
-  width: 30%;
-  margin: 0 0.15rem;
-}
-
-.page-img {
-  max-width: 30rem;
 }
