@@ -27,21 +27,15 @@ body>div {
   height: 100%;
 }
 
-.section-nav {
-  background-color: white;
-  text-align: right;
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  box-shadow: #222 0px -5px 10px 0px;
-}
-
 .toolbar {
+  background-color: white;
+  position: fixed;
+  width: 100%;
   display: flex;
   justify-content: space-between;
   border-bottom: solid 1px #ddd;
   padding: 0.25rem;
+  box-shadow: #222 0px -5px 10px 0px;
 }
 
 .toolbar a {
@@ -64,6 +58,14 @@ body>div {
   border-left: solid 1px #ddd;
 }
 
+.section-nav {
+  position:relative;
+  background-color: green;
+  box-shadow: 0px 12px 12px -15px #111;
+  display: block;
+  top:2.5rem;
+}
+
 .sections {
   margin: 0;
   padding: 0 0.25rem;
@@ -72,8 +74,8 @@ body>div {
   border-bottom: solid 1px #ddd;
 }
 
-.toolbar+.active {
-  display: block;
+.section-nav .active {
+  display: block !important;
 }
 
 .sections li {
@@ -104,6 +106,14 @@ body>div {
 .sections li a:hover {
   text-decoration: underline;
   /* background-color: #999; */
+}
+
+.alphabet {
+  margin: 0;
+  padding: 0 0.25rem;
+  background-color: white;
+  /* display: none; */
+  border-bottom: solid 1px #ddd;
 }
 
 .page {
