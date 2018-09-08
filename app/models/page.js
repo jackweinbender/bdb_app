@@ -9,7 +9,7 @@ export default DS.Model.extend({
     regions:    DS.hasMany('img-region'),
     img_url:    computed('section', 'id', function(){
         let id = this.get('id')
-        let url = `http://localhost:8182/iiif/2/bdb_emory_page-${id}.jp2/full/pct:60/0/gray.jpg`
+        let url = `http://iiif.semitics-archive.org/iiif/2/bdb_emory_page-${id}.jp2/full/pct:60/0/gray.jpg`
 
         return url
     }),

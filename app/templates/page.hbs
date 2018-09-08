@@ -1,5 +1,9 @@
 <div class="page">
-    {{page-navigation model=model}}
+    {{page-navigation
+        page_id=(readonly model.id)
+        next=model.next
+        prev=model.prev
+    }}
 
     {{page-image model=model}}
     
