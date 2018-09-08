@@ -1,9 +1,18 @@
 'use strict';
+const fs = require('fs')
 
 const EmberApp = require('ember-cli/lib/broccoli/ember-app');
+const pages_file = fs.readFileSync("public/pages.json");
+const urls = JSON.parse(pages_file).pages.map( p => `/page/${p.id}`)
+
+// kill the title url
+urls.shift(1)
 
 module.exports = function(defaults) {
   let app = new EmberApp(defaults, {
+    prember: {
+      urls: ['/'].concat(urls)
+    }
     // Add options here
   });
 

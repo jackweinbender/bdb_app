@@ -1,4 +1,9 @@
-<div class="page">
-    <h1>Home</h1>
-    {{outlet}}
+<div id="page" class="page">
+    {{page-navigation
+        page_id=(readonly model.id)
+        next=model.next
+        prev=model.prev
+    }}
+
+    {{page-image model=model}}
 </div>

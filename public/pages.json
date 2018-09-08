@@ -5,7 +5,8 @@
       "section": "title",
       "emory_page": 1,
       "next": "v",
-      "prev": "title"
+      "prev": "title",
+      "img_crop": "full"
     },
     {
       "id": "v",
