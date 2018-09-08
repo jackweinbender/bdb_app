@@ -15,6 +15,7 @@ module.exports = {
     browser: true
   },
   rules: {
+    "no-unused-vars": ["error", { "argsIgnorePattern": "^_"  }]
   },
   overrides: [
     // node files

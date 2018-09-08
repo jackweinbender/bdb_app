@@ -1,26 +1,43 @@
+<nav class="alphabet">
+    <ul class="letters{{if isRootNavActive ' active'}}">
+        {{#each letters as |letter|}}
+            <li {{action 'set_letter' letter.id}}>
+                {{letter.char}}
+            </li>
+        {{/each}}
+    </ul>
+    <ul class="roots{{if isRootNavActive ' active'}}">
+        {{#each roots as |entry|}}
+            <li {{action 'toggle_root_nav'}}>
+                {{#link-to 'page' entry.page}}
+                    {{entry.root}}
+                {{/link-to}}
+            </li>
+        {{/each}}
+    </ul>
+</nav>
+<nav class="section-nav">
+    <ul class="sections{{if isSectionNavActive ' active'}}">
+        {{#each sections as |section| }}
+            <li {{action 'toggle_section_nav'}}
+                {{action 'set_section' section.id }}>
+                {{#link-to "page" section.start_page}}
+                    {{section.display}}
+                {{/link-to}}
+            </li>
+        {{/each}}
+    </ul>
+</nav>
 <div class="wrapper">
     <div class="toolbar">
-        <span>א</span>
-        <span>{{#link-to "home"}}BDB{{/link-to}}</span>
-        <span {{action 'toggle_section_nav'}}>&sect;</span>
+        <span {{action 'toggle_root_nav'}}><img src="/assets/menu.svg" alt=""></span>
+        <span
+            {{action 'toggle_section_nav'}}>
+                {{current_section}}
+        </span>
+        <span>&sect;</span>
     </div>
-    {{!-- <ul id="alph-heb" class="alphabet">
-            {{#each hebrew as |letter|}}
-                <li>{{letter.translit}}</li>
-            {{/each}}
-        </ul> --}}
-    <nav class="section-nav">
-        <ul class="sections{{if isSectionNavActive ' active'}}">
-            {{#each sections as |section| }}
-                <li {{action 'toggle_section_nav'}}>
-                    {{#link-to "page" section.start_page}}
-                        {{section.display}}
-                    {{/link-to}}
-                </li>
-            {{/each}}
-        </ul>
-    </nav>
-
     {{!-- Outlet for Page --}}
     {{outlet}}
 </div>
+

@@ -7,9 +7,14 @@ export default DS.Model.extend({
     next:       DS.attr('string'),
     prev:       DS.attr('string'),
     regions:    DS.hasMany('img-region'),
-    img_url:    computed('section', 'id', function(){
+    img_pct:    DS.attr('number', { defaultValue: 60 }),
+    img_crop:   DS.attr('string', { defaultValue: 'pct:9,2,82,96' }),
+    img_url:    computed('img_pct', 'img_crop', 'id', function(){
         let id = this.get('id')
-        let url = `http://iiif.semitics-archive.org/iiif/2/bdb_emory_page-${id}.jp2/full/pct:60/0/gray.jpg`
+        let img_pct = this.get('img_pct')
+        let img_crop = this.get('img_crop')
+        
+        let url = `http://iiif.semitics-archive.org/iiif/2/bdb_emory_page-${id}.jp2/${img_crop}/pct:${img_pct}/0/gray.jpg`
 
         return url
     }),
