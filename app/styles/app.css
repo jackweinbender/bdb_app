@@ -168,11 +168,11 @@ body>div {
   display: block;
 }
 
-.sections li>.active::before {
+.sections li>.active-section::before {
   content: '» ';
 }
 
-.sections li>.active::after {
+.sections li>.active-section::after {
   content: ' «';
 }
 
@@ -234,6 +234,7 @@ body>div {
   border-radius: none;
   margin: 0;
   padding: 0.1rem;
+  min-width: 6rem;
   list-style: none;
   background-color: #eee;
 }

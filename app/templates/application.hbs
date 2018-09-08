@@ -20,7 +20,8 @@
     <ul class="sections{{if isSectionNavActive ' active'}}">
         {{#each sections as |section| }}
             <li {{action 'toggle_section_nav'}}
-                {{action 'set_section' section.id }}>
+                {{action 'set_section' section.id }}
+                class="section">
                 {{#link-to "page" section.start_page}}
                     {{section.display}}
                 {{/link-to}}
@@ -35,7 +36,8 @@
             {{action 'toggle_section_nav'}}>
                 {{current_section}}
         </span>
-        <span>&sect;</span>
+        <span
+            {{action 'toggle_section_nav'}}>&sect;</span>
     </div>
     {{!-- Outlet for Page --}}
     {{outlet}}

@@ -10,7 +10,7 @@ export default Route.extend({
   afterModel(model, _transition) {
       let new_section = model.get('section')
       let page = model.get('id')
-
+      console.log("Fired")
       this.controllerFor('application').send('set_section', new_section)
       this.controllerFor('application').send('set_letter_by_page', page)
   }

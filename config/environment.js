@@ -2,10 +2,12 @@
 
 module.exports = function(environment) {
   let ENV = {
+    routerScroll: {scrollElement: '#page'},
     modulePrefix: 'bdb-app',
     environment,
     rootURL: '/',
-    locationType: 'auto',
+    locationType: 'router-scroll',
+    historySupportMiddleware: true,
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
