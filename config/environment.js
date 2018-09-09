@@ -4,7 +4,7 @@ module.exports = function(environment) {
   let ENV = {
     routerScroll: {scrollElement: '#page'},
     modulePrefix: 'bdb-app',
-    rootUrl: '/',
+    rootURL: '/',
     environment,
     locationType: 'router-scroll',
     historySupportMiddleware: true,
