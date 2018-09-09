@@ -67,7 +67,8 @@ body>div {
 .page {
   margin-top: 2.25rem;
   height: calc(100vh - 4.4rem);
-  overflow: auto;
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;
 }
 
 .page-nav {
