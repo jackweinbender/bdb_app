@@ -66,8 +66,8 @@ body>div {
 
 .page {
   margin-top: 2.25rem;
-  height: calc(100vh - 4.4rem);
-  overflow: scroll; /* Must be 'scroll' not 'auto' */
+  height: calc(100vh - 5rem);
+  overflow: auto; /* Must be 'scroll' not 'auto' */
   -webkit-overflow-scrolling: touch;
 }
 
