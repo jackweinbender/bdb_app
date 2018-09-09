@@ -57,12 +57,16 @@ body>div {
 }
 
 .page-img img {
+  max-width: 975px;
   width: 200%;
+  border: solid 1px #ddd;
 }
+
+.title .page-img img { width: 100%; max-width: 975px;}
 
 .page {
   margin-top: 2.25rem;
-  height: calc(100vh - 5rem);
+  height: calc(100vh - 4.4rem);
   overflow: auto;
 }
 
@@ -124,10 +128,6 @@ body>div {
   border-radius: 2px;
   width: 30%;
   margin: 0 0.15rem;
-}
-
-.page-img {
-  max-width: 30rem;
 }
 
 .section-nav {
