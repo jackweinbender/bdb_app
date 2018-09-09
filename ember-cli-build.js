@@ -11,7 +11,7 @@ urls.shift(1)
 module.exports = function(defaults) {
   let app = new EmberApp(defaults, {
     prember: {
-      urls: ['/'].concat(urls.slice(0,10))
+      urls: ['/'].concat(urls)
     }
     // Add options here
   });
