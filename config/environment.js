@@ -4,8 +4,8 @@ module.exports = function(environment) {
   let ENV = {
     routerScroll: {scrollElement: '#page'},
     modulePrefix: 'bdb-app',
+    rootUrl: '/',
     environment,
-    rootURL: '/',
     locationType: 'router-scroll',
     historySupportMiddleware: true,
     EmberENV: {
@@ -49,7 +49,6 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-    ENV.rootURL = 'https://jackweinbender.github.io/bdb_app';
     ENV.locationType = 'hash';
   }
 
