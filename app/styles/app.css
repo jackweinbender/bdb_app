@@ -41,6 +41,7 @@ body>div {
 }
 
 .toolbar span {
+  cursor: pointer;
   color: #555;
   text-align: center;
   padding: 0 1rem;
@@ -219,6 +220,7 @@ body>div {
 }
 
 .letters li {
+  cursor: pointer;
   margin: 0;
   color: #444;
   padding: 0.25rem 0.75rem;
