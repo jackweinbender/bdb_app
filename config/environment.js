@@ -49,7 +49,8 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-    // here you can enable a production-specific feature
+    ENV.rootURL = 'https://jackweinbender.github.io/bdb_app';
+    ENV.locationType = 'hash';
   }
 
   return ENV;
