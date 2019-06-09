@@ -1,56 +1,15 @@
-# bdb-app
+# An online facsimile edition of the BDB Lexicon
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Since no complete open source edition of the Brown–Driver–Briggs Hebrew and Aramaic Lexicon (BDB) exists, this site serves as a first step toward that goal. 
 
-## Prerequisites
+![title](https://user-images.githubusercontent.com/1544859/59160481-fb2b6580-8a9b-11e9-98b9-6d9579307624.png)
 
-You will need the following things properly installed on your computer.
+While not every word is attested in the index, evey *root* is. So, even if you can't find the word you're looking for in the navigation sidebars, clicking on the closest tiem should get you close (probably to the right page). 
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with npm)
-* [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
+![word-nav](https://user-images.githubusercontent.com/1544859/59160541-8dcc0480-8a9c-11e9-87ab-454efb78c30a.png)
 
-## Installation
+The project is meant to include the entire printed edition, including the Preface, Aramaic, and Errata.
 
-* `git clone <repository-url>` this repository
-* `cd bdb-app`
-* `npm install`
+![section-nav](https://user-images.githubusercontent.com/1544859/59160540-8dcc0480-8a9c-11e9-8d0a-895df66e0584.png)
 
-## Running / Development
-
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Linting
-
-* `npm run lint:js`
-* `npm run lint:js -- --fix`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+The page images are served via [IIIF](https://iiif.io/) using [Cantaloupe](https://cantaloupe-project.github.io/) hosted on an underpowered Digital Ocean Droplet. Sorry.
