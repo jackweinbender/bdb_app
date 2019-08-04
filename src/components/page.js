@@ -10,7 +10,7 @@ export default ({ data }) => {
   const title = `BDB Page ${page.pagenum}`
   const next = `/page/${page.next}`
   const prev = `/page/${page.prev}`
-  const img_crop = page.img_crop || 'pct:9,2,82,96'
+  const img_crop = page.img_crop || "pct:9,2,82,96"
 
   let url = `http://iiif.semitics-archive.org/iiif/2/bdb_emory_page-${page.pagenum}.jp2/${img_crop}/pct:60/0/gray.jpg`
   return (
@@ -22,7 +22,8 @@ export default ({ data }) => {
       <Link to={next}>Next</Link>
       <img src={url} />
     </Layout>
-  )}
+  )
+}
 
 export const query = graphql`
   query($pagenum: String) {
