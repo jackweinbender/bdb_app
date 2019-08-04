@@ -1,26 +1,26 @@
 [
   {
-    "id": "preface",
+    "slug": "preface",
     "display": "Preface",
     "start_page": "v"
   },
   {
-    "id": "abbr",
+    "slug": "abbr",
     "display": "Abbreviations",
     "start_page": "xiii"
   },
   {
-    "id": "hebrew",
+    "slug": "hebrew",
     "display": "Hebrew",
     "start_page": "1"
   },
   {
-    "id": "aramaic",
+    "slug": "aramaic",
     "display": "Aramaic",
     "start_page": "1078"
   },
   {
-    "id": "errata",
+    "slug": "errata",
     "display": "Errata",
     "start_page": "1119"
   }
