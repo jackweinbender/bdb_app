@@ -13,14 +13,11 @@ export default ({ data }) => {
   const img_crop = page.img_crop || "pct:9,2,82,96"
 
   let url = `http://iiif.semitics-archive.org/iiif/2/bdb_emory_page-${page.pagenum}.jp2/${img_crop}/pct:60/0/gray.jpg`
+  
   return (
     <Layout>
       <SEO title={title} />
-      <h1>Page {page.pagenum}</h1>
-      <Link to={prev}>Prev</Link>
-      ||
-      <Link to={next}>Next</Link>
-      <img src={url} />
+      <h1>{title}</h1>
     </Layout>
   )
 }
