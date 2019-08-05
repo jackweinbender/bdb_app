@@ -1,321 +1,321 @@
 [
   {
-    "sort_order": 1,
+    "sort": 1,
     "language": "hebrew",
     "char": "א",
     "translit": "ʔ",
     "name": "aleph"
   },
   {
-    "sort_order": 2,
+    "sort": 2,
     "language": "hebrew",
     "char": "ב",
     "translit": "b",
     "name": "bet"
   },
   {
-    "sort_order": 3,
+    "sort": 3,
     "language": "hebrew",
     "char": "ג",
     "translit": "g",
     "name": "gimmel"
   },
   {
-    "sort_order": 4,
+    "sort": 4,
     "language": "hebrew",
     "char": "ד",
     "translit": "d",
     "name": "dalet"
   },
   {
-    "sort_order": 5,
+    "sort": 5,
     "language": "hebrew",
     "char": "ה",
     "translit": "h",
     "name": "he"
   },
   {
-    "sort_order": 6,
+    "sort": 6,
     "language": "hebrew",
     "char": "ו",
     "translit": "w",
     "name": "waw"
   },
   {
-    "sort_order": 7,
+    "sort": 7,
     "language": "hebrew",
     "char": "ז",
     "translit": "z",
     "name": "zayin"
   },
   {
-    "sort_order": 8,
+    "sort": 8,
     "language": "hebrew",
     "char": "ח",
     "translit": "ḥ",
     "name": "ḥet"
   },
   {
-    "sort_order": 9,
+    "sort": 9,
     "language": "hebrew",
     "char": "ט",
     "translit": "ṭ",
     "name": "ṭet"
   },
   {
-    "sort_order": 10,
+    "sort": 10,
     "language": "hebrew",
     "char": "י",
     "translit": "y",
     "name": "yod"
   },
   {
-    "sort_order": 11,
+    "sort": 11,
     "language": "hebrew",
     "char": "כ",
     "translit": "k",
     "name": "kap"
   },
   {
-    "sort_order": 12,
+    "sort": 12,
     "language": "hebrew",
     "char": "ל",
     "translit": "l",
     "name": "lamed"
   },
   {
-    "sort_order": 13,
+    "sort": 13,
     "language": "hebrew",
     "char": "מ",
     "translit": "m",
     "name": "mem"
   },
   {
-    "sort_order": 14,
+    "sort": 14,
     "language": "hebrew",
     "char": "נ",
     "translit": "n",
     "name": "nun"
   },
   {
-    "sort_order": 15,
+    "sort": 15,
     "language": "hebrew",
     "char": "ס",
     "translit": "s",
     "name": "samek"
   },
   {
-    "sort_order": 16,
+    "sort": 16,
     "language": "hebrew",
     "char": "ע",
     "translit": "ʕ",
     "name": "ayin"
   },
   {
-    "sort_order": 17,
+    "sort": 17,
     "language": "hebrew",
     "char": "פ",
     "translit": "p",
     "name": "pe"
   },
   {
-    "sort_order": 18,
+    "sort": 18,
     "language": "hebrew",
     "char": "צ",
     "translit": "ṣ",
     "name": "tsade"
   },
   {
-    "sort_order": 19,
+    "sort": 19,
     "language": "hebrew",
     "char": "ק",
     "translit": "q",
     "name": "qop"
   },
   {
-    "sort_order": 20,
+    "sort": 20,
     "language": "hebrew",
     "char": "ר",
     "translit": "r",
     "name": "resh"
   },
   {
-    "sort_order": 21,
+    "sort": 21,
     "language": "hebrew",
     "char": "שׂ",
     "translit": "ś",
     "name": "sin"
   },
   {
-    "sort_order": 22,
+    "sort": 22,
     "language": "hebrew",
     "char": "שׁ",
     "translit": "ṥ",
     "name": "shin"
   },
   {
-    "sort_order": 23,
+    "sort": 23,
     "language": "hebrew",
     "char": "ת",
     "translit": "t",
     "name": "tav"
   },
   {
-    "sort_order": 101,
+    "sort": 101,
     "language": "aramaic",
     "char": "א",
     "translit": "ʔ",
     "name": "aleph"
   },
   {
-    "sort_order": 102,
+    "sort": 102,
     "language": "aramaic",
     "char": "ב",
     "translit": "b",
     "name": "bet"
   },
   {
-    "sort_order": 103,
+    "sort": 103,
     "language": "aramaic",
     "char": "ג",
     "translit": "g",
     "name": "gimmel"
   },
   {
-    "sort_order": 104,
+    "sort": 104,
     "language": "aramaic",
     "char": "ד",
     "translit": "d",
     "name": "dalet"
   },
   {
-    "sort_order": 105,
+    "sort": 105,
     "language": "aramaic",
     "char": "ה",
     "translit": "h",
     "name": "he"
   },
   {
-    "sort_order": 106,
+    "sort": 106,
     "language": "aramaic",
     "char": "ו",
     "translit": "w",
     "name": "waw"
   },
   {
-    "sort_order": 107,
+    "sort": 107,
     "language": "aramaic",
     "char": "ז",
     "translit": "z",
     "name": "zayin"
   },
   {
-    "sort_order": 108,
+    "sort": 108,
     "language": "aramaic",
     "char": "ח",
     "translit": "ḥ",
     "name": "ḥet"
   },
   {
-    "sort_order": 109,
+    "sort": 109,
     "language": "aramaic",
     "char": "ט",
     "translit": "ṭ",
     "name": "ṭet"
   },
   {
-    "sort_order": 110,
+    "sort": 110,
     "language": "aramaic",
     "char": "י",
     "translit": "y",
     "name": "yod"
   },
   {
-    "sort_order": 111,
+    "sort": 111,
     "language": "aramaic",
     "char": "כ",
     "translit": "k",
     "name": "kap"
   },
   {
-    "sort_order": 112,
+    "sort": 112,
     "language": "aramaic",
     "char": "ל",
     "translit": "l",
     "name": "lamed"
   },
   {
-    "sort_order": 113,
+    "sort": 113,
     "language": "aramaic",
     "char": "מ",
     "translit": "m",
     "name": "mem"
   },
   {
-    "sort_order": 114,
+    "sort": 114,
     "language": "aramaic",
     "char": "נ",
     "translit": "n",
     "name": "nun"
   },
   {
-    "sort_order": 115,
+    "sort": 115,
     "language": "aramaic",
     "char": "ס",
     "translit": "s",
     "name": "samek"
   },
   {
-    "sort_order": 116,
+    "sort": 116,
     "language": "aramaic",
     "char": "ע",
     "translit": "ʕ",
     "name": "ayin"
   },
   {
-    "sort_order": 117,
+    "sort": 117,
     "language": "aramaic",
     "char": "פ",
     "translit": "p",
     "name": "pe"
   },
   {
-    "sort_order": 118,
+    "sort": 118,
     "language": "aramaic",
     "char": "צ",
     "translit": "ṣ",
     "name": "tsade"
   },
   {
-    "sort_order": 119,
+    "sort": 119,
     "language": "aramaic",
     "char": "ק",
     "translit": "q",
     "name": "qop"
   },
   {
-    "sort_order": 120,
+    "sort": 120,
     "language": "aramaic",
     "char": "ר",
     "translit": "r",
     "name": "resh"
   },
   {
-    "sort_order": 121,
+    "sort": 121,
     "language": "aramaic",
     "char": "שׂ",
     "translit": "ś",
     "name": "sin"
   },
   {
-    "sort_order": 122,
+    "sort": 122,
     "language": "aramaic",
     "char": "שׁ",
     "translit": "ṥ",
     "name": "shin"
   },
   {
-    "sort_order": 123,
+    "sort": 123,
     "language": "aramaic",
     "char": "ת",
     "translit": "t",

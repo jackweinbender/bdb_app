@@ -1,6 +1,6 @@
 [
   {
-    "pagenum": "title",
+    "slug": "title",
     "section": "title",
     "emory_page": 1,
     "next": "v",
@@ -8,112 +8,112 @@
     "img_crop": "full"
   },
   {
-    "pagenum": "v",
+    "slug": "v",
     "section": "preface",
     "emory_page": 3,
     "next": "vi",
     "prev": "title"
   },
   {
-    "pagenum": "vi",
+    "slug": "vi",
     "section": "preface",
     "emory_page": 4,
     "next": "vii",
     "prev": "v"
   },
   {
-    "pagenum": "vii",
+    "slug": "vii",
     "section": "preface",
     "emory_page": 5,
     "next": "viii",
     "prev": "vi"
   },
   {
-    "pagenum": "viii",
+    "slug": "viii",
     "section": "preface",
     "emory_page": 6,
     "next": "ix",
     "prev": "vii"
   },
   {
-    "pagenum": "ix",
+    "slug": "ix",
     "section": "preface",
     "emory_page": 7,
     "next": "x",
     "prev": "viii"
   },
   {
-    "pagenum": "x",
+    "slug": "x",
     "section": "preface",
     "emory_page": 8,
     "next": "xi",
     "prev": "ix"
   },
   {
-    "pagenum": "xi",
+    "slug": "xi",
     "section": "preface",
     "emory_page": 9,
     "next": "xii",
     "prev": "x"
   },
   {
-    "pagenum": "xii",
+    "slug": "xii",
     "section": "preface",
     "emory_page": 10,
     "next": "xiii",
     "prev": "xi"
   },
   {
-    "pagenum": "xiii",
+    "slug": "xiii",
     "section": "abbr",
     "emory_page": 11,
     "next": "xiv",
     "prev": "xii"
   },
   {
-    "pagenum": "xiv",
+    "slug": "xiv",
     "section": "abbr",
     "emory_page": 12,
     "next": "xv",
     "prev": "xiii"
   },
   {
-    "pagenum": "xv",
+    "slug": "xv",
     "section": "abbr",
     "emory_page": 13,
     "next": "xvi",
     "prev": "xiv"
   },
   {
-    "pagenum": "xvi",
+    "slug": "xvi",
     "section": "abbr",
     "emory_page": 14,
     "next": "xvii",
     "prev": "xv"
   },
   {
-    "pagenum": "xvii",
+    "slug": "xvii",
     "section": "abbr",
     "emory_page": 15,
     "next": "xviii",
     "prev": "xvi"
   },
   {
-    "pagenum": "xviii",
+    "slug": "xviii",
     "section": "abbr",
     "emory_page": 16,
     "next": "xix",
     "prev": "xvii"
   },
   {
-    "pagenum": "xix",
+    "slug": "xix",
     "section": "abbr",
     "emory_page": 17,
     "next": "1",
     "prev": "xviii"
   },
   {
-    "pagenum": "1",
+    "slug": "1",
     "section": "hebrew",
     "emory_page": 19,
     "next": "2",
@@ -121,7 +121,7 @@
     "first_root": 3
   },
   {
-    "pagenum": "2",
+    "slug": "2",
     "emory_page": 20,
     "first_root": 4,
     "section": "hebrew",
@@ -129,7 +129,7 @@
     "prev": "1"
   },
   {
-    "pagenum": "3",
+    "slug": "3",
     "emory_page": 21,
     "first_root": 5,
     "section": "hebrew",
@@ -137,7 +137,7 @@
     "prev": "2"
   },
   {
-    "pagenum": "4",
+    "slug": "4",
     "emory_page": 22,
     "first_root": 5,
     "section": "hebrew",
@@ -145,7 +145,7 @@
     "prev": "3"
   },
   {
-    "pagenum": "5",
+    "slug": "5",
     "emory_page": 23,
     "first_root": 10,
     "section": "hebrew",
@@ -153,7 +153,7 @@
     "prev": "4"
   },
   {
-    "pagenum": "6",
+    "slug": "6",
     "emory_page": 24,
     "first_root": 13,
     "section": "hebrew",
@@ -161,7 +161,7 @@
     "prev": "5"
   },
   {
-    "pagenum": "7",
+    "slug": "7",
     "emory_page": 25,
     "first_root": 18,
     "section": "hebrew",
@@ -169,7 +169,7 @@
     "prev": "6"
   },
   {
-    "pagenum": "8",
+    "slug": "8",
     "emory_page": 26,
     "first_root": 26,
     "section": "hebrew",
@@ -177,7 +177,7 @@
     "prev": "7"
   },
   {
-    "pagenum": "9",
+    "slug": "9",
     "emory_page": 27,
     "first_root": 29,
     "section": "hebrew",
@@ -185,7 +185,7 @@
     "prev": "8"
   },
   {
-    "pagenum": "10",
+    "slug": "10",
     "emory_page": 28,
     "first_root": 31,
     "section": "hebrew",
@@ -193,7 +193,7 @@
     "prev": "9"
   },
   {
-    "pagenum": "11",
+    "slug": "11",
     "emory_page": 29,
     "first_root": 31,
     "section": "hebrew",
@@ -201,7 +201,7 @@
     "prev": "10"
   },
   {
-    "pagenum": "12",
+    "slug": "12",
     "emory_page": 30,
     "first_root": 34,
     "section": "hebrew",
@@ -209,7 +209,7 @@
     "prev": "11"
   },
   {
-    "pagenum": "13",
+    "slug": "13",
     "emory_page": 31,
     "first_root": 38,
     "section": "hebrew",
@@ -217,7 +217,7 @@
     "prev": "12"
   },
   {
-    "pagenum": "14",
+    "slug": "14",
     "emory_page": 32,
     "first_root": 41,
     "section": "hebrew",
@@ -225,7 +225,7 @@
     "prev": "13"
   },
   {
-    "pagenum": "15",
+    "slug": "15",
     "emory_page": 33,
     "first_root": 44,
     "section": "hebrew",
@@ -233,7 +233,7 @@
     "prev": "14"
   },
   {
-    "pagenum": "16",
+    "slug": "16",
     "emory_page": 34,
     "first_root": 46,
     "section": "hebrew",
@@ -241,7 +241,7 @@
     "prev": "15"
   },
   {
-    "pagenum": "17",
+    "slug": "17",
     "emory_page": 35,
     "first_root": 50,
     "section": "hebrew",
@@ -249,7 +249,7 @@
     "prev": "16"
   },
   {
-    "pagenum": "18",
+    "slug": "18",
     "emory_page": 36,
     "first_root": 50,
     "section": "hebrew",
@@ -257,7 +257,7 @@
     "prev": "17"
   },
   {
-    "pagenum": "19",
+    "slug": "19",
     "emory_page": 37,
     "first_root": 53,
     "section": "hebrew",
@@ -265,7 +265,7 @@
     "prev": "18"
   },
   {
-    "pagenum": "20",
+    "slug": "20",
     "emory_page": 38,
     "first_root": 54,
     "section": "hebrew",
@@ -273,7 +273,7 @@
     "prev": "19"
   },
   {
-    "pagenum": "21",
+    "slug": "21",
     "emory_page": 39,
     "first_root": 56,
     "section": "hebrew",
@@ -281,7 +281,7 @@
     "prev": "20"
   },
   {
-    "pagenum": "22",
+    "slug": "22",
     "emory_page": 40,
     "first_root": 57,
     "section": "hebrew",
@@ -289,7 +289,7 @@
     "prev": "21"
   },
   {
-    "pagenum": "23",
+    "slug": "23",
     "emory_page": 41,
     "first_root": 59,
     "section": "hebrew",
@@ -297,7 +297,7 @@
     "prev": "22"
   },
   {
-    "pagenum": "24",
+    "slug": "24",
     "emory_page": 42,
     "first_root": 60,
     "section": "hebrew",
@@ -305,7 +305,7 @@
     "prev": "23"
   },
   {
-    "pagenum": "25",
+    "slug": "25",
     "emory_page": 43,
     "first_root": 62,
     "section": "hebrew",
@@ -313,7 +313,7 @@
     "prev": "24"
   },
   {
-    "pagenum": "26",
+    "slug": "26",
     "emory_page": 44,
     "first_root": 63,
     "section": "hebrew",
@@ -321,7 +321,7 @@
     "prev": "25"
   },
   {
-    "pagenum": "27",
+    "slug": "27",
     "emory_page": 45,
     "first_root": 63,
     "section": "hebrew",
@@ -329,7 +329,7 @@
     "prev": "26"
   },
   {
-    "pagenum": "28",
+    "slug": "28",
     "emory_page": 46,
     "first_root": 66,
     "section": "hebrew",
@@ -337,7 +337,7 @@
     "prev": "27"
   },
   {
-    "pagenum": "29",
+    "slug": "29",
     "emory_page": 47,
     "first_root": 68,
     "section": "hebrew",
@@ -345,7 +345,7 @@
     "prev": "28"
   },
   {
-    "pagenum": "30",
+    "slug": "30",
     "emory_page": 48,
     "first_root": 68,
     "section": "hebrew",
@@ -353,7 +353,7 @@
     "prev": "29"
   },
   {
-    "pagenum": "31",
+    "slug": "31",
     "emory_page": 49,
     "first_root": 71,
     "section": "hebrew",
@@ -361,7 +361,7 @@
     "prev": "30"
   },
   {
-    "pagenum": "32",
+    "slug": "32",
     "emory_page": 50,
     "first_root": 73,
     "section": "hebrew",
@@ -369,7 +369,7 @@
     "prev": "31"
   },
   {
-    "pagenum": "33",
+    "slug": "33",
     "emory_page": 51,
     "first_root": 77,
     "section": "hebrew",
@@ -377,7 +377,7 @@
     "prev": "32"
   },
   {
-    "pagenum": "34",
+    "slug": "34",
     "emory_page": 52,
     "first_root": 78,
     "section": "hebrew",
@@ -385,7 +385,7 @@
     "prev": "33"
   },
   {
-    "pagenum": "35",
+    "slug": "35",
     "emory_page": 53,
     "first_root": 79,
     "section": "hebrew",
@@ -393,7 +393,7 @@
     "prev": "34"
   },
   {
-    "pagenum": "36",
+    "slug": "36",
     "emory_page": 54,
     "first_root": 79,
     "section": "hebrew",
@@ -401,7 +401,7 @@
     "prev": "35"
   },
   {
-    "pagenum": "37",
+    "slug": "37",
     "emory_page": 55,
     "first_root": 81,
     "section": "hebrew",
@@ -409,7 +409,7 @@
     "prev": "36"
   },
   {
-    "pagenum": "38",
+    "slug": "38",
     "emory_page": 56,
     "first_root": 85,
     "section": "hebrew",
@@ -417,7 +417,7 @@
     "prev": "37"
   },
   {
-    "pagenum": "39",
+    "slug": "39",
     "emory_page": 57,
     "first_root": 87,
     "section": "hebrew",
@@ -425,7 +425,7 @@
     "prev": "38"
   },
   {
-    "pagenum": "40",
+    "slug": "40",
     "emory_page": 58,
     "first_root": 87,
     "section": "hebrew",
@@ -433,7 +433,7 @@
     "prev": "39"
   },
   {
-    "pagenum": "41",
+    "slug": "41",
     "emory_page": 59,
     "first_root": 90,
     "section": "hebrew",
@@ -441,7 +441,7 @@
     "prev": "40"
   },
   {
-    "pagenum": "42",
+    "slug": "42",
     "emory_page": 60,
     "first_root": 90,
     "section": "hebrew",
@@ -449,7 +449,7 @@
     "prev": "41"
   },
   {
-    "pagenum": "43",
+    "slug": "43",
     "emory_page": 61,
     "first_root": 90,
     "section": "hebrew",
@@ -457,7 +457,7 @@
     "prev": "42"
   },
   {
-    "pagenum": "44",
+    "slug": "44",
     "emory_page": 62,
     "first_root": 90,
     "section": "hebrew",
@@ -465,7 +465,7 @@
     "prev": "43"
   },
   {
-    "pagenum": "45",
+    "slug": "45",
     "emory_page": 63,
     "first_root": 90,
     "section": "hebrew",
@@ -473,7 +473,7 @@
     "prev": "44"
   },
   {
-    "pagenum": "46",
+    "slug": "46",
     "emory_page": 64,
     "first_root": 92,
     "section": "hebrew",
@@ -481,7 +481,7 @@
     "prev": "45"
   },
   {
-    "pagenum": "47",
+    "slug": "47",
     "emory_page": 65,
     "first_root": 96,
     "section": "hebrew",
@@ -489,7 +489,7 @@
     "prev": "46"
   },
   {
-    "pagenum": "48",
+    "slug": "48",
     "emory_page": 66,
     "first_root": 98,
     "section": "hebrew",
@@ -497,7 +497,7 @@
     "prev": "47"
   },
   {
-    "pagenum": "49",
+    "slug": "49",
     "emory_page": 67,
     "first_root": 99,
     "section": "hebrew",
@@ -505,7 +505,7 @@
     "prev": "48"
   },
   {
-    "pagenum": "50",
+    "slug": "50",
     "emory_page": 68,
     "first_root": 99,
     "section": "hebrew",
@@ -513,7 +513,7 @@
     "prev": "49"
   },
   {
-    "pagenum": "51",
+    "slug": "51",
     "emory_page": 69,
     "first_root": 102,
     "section": "hebrew",
@@ -521,7 +521,7 @@
     "prev": "50"
   },
   {
-    "pagenum": "52",
+    "slug": "52",
     "emory_page": 70,
     "first_root": 103,
     "section": "hebrew",
@@ -529,7 +529,7 @@
     "prev": "51"
   },
   {
-    "pagenum": "53",
+    "slug": "53",
     "emory_page": 71,
     "first_root": 103,
     "section": "hebrew",
@@ -537,7 +537,7 @@
     "prev": "52"
   },
   {
-    "pagenum": "54",
+    "slug": "54",
     "emory_page": 72,
     "first_root": 104,
     "section": "hebrew",
@@ -545,7 +545,7 @@
     "prev": "53"
   },
   {
-    "pagenum": "55",
+    "slug": "55",
     "emory_page": 73,
     "first_root": 105,
     "section": "hebrew",
@@ -553,7 +553,7 @@
     "prev": "54"
   },
   {
-    "pagenum": "56",
+    "slug": "56",
     "emory_page": 74,
     "first_root": 105,
     "section": "hebrew",
@@ -561,7 +561,7 @@
     "prev": "55"
   },
   {
-    "pagenum": "57",
+    "slug": "57",
     "emory_page": 75,
     "first_root": 105,
     "section": "hebrew",
@@ -569,7 +569,7 @@
     "prev": "56"
   },
   {
-    "pagenum": "58",
+    "slug": "58",
     "emory_page": 76,
     "first_root": 111,
     "section": "hebrew",
@@ -577,7 +577,7 @@
     "prev": "57"
   },
   {
-    "pagenum": "59",
+    "slug": "59",
     "emory_page": 77,
     "first_root": 115,
     "section": "hebrew",
@@ -585,7 +585,7 @@
     "prev": "58"
   },
   {
-    "pagenum": "60",
+    "slug": "60",
     "emory_page": 78,
     "first_root": 120,
     "section": "hebrew",
@@ -593,7 +593,7 @@
     "prev": "59"
   },
   {
-    "pagenum": "61",
+    "slug": "61",
     "emory_page": 79,
     "first_root": 124,
     "section": "hebrew",
@@ -601,7 +601,7 @@
     "prev": "60"
   },
   {
-    "pagenum": "62",
+    "slug": "62",
     "emory_page": 80,
     "first_root": 126,
     "section": "hebrew",
@@ -609,7 +609,7 @@
     "prev": "61"
   },
   {
-    "pagenum": "63",
+    "slug": "63",
     "emory_page": 81,
     "first_root": 127,
     "section": "hebrew",
@@ -617,7 +617,7 @@
     "prev": "62"
   },
   {
-    "pagenum": "64",
+    "slug": "64",
     "emory_page": 82,
     "first_root": 128,
     "section": "hebrew",
@@ -625,7 +625,7 @@
     "prev": "63"
   },
   {
-    "pagenum": "65",
+    "slug": "65",
     "emory_page": 83,
     "first_root": 129,
     "section": "hebrew",
@@ -633,7 +633,7 @@
     "prev": "64"
   },
   {
-    "pagenum": "66",
+    "slug": "66",
     "emory_page": 84,
     "first_root": 133,
     "section": "hebrew",
@@ -641,7 +641,7 @@
     "prev": "65"
   },
   {
-    "pagenum": "67",
+    "slug": "67",
     "emory_page": 85,
     "first_root": 136,
     "section": "hebrew",
@@ -649,7 +649,7 @@
     "prev": "66"
   },
   {
-    "pagenum": "68",
+    "slug": "68",
     "emory_page": 86,
     "first_root": 139,
     "section": "hebrew",
@@ -657,7 +657,7 @@
     "prev": "67"
   },
   {
-    "pagenum": "69",
+    "slug": "69",
     "emory_page": 87,
     "first_root": 142,
     "section": "hebrew",
@@ -665,7 +665,7 @@
     "prev": "68"
   },
   {
-    "pagenum": "70",
+    "slug": "70",
     "emory_page": 88,
     "first_root": 144,
     "section": "hebrew",
@@ -673,7 +673,7 @@
     "prev": "69"
   },
   {
-    "pagenum": "71",
+    "slug": "71",
     "emory_page": 89,
     "first_root": 145,
     "section": "hebrew",
@@ -681,7 +681,7 @@
     "prev": "70"
   },
   {
-    "pagenum": "72",
+    "slug": "72",
     "emory_page": 90,
     "first_root": 148,
     "section": "hebrew",
@@ -689,7 +689,7 @@
     "prev": "71"
   },
   {
-    "pagenum": "73",
+    "slug": "73",
     "emory_page": 91,
     "first_root": 149,
     "section": "hebrew",
@@ -697,7 +697,7 @@
     "prev": "72"
   },
   {
-    "pagenum": "74",
+    "slug": "74",
     "emory_page": 92,
     "first_root": 152,
     "section": "hebrew",
@@ -705,7 +705,7 @@
     "prev": "73"
   },
   {
-    "pagenum": "75",
+    "slug": "75",
     "emory_page": 93,
     "first_root": 154,
     "section": "hebrew",
@@ -713,7 +713,7 @@
     "prev": "74"
   },
   {
-    "pagenum": "76",
+    "slug": "76",
     "emory_page": 94,
     "first_root": 156,
     "section": "hebrew",
@@ -721,7 +721,7 @@
     "prev": "75"
   },
   {
-    "pagenum": "77",
+    "slug": "77",
     "emory_page": 95,
     "first_root": 158,
     "section": "hebrew",
@@ -729,7 +729,7 @@
     "prev": "76"
   },
   {
-    "pagenum": "78",
+    "slug": "78",
     "emory_page": 96,
     "first_root": 160,
     "section": "hebrew",
@@ -737,7 +737,7 @@
     "prev": "77"
   },
   {
-    "pagenum": "79",
+    "slug": "79",
     "emory_page": 97,
     "first_root": 162,
     "section": "hebrew",
@@ -745,7 +745,7 @@
     "prev": "78"
   },
   {
-    "pagenum": "80",
+    "slug": "80",
     "emory_page": 98,
     "first_root": 166,
     "section": "hebrew",
@@ -753,7 +753,7 @@
     "prev": "79"
   },
   {
-    "pagenum": "81",
+    "slug": "81",
     "emory_page": 99,
     "first_root": 167,
     "section": "hebrew",
@@ -761,7 +761,7 @@
     "prev": "80"
   },
   {
-    "pagenum": "82",
+    "slug": "82",
     "emory_page": 100,
     "first_root": 167,
     "section": "hebrew",
@@ -769,7 +769,7 @@
     "prev": "81"
   },
   {
-    "pagenum": "83",
+    "slug": "83",
     "emory_page": 101,
     "first_root": 167,
     "section": "hebrew",
@@ -777,7 +777,7 @@
     "prev": "82"
   },
   {
-    "pagenum": "84",
+    "slug": "84",
     "emory_page": 102,
     "first_root": 169,
     "section": "hebrew",
@@ -785,7 +785,7 @@
     "prev": "83"
   },
   {
-    "pagenum": "85",
+    "slug": "85",
     "emory_page": 103,
     "first_root": 170,
     "section": "hebrew",
@@ -793,7 +793,7 @@
     "prev": "84"
   },
   {
-    "pagenum": "86",
+    "slug": "86",
     "emory_page": 104,
     "first_root": 170,
     "section": "hebrew",
@@ -801,7 +801,7 @@
     "prev": "85"
   },
   {
-    "pagenum": "87",
+    "slug": "87",
     "emory_page": 105,
     "first_root": 172,
     "section": "hebrew",
@@ -809,7 +809,7 @@
     "prev": "86"
   },
   {
-    "pagenum": "88",
+    "slug": "88",
     "emory_page": 106,
     "first_root": 175,
     "section": "hebrew",
@@ -817,7 +817,7 @@
     "prev": "87"
   },
   {
-    "pagenum": "89",
+    "slug": "89",
     "emory_page": 107,
     "first_root": 175,
     "section": "hebrew",
@@ -825,7 +825,7 @@
     "prev": "88"
   },
   {
-    "pagenum": "90",
+    "slug": "90",
     "emory_page": 108,
     "first_root": 175,
     "section": "hebrew",
@@ -833,7 +833,7 @@
     "prev": "89"
   },
   {
-    "pagenum": "91",
+    "slug": "91",
     "emory_page": 109,
     "first_root": 176,
     "section": "hebrew",
@@ -841,7 +841,7 @@
     "prev": "90"
   },
   {
-    "pagenum": "92",
+    "slug": "92",
     "emory_page": 110,
     "first_root": 177,
     "section": "hebrew",
@@ -849,7 +849,7 @@
     "prev": "91"
   },
   {
-    "pagenum": "93",
+    "slug": "93",
     "emory_page": 111,
     "first_root": 178,
     "section": "hebrew",
@@ -857,7 +857,7 @@
     "prev": "92"
   },
   {
-    "pagenum": "94",
+    "slug": "94",
     "emory_page": 112,
     "first_root": 179,
     "section": "hebrew",
@@ -865,7 +865,7 @@
     "prev": "93"
   },
   {
-    "pagenum": "95",
+    "slug": "95",
     "emory_page": 113,
     "first_root": 181,
     "section": "hebrew",
@@ -873,7 +873,7 @@
     "prev": "94"
   },
   {
-    "pagenum": "96",
+    "slug": "96",
     "emory_page": 114,
     "first_root": 185,
     "section": "hebrew",
@@ -881,7 +881,7 @@
     "prev": "95"
   },
   {
-    "pagenum": "97",
+    "slug": "97",
     "emory_page": 115,
     "first_root": 189,
     "section": "hebrew",
@@ -889,7 +889,7 @@
     "prev": "96"
   },
   {
-    "pagenum": "98",
+    "slug": "98",
     "emory_page": 116,
     "first_root": 189,
     "section": "hebrew",
@@ -897,7 +897,7 @@
     "prev": "97"
   },
   {
-    "pagenum": "99",
+    "slug": "99",
     "emory_page": 117,
     "first_root": 189,
     "section": "hebrew",
@@ -905,7 +905,7 @@
     "prev": "98"
   },
   {
-    "pagenum": "100",
+    "slug": "100",
     "emory_page": 118,
     "first_root": 192,
     "section": "hebrew",
@@ -913,7 +913,7 @@
     "prev": "99"
   },
   {
-    "pagenum": "101",
+    "slug": "101",
     "emory_page": 119,
     "first_root": 197,
     "section": "hebrew",
@@ -921,7 +921,7 @@
     "prev": "100"
   },
   {
-    "pagenum": "102",
+    "slug": "102",
     "emory_page": 120,
     "first_root": 200,
     "section": "hebrew",
@@ -929,7 +929,7 @@
     "prev": "101"
   },
   {
-    "pagenum": "103",
+    "slug": "103",
     "emory_page": 121,
     "first_root": 206,
     "section": "hebrew",
@@ -937,7 +937,7 @@
     "prev": "102"
   },
   {
-    "pagenum": "104",
+    "slug": "104",
     "emory_page": 122,
     "first_root": 207,
     "section": "hebrew",
@@ -945,7 +945,7 @@
     "prev": "103"
   },
   {
-    "pagenum": "105",
+    "slug": "105",
     "emory_page": 123,
     "first_root": 211,
     "section": "hebrew",
@@ -953,7 +953,7 @@
     "prev": "104"
   },
   {
-    "pagenum": "106",
+    "slug": "106",
     "emory_page": 124,
     "first_root": 214,
     "section": "hebrew",
@@ -961,7 +961,7 @@
     "prev": "105"
   },
   {
-    "pagenum": "107",
+    "slug": "107",
     "emory_page": 125,
     "first_root": 214,
     "section": "hebrew",
@@ -969,7 +969,7 @@
     "prev": "106"
   },
   {
-    "pagenum": "108",
+    "slug": "108",
     "emory_page": 126,
     "first_root": 215,
     "section": "hebrew",
@@ -977,7 +977,7 @@
     "prev": "107"
   },
   {
-    "pagenum": "109",
+    "slug": "109",
     "emory_page": 127,
     "first_root": 215,
     "section": "hebrew",
@@ -985,7 +985,7 @@
     "prev": "108"
   },
   {
-    "pagenum": "110",
+    "slug": "110",
     "emory_page": 128,
     "first_root": 215,
     "section": "hebrew",
@@ -993,7 +993,7 @@
     "prev": "109"
   },
   {
-    "pagenum": "111",
+    "slug": "111",
     "emory_page": 129,
     "first_root": 215,
     "section": "hebrew",
@@ -1001,7 +1001,7 @@
     "prev": "110"
   },
   {
-    "pagenum": "112",
+    "slug": "112",
     "emory_page": 130,
     "first_root": 215,
     "section": "hebrew",
@@ -1009,7 +1009,7 @@
     "prev": "111"
   },
   {
-    "pagenum": "113",
+    "slug": "113",
     "emory_page": 131,
     "first_root": 216,
     "section": "hebrew",
@@ -1017,7 +1017,7 @@
     "prev": "112"
   },
   {
-    "pagenum": "114",
+    "slug": "114",
     "emory_page": 132,
     "first_root": 218,
     "section": "hebrew",
@@ -1025,7 +1025,7 @@
     "prev": "113"
   },
   {
-    "pagenum": "115",
+    "slug": "115",
     "emory_page": 133,
     "first_root": 219,
     "section": "hebrew",
@@ -1033,7 +1033,7 @@
     "prev": "114"
   },
   {
-    "pagenum": "116",
+    "slug": "116",
     "emory_page": 134,
     "first_root": 219,
     "section": "hebrew",
@@ -1041,7 +1041,7 @@
     "prev": "115"
   },
   {
-    "pagenum": "117",
+    "slug": "117",
     "emory_page": 135,
     "first_root": 222,
     "section": "hebrew",
@@ -1049,7 +1049,7 @@
     "prev": "116"
   },
   {
-    "pagenum": "118",
+    "slug": "118",
     "emory_page": 136,
     "first_root": 225,
     "section": "hebrew",
@@ -1057,7 +1057,7 @@
     "prev": "117"
   },
   {
-    "pagenum": "119",
+    "slug": "119",
     "emory_page": 137,
     "first_root": 226,
     "section": "hebrew",
@@ -1065,7 +1065,7 @@
     "prev": "118"
   },
   {
-    "pagenum": "120",
+    "slug": "120",
     "emory_page": 138,
     "first_root": 226,
     "section": "hebrew",
@@ -1073,7 +1073,7 @@
     "prev": "119"
   },
   {
-    "pagenum": "121",
+    "slug": "121",
     "emory_page": 139,
     "first_root": 226,
     "section": "hebrew",
@@ -1081,7 +1081,7 @@
     "prev": "120"
   },
   {
-    "pagenum": "122",
+    "slug": "122",
     "emory_page": 140,
     "first_root": 226,
     "section": "hebrew",
@@ -1089,7 +1089,7 @@
     "prev": "121"
   },
   {
-    "pagenum": "123",
+    "slug": "123",
     "emory_page": 141,
     "first_root": 226,
     "section": "hebrew",
@@ -1097,7 +1097,7 @@
     "prev": "122"
   },
   {
-    "pagenum": "124",
+    "slug": "124",
     "emory_page": 142,
     "first_root": 227,
     "section": "hebrew",
@@ -1105,7 +1105,7 @@
     "prev": "123"
   },
   {
-    "pagenum": "125",
+    "slug": "125",
     "emory_page": 143,
     "first_root": 227,
     "section": "hebrew",
@@ -1113,7 +1113,7 @@
     "prev": "124"
   },
   {
-    "pagenum": "126",
+    "slug": "126",
     "emory_page": 144,
     "first_root": 232,
     "section": "hebrew",
@@ -1121,7 +1121,7 @@
     "prev": "125"
   },
   {
-    "pagenum": "127",
+    "slug": "127",
     "emory_page": 145,
     "first_root": 234,
     "section": "hebrew",
@@ -1129,7 +1129,7 @@
     "prev": "126"
   },
   {
-    "pagenum": "128",
+    "slug": "128",
     "emory_page": 146,
     "first_root": 235,
     "section": "hebrew",
@@ -1137,7 +1137,7 @@
     "prev": "127"
   },
   {
-    "pagenum": "129",
+    "slug": "129",
     "emory_page": 147,
     "first_root": 236,
     "section": "hebrew",
@@ -1145,7 +1145,7 @@
     "prev": "128"
   },
   {
-    "pagenum": "130",
+    "slug": "130",
     "emory_page": 148,
     "first_root": 241,
     "section": "hebrew",
@@ -1153,7 +1153,7 @@
     "prev": "129"
   },
   {
-    "pagenum": "131",
+    "slug": "131",
     "emory_page": 149,
     "first_root": 243,
     "section": "hebrew",
@@ -1161,7 +1161,7 @@
     "prev": "130"
   },
   {
-    "pagenum": "132",
+    "slug": "132",
     "emory_page": 150,
     "first_root": 245,
     "section": "hebrew",
@@ -1169,7 +1169,7 @@
     "prev": "131"
   },
   {
-    "pagenum": "133",
+    "slug": "133",
     "emory_page": 151,
     "first_root": 246,
     "section": "hebrew",
@@ -1177,7 +1177,7 @@
     "prev": "132"
   },
   {
-    "pagenum": "134",
+    "slug": "134",
     "emory_page": 152,
     "first_root": 247,
     "section": "hebrew",
@@ -1185,7 +1185,7 @@
     "prev": "133"
   },
   {
-    "pagenum": "135",
+    "slug": "135",
     "emory_page": 153,
     "first_root": 250,
     "section": "hebrew",
@@ -1193,7 +1193,7 @@
     "prev": "134"
   },
   {
-    "pagenum": "136",
+    "slug": "136",
     "emory_page": 154,
     "first_root": 252,
     "section": "hebrew",
@@ -1201,7 +1201,7 @@
     "prev": "135"
   },
   {
-    "pagenum": "137",
+    "slug": "137",
     "emory_page": 155,
     "first_root": 254,
     "section": "hebrew",
@@ -1209,7 +1209,7 @@
     "prev": "136"
   },
   {
-    "pagenum": "138",
+    "slug": "138",
     "emory_page": 156,
     "first_root": 255,
     "section": "hebrew",
@@ -1217,7 +1217,7 @@
     "prev": "137"
   },
   {
-    "pagenum": "139",
+    "slug": "139",
     "emory_page": 157,
     "first_root": 255,
     "section": "hebrew",
@@ -1225,7 +1225,7 @@
     "prev": "138"
   },
   {
-    "pagenum": "140",
+    "slug": "140",
     "emory_page": 158,
     "first_root": 258,
     "section": "hebrew",
@@ -1233,7 +1233,7 @@
     "prev": "139"
   },
   {
-    "pagenum": "141",
+    "slug": "141",
     "emory_page": 159,
     "first_root": 260,
     "section": "hebrew",
@@ -1241,7 +1241,7 @@
     "prev": "140"
   },
   {
-    "pagenum": "142",
+    "slug": "142",
     "emory_page": 160,
     "first_root": 261,
     "section": "hebrew",
@@ -1249,7 +1249,7 @@
     "prev": "141"
   },
   {
-    "pagenum": "143",
+    "slug": "143",
     "emory_page": 161,
     "first_root": 265,
     "section": "hebrew",
@@ -1257,7 +1257,7 @@
     "prev": "142"
   },
   {
-    "pagenum": "144",
+    "slug": "144",
     "emory_page": 162,
     "first_root": 270,
     "section": "hebrew",
@@ -1265,7 +1265,7 @@
     "prev": "143"
   },
   {
-    "pagenum": "145",
+    "slug": "145",
     "emory_page": 163,
     "first_root": 271,
     "section": "hebrew",
@@ -1273,7 +1273,7 @@
     "prev": "144"
   },
   {
-    "pagenum": "146",
+    "slug": "146",
     "emory_page": 164,
     "first_root": 276,
     "section": "hebrew",
@@ -1281,7 +1281,7 @@
     "prev": "145"
   },
   {
-    "pagenum": "147",
+    "slug": "147",
     "emory_page": 165,
     "first_root": 278,
     "section": "hebrew",
@@ -1289,7 +1289,7 @@
     "prev": "146"
   },
   {
-    "pagenum": "148",
+    "slug": "148",
     "emory_page": 166,
     "first_root": 280,
     "section": "hebrew",
@@ -1297,7 +1297,7 @@
     "prev": "147"
   },
   {
-    "pagenum": "149",
+    "slug": "149",
     "emory_page": 167,
     "first_root": 281,
     "section": "hebrew",
@@ -1305,7 +1305,7 @@
     "prev": "148"
   },
   {
-    "pagenum": "150",
+    "slug": "150",
     "emory_page": 168,
     "first_root": 282,
     "section": "hebrew",
@@ -1313,7 +1313,7 @@
     "prev": "149"
   },
   {
-    "pagenum": "151",
+    "slug": "151",
     "emory_page": 169,
     "first_root": 283,
     "section": "hebrew",
@@ -1321,7 +1321,7 @@
     "prev": "150"
   },
   {
-    "pagenum": "152",
+    "slug": "152",
     "emory_page": 170,
     "first_root": 285,
     "section": "hebrew",
@@ -1329,7 +1329,7 @@
     "prev": "151"
   },
   {
-    "pagenum": "153",
+    "slug": "153",
     "emory_page": 171,
     "first_root": 285,
     "section": "hebrew",
@@ -1337,7 +1337,7 @@
     "prev": "152"
   },
   {
-    "pagenum": "154",
+    "slug": "154",
     "emory_page": 172,
     "first_root": 288,
     "section": "hebrew",
@@ -1345,7 +1345,7 @@
     "prev": "153"
   },
   {
-    "pagenum": "155",
+    "slug": "155",
     "emory_page": 173,
     "first_root": 293,
     "section": "hebrew",
@@ -1353,7 +1353,7 @@
     "prev": "154"
   },
   {
-    "pagenum": "156",
+    "slug": "156",
     "emory_page": 174,
     "first_root": 296,
     "section": "hebrew",
@@ -1361,7 +1361,7 @@
     "prev": "155"
   },
   {
-    "pagenum": "157",
+    "slug": "157",
     "emory_page": 175,
     "first_root": 300,
     "section": "hebrew",
@@ -1369,7 +1369,7 @@
     "prev": "156"
   },
   {
-    "pagenum": "158",
+    "slug": "158",
     "emory_page": 176,
     "first_root": 302,
     "section": "hebrew",
@@ -1377,7 +1377,7 @@
     "prev": "157"
   },
   {
-    "pagenum": "159",
+    "slug": "159",
     "emory_page": 177,
     "first_root": 306,
     "section": "hebrew",
@@ -1385,7 +1385,7 @@
     "prev": "158"
   },
   {
-    "pagenum": "160",
+    "slug": "160",
     "emory_page": 178,
     "first_root": 311,
     "section": "hebrew",
@@ -1393,7 +1393,7 @@
     "prev": "159"
   },
   {
-    "pagenum": "161",
+    "slug": "161",
     "emory_page": 179,
     "first_root": 316,
     "section": "hebrew",
@@ -1401,7 +1401,7 @@
     "prev": "160"
   },
   {
-    "pagenum": "162",
+    "slug": "162",
     "emory_page": 180,
     "first_root": 321,
     "section": "hebrew",
@@ -1409,7 +1409,7 @@
     "prev": "161"
   },
   {
-    "pagenum": "163",
+    "slug": "163",
     "emory_page": 181,
     "first_root": 321,
     "section": "hebrew",
@@ -1417,7 +1417,7 @@
     "prev": "162"
   },
   {
-    "pagenum": "164",
+    "slug": "164",
     "emory_page": 182,
     "first_root": 324,
     "section": "hebrew",
@@ -1425,7 +1425,7 @@
     "prev": "163"
   },
   {
-    "pagenum": "165",
+    "slug": "165",
     "emory_page": 183,
     "first_root": 324,
     "section": "hebrew",
@@ -1433,7 +1433,7 @@
     "prev": "164"
   },
   {
-    "pagenum": "166",
+    "slug": "166",
     "emory_page": 184,
     "first_root": 326,
     "section": "hebrew",
@@ -1441,7 +1441,7 @@
     "prev": "165"
   },
   {
-    "pagenum": "167",
+    "slug": "167",
     "emory_page": 185,
     "first_root": 329,
     "section": "hebrew",
@@ -1449,7 +1449,7 @@
     "prev": "166"
   },
   {
-    "pagenum": "168",
+    "slug": "168",
     "emory_page": 186,
     "first_root": 331,
     "section": "hebrew",
@@ -1457,7 +1457,7 @@
     "prev": "167"
   },
   {
-    "pagenum": "169",
+    "slug": "169",
     "emory_page": 187,
     "first_root": 331,
     "section": "hebrew",
@@ -1465,7 +1465,7 @@
     "prev": "168"
   },
   {
-    "pagenum": "170",
+    "slug": "170",
     "emory_page": 188,
     "first_root": 336,
     "section": "hebrew",
@@ -1473,7 +1473,7 @@
     "prev": "169"
   },
   {
-    "pagenum": "171",
+    "slug": "171",
     "emory_page": 189,
     "first_root": 337,
     "section": "hebrew",
@@ -1481,7 +1481,7 @@
     "prev": "170"
   },
   {
-    "pagenum": "172",
+    "slug": "172",
     "emory_page": 190,
     "first_root": 341,
     "section": "hebrew",
@@ -1489,7 +1489,7 @@
     "prev": "171"
   },
   {
-    "pagenum": "173",
+    "slug": "173",
     "emory_page": 191,
     "first_root": 346,
     "section": "hebrew",
@@ -1497,7 +1497,7 @@
     "prev": "172"
   },
   {
-    "pagenum": "174",
+    "slug": "174",
     "emory_page": 192,
     "first_root": 347,
     "section": "hebrew",
@@ -1505,7 +1505,7 @@
     "prev": "173"
   },
   {
-    "pagenum": "175",
+    "slug": "175",
     "emory_page": 193,
     "first_root": 351,
     "section": "hebrew",
@@ -1513,7 +1513,7 @@
     "prev": "174"
   },
   {
-    "pagenum": "176",
+    "slug": "176",
     "emory_page": 194,
     "first_root": 355,
     "section": "hebrew",
@@ -1521,7 +1521,7 @@
     "prev": "175"
   },
   {
-    "pagenum": "177",
+    "slug": "177",
     "emory_page": 195,
     "first_root": 356,
     "section": "hebrew",
@@ -1529,7 +1529,7 @@
     "prev": "176"
   },
   {
-    "pagenum": "178",
+    "slug": "178",
     "emory_page": 196,
     "first_root": 362,
     "section": "hebrew",
@@ -1537,7 +1537,7 @@
     "prev": "177"
   },
   {
-    "pagenum": "179",
+    "slug": "179",
     "emory_page": 197,
     "first_root": 366,
     "section": "hebrew",
@@ -1545,7 +1545,7 @@
     "prev": "178"
   },
   {
-    "pagenum": "180",
+    "slug": "180",
     "emory_page": 198,
     "first_root": 367,
     "section": "hebrew",
@@ -1553,7 +1553,7 @@
     "prev": "179"
   },
   {
-    "pagenum": "181",
+    "slug": "181",
     "emory_page": 199,
     "first_root": 367,
     "section": "hebrew",
@@ -1561,7 +1561,7 @@
     "prev": "180"
   },
   {
-    "pagenum": "182",
+    "slug": "182",
     "emory_page": 200,
     "first_root": 367,
     "section": "hebrew",
@@ -1569,7 +1569,7 @@
     "prev": "181"
   },
   {
-    "pagenum": "183",
+    "slug": "183",
     "emory_page": 201,
     "first_root": 367,
     "section": "hebrew",
@@ -1577,7 +1577,7 @@
     "prev": "182"
   },
   {
-    "pagenum": "184",
+    "slug": "184",
     "emory_page": 202,
     "first_root": 367,
     "section": "hebrew",
@@ -1585,7 +1585,7 @@
     "prev": "183"
   },
   {
-    "pagenum": "185",
+    "slug": "185",
     "emory_page": 203,
     "first_root": 369,
     "section": "hebrew",
@@ -1593,7 +1593,7 @@
     "prev": "184"
   },
   {
-    "pagenum": "186",
+    "slug": "186",
     "emory_page": 204,
     "first_root": 373,
     "section": "hebrew",
@@ -1601,7 +1601,7 @@
     "prev": "185"
   },
   {
-    "pagenum": "187",
+    "slug": "187",
     "emory_page": 205,
     "first_root": 377,
     "section": "hebrew",
@@ -1609,7 +1609,7 @@
     "prev": "186"
   },
   {
-    "pagenum": "188",
+    "slug": "188",
     "emory_page": 206,
     "first_root": 380,
     "section": "hebrew",
@@ -1617,7 +1617,7 @@
     "prev": "187"
   },
   {
-    "pagenum": "189",
+    "slug": "189",
     "emory_page": 207,
     "first_root": 384,
     "section": "hebrew",
@@ -1625,7 +1625,7 @@
     "prev": "188"
   },
   {
-    "pagenum": "190",
+    "slug": "190",
     "emory_page": 208,
     "first_root": 386,
     "section": "hebrew",
@@ -1633,7 +1633,7 @@
     "prev": "189"
   },
   {
-    "pagenum": "191",
+    "slug": "191",
     "emory_page": 209,
     "first_root": 391,
     "section": "hebrew",
@@ -1641,7 +1641,7 @@
     "prev": "190"
   },
   {
-    "pagenum": "192",
+    "slug": "192",
     "emory_page": 210,
     "first_root": 392,
     "section": "hebrew",
@@ -1649,7 +1649,7 @@
     "prev": "191"
   },
   {
-    "pagenum": "193",
+    "slug": "193",
     "emory_page": 211,
     "first_root": 393,
     "section": "hebrew",
@@ -1657,7 +1657,7 @@
     "prev": "192"
   },
   {
-    "pagenum": "194",
+    "slug": "194",
     "emory_page": 212,
     "first_root": 397,
     "section": "hebrew",
@@ -1665,7 +1665,7 @@
     "prev": "193"
   },
   {
-    "pagenum": "195",
+    "slug": "195",
     "emory_page": 213,
     "first_root": 399,
     "section": "hebrew",
@@ -1673,7 +1673,7 @@
     "prev": "194"
   },
   {
-    "pagenum": "196",
+    "slug": "196",
     "emory_page": 214,
     "first_root": 402,
     "section": "hebrew",
@@ -1681,7 +1681,7 @@
     "prev": "195"
   },
   {
-    "pagenum": "197",
+    "slug": "197",
     "emory_page": 215,
     "first_root": 403,
     "section": "hebrew",
@@ -1689,7 +1689,7 @@
     "prev": "196"
   },
   {
-    "pagenum": "198",
+    "slug": "198",
     "emory_page": 216,
     "first_root": 405,
     "section": "hebrew",
@@ -1697,7 +1697,7 @@
     "prev": "197"
   },
   {
-    "pagenum": "199",
+    "slug": "199",
     "emory_page": 217,
     "first_root": 408,
     "section": "hebrew",
@@ -1705,7 +1705,7 @@
     "prev": "198"
   },
   {
-    "pagenum": "200",
+    "slug": "200",
     "emory_page": 218,
     "first_root": 414,
     "section": "hebrew",
@@ -1713,7 +1713,7 @@
     "prev": "199"
   },
   {
-    "pagenum": "201",
+    "slug": "201",
     "emory_page": 219,
     "first_root": 419,
     "section": "hebrew",
@@ -1721,7 +1721,7 @@
     "prev": "200"
   },
   {
-    "pagenum": "202",
+    "slug": "202",
     "emory_page": 220,
     "first_root": 419,
     "section": "hebrew",
@@ -1729,7 +1729,7 @@
     "prev": "201"
   },
   {
-    "pagenum": "203",
+    "slug": "203",
     "emory_page": 221,
     "first_root": 419,
     "section": "hebrew",
@@ -1737,7 +1737,7 @@
     "prev": "202"
   },
   {
-    "pagenum": "204",
+    "slug": "204",
     "emory_page": 222,
     "first_root": 422,
     "section": "hebrew",
@@ -1745,7 +1745,7 @@
     "prev": "203"
   },
   {
-    "pagenum": "205",
+    "slug": "205",
     "emory_page": 223,
     "first_root": 424,
     "section": "hebrew",
@@ -1753,7 +1753,7 @@
     "prev": "204"
   },
   {
-    "pagenum": "206",
+    "slug": "206",
     "emory_page": 224,
     "first_root": 427,
     "section": "hebrew",
@@ -1761,7 +1761,7 @@
     "prev": "205"
   },
   {
-    "pagenum": "207",
+    "slug": "207",
     "emory_page": 225,
     "first_root": 427,
     "section": "hebrew",
@@ -1769,7 +1769,7 @@
     "prev": "206"
   },
   {
-    "pagenum": "208",
+    "slug": "208",
     "emory_page": 226,
     "first_root": 427,
     "section": "hebrew",
@@ -1777,7 +1777,7 @@
     "prev": "207"
   },
   {
-    "pagenum": "209",
+    "slug": "209",
     "emory_page": 227,
     "first_root": 428,
     "section": "hebrew",
@@ -1785,7 +1785,7 @@
     "prev": "208"
   },
   {
-    "pagenum": "210",
+    "slug": "210",
     "emory_page": 228,
     "first_root": 431,
     "section": "hebrew",
@@ -1793,7 +1793,7 @@
     "prev": "209"
   },
   {
-    "pagenum": "211",
+    "slug": "211",
     "emory_page": 229,
     "first_root": 435,
     "section": "hebrew",
@@ -1801,7 +1801,7 @@
     "prev": "210"
   },
   {
-    "pagenum": "212",
+    "slug": "212",
     "emory_page": 230,
     "first_root": 439,
     "section": "hebrew",
@@ -1809,7 +1809,7 @@
     "prev": "211"
   },
   {
-    "pagenum": "213",
+    "slug": "213",
     "emory_page": 231,
     "first_root": 444,
     "section": "hebrew",
@@ -1817,7 +1817,7 @@
     "prev": "212"
   },
   {
-    "pagenum": "214",
+    "slug": "214",
     "emory_page": 232,
     "first_root": 448,
     "section": "hebrew",
@@ -1825,7 +1825,7 @@
     "prev": "213"
   },
   {
-    "pagenum": "215",
+    "slug": "215",
     "emory_page": 233,
     "first_root": 448,
     "section": "hebrew",
@@ -1833,7 +1833,7 @@
     "prev": "214"
   },
   {
-    "pagenum": "216",
+    "slug": "216",
     "emory_page": 234,
     "first_root": 449,
     "section": "hebrew",
@@ -1841,7 +1841,7 @@
     "prev": "215"
   },
   {
-    "pagenum": "217",
+    "slug": "217",
     "emory_page": 235,
     "first_root": 451,
     "section": "hebrew",
@@ -1849,7 +1849,7 @@
     "prev": "216"
   },
   {
-    "pagenum": "218",
+    "slug": "218",
     "emory_page": 236,
     "first_root": 451,
     "section": "hebrew",
@@ -1857,7 +1857,7 @@
     "prev": "217"
   },
   {
-    "pagenum": "219",
+    "slug": "219",
     "emory_page": 237,
     "first_root": 451,
     "section": "hebrew",
@@ -1865,7 +1865,7 @@
     "prev": "218"
   },
   {
-    "pagenum": "220",
+    "slug": "220",
     "emory_page": 238,
     "first_root": 451,
     "section": "hebrew",
@@ -1873,7 +1873,7 @@
     "prev": "219"
   },
   {
-    "pagenum": "221",
+    "slug": "221",
     "emory_page": 239,
     "first_root": 451,
     "section": "hebrew",
@@ -1881,7 +1881,7 @@
     "prev": "220"
   },
   {
-    "pagenum": "222",
+    "slug": "222",
     "emory_page": 240,
     "first_root": 452,
     "section": "hebrew",
@@ -1889,7 +1889,7 @@
     "prev": "221"
   },
   {
-    "pagenum": "223",
+    "slug": "223",
     "emory_page": 241,
     "first_root": 456,
     "section": "hebrew",
@@ -1897,7 +1897,7 @@
     "prev": "222"
   },
   {
-    "pagenum": "224",
+    "slug": "224",
     "emory_page": 242,
     "first_root": 457,
     "section": "hebrew",
@@ -1905,7 +1905,7 @@
     "prev": "223"
   },
   {
-    "pagenum": "225",
+    "slug": "225",
     "emory_page": 243,
     "first_root": 457,
     "section": "hebrew",
@@ -1913,7 +1913,7 @@
     "prev": "224"
   },
   {
-    "pagenum": "226",
+    "slug": "226",
     "emory_page": 244,
     "first_root": 457,
     "section": "hebrew",
@@ -1921,7 +1921,7 @@
     "prev": "225"
   },
   {
-    "pagenum": "227",
+    "slug": "227",
     "emory_page": 245,
     "first_root": 457,
     "section": "hebrew",
@@ -1929,7 +1929,7 @@
     "prev": "226"
   },
   {
-    "pagenum": "228",
+    "slug": "228",
     "emory_page": 246,
     "first_root": 459,
     "section": "hebrew",
@@ -1937,7 +1937,7 @@
     "prev": "227"
   },
   {
-    "pagenum": "229",
+    "slug": "229",
     "emory_page": 247,
     "first_root": 465,
     "section": "hebrew",
@@ -1945,7 +1945,7 @@
     "prev": "228"
   },
   {
-    "pagenum": "230",
+    "slug": "230",
     "emory_page": 248,
     "first_root": 465,
     "section": "hebrew",
@@ -1953,7 +1953,7 @@
     "prev": "229"
   },
   {
-    "pagenum": "231",
+    "slug": "231",
     "emory_page": 249,
     "first_root": 465,
     "section": "hebrew",
@@ -1961,7 +1961,7 @@
     "prev": "230"
   },
   {
-    "pagenum": "232",
+    "slug": "232",
     "emory_page": 250,
     "first_root": 465,
     "section": "hebrew",
@@ -1969,7 +1969,7 @@
     "prev": "231"
   },
   {
-    "pagenum": "233",
+    "slug": "233",
     "emory_page": 251,
     "first_root": 465,
     "section": "hebrew",
@@ -1977,7 +1977,7 @@
     "prev": "232"
   },
   {
-    "pagenum": "234",
+    "slug": "234",
     "emory_page": 252,
     "first_root": 465,
     "section": "hebrew",
@@ -1985,7 +1985,7 @@
     "prev": "233"
   },
   {
-    "pagenum": "235",
+    "slug": "235",
     "emory_page": 253,
     "first_root": 465,
     "section": "hebrew",
@@ -1993,7 +1993,7 @@
     "prev": "234"
   },
   {
-    "pagenum": "236",
+    "slug": "236",
     "emory_page": 254,
     "first_root": 465,
     "section": "hebrew",
@@ -2001,7 +2001,7 @@
     "prev": "235"
   },
   {
-    "pagenum": "237",
+    "slug": "237",
     "emory_page": 255,
     "first_root": 467,
     "section": "hebrew",
@@ -2009,7 +2009,7 @@
     "prev": "236"
   },
   {
-    "pagenum": "238",
+    "slug": "238",
     "emory_page": 256,
     "first_root": 467,
     "section": "hebrew",
@@ -2017,7 +2017,7 @@
     "prev": "237"
   },
   {
-    "pagenum": "239",
+    "slug": "239",
     "emory_page": 257,
     "first_root": 467,
     "section": "hebrew",
@@ -2025,7 +2025,7 @@
     "prev": "238"
   },
   {
-    "pagenum": "240",
+    "slug": "240",
     "emory_page": 258,
     "first_root": 469,
     "section": "hebrew",
@@ -2033,7 +2033,7 @@
     "prev": "239"
   },
   {
-    "pagenum": "241",
+    "slug": "241",
     "emory_page": 259,
     "first_root": 470,
     "section": "hebrew",
@@ -2041,7 +2041,7 @@
     "prev": "240"
   },
   {
-    "pagenum": "242",
+    "slug": "242",
     "emory_page": 260,
     "first_root": 472,
     "section": "hebrew",
@@ -2049,7 +2049,7 @@
     "prev": "241"
   },
   {
-    "pagenum": "243",
+    "slug": "243",
     "emory_page": 261,
     "first_root": 477,
     "section": "hebrew",
@@ -2057,7 +2057,7 @@
     "prev": "242"
   },
   {
-    "pagenum": "244",
+    "slug": "244",
     "emory_page": 262,
     "first_root": 477,
     "section": "hebrew",
@@ -2065,7 +2065,7 @@
     "prev": "243"
   },
   {
-    "pagenum": "245",
+    "slug": "245",
     "emory_page": 263,
     "first_root": 479,
     "section": "hebrew",
@@ -2073,7 +2073,7 @@
     "prev": "244"
   },
   {
-    "pagenum": "246",
+    "slug": "246",
     "emory_page": 264,
     "first_root": 480,
     "section": "hebrew",
@@ -2081,7 +2081,7 @@
     "prev": "245"
   },
   {
-    "pagenum": "247",
+    "slug": "247",
     "emory_page": 265,
     "first_root": 481,
     "section": "hebrew",
@@ -2089,7 +2089,7 @@
     "prev": "246"
   },
   {
-    "pagenum": "248",
+    "slug": "248",
     "emory_page": 266,
     "first_root": 482,
     "section": "hebrew",
@@ -2097,7 +2097,7 @@
     "prev": "247"
   },
   {
-    "pagenum": "249",
+    "slug": "249",
     "emory_page": 267,
     "first_root": 483,
     "section": "hebrew",
@@ -2105,7 +2105,7 @@
     "prev": "248"
   },
   {
-    "pagenum": "250",
+    "slug": "250",
     "emory_page": 268,
     "first_root": 483,
     "section": "hebrew",
@@ -2113,7 +2113,7 @@
     "prev": "249"
   },
   {
-    "pagenum": "251",
+    "slug": "251",
     "emory_page": 269,
     "first_root": 487,
     "section": "hebrew",
@@ -2121,7 +2121,7 @@
     "prev": "250"
   },
   {
-    "pagenum": "252",
+    "slug": "252",
     "emory_page": 270,
     "first_root": 487,
     "section": "hebrew",
@@ -2129,7 +2129,7 @@
     "prev": "251"
   },
   {
-    "pagenum": "253",
+    "slug": "253",
     "emory_page": 271,
     "first_root": 487,
     "section": "hebrew",
@@ -2137,7 +2137,7 @@
     "prev": "252"
   },
   {
-    "pagenum": "254",
+    "slug": "254",
     "emory_page": 272,
     "first_root": 487,
     "section": "hebrew",
@@ -2145,7 +2145,7 @@
     "prev": "253"
   },
   {
-    "pagenum": "255",
+    "slug": "255",
     "emory_page": 273,
     "first_root": 490,
     "section": "hebrew",
@@ -2153,7 +2153,7 @@
     "prev": "254"
   },
   {
-    "pagenum": "256",
+    "slug": "256",
     "emory_page": 274,
     "first_root": 493,
     "section": "hebrew",
@@ -2161,7 +2161,7 @@
     "prev": "255"
   },
   {
-    "pagenum": "257",
+    "slug": "257",
     "emory_page": 275,
     "first_root": 493,
     "section": "hebrew",
@@ -2169,7 +2169,7 @@
     "prev": "256"
   },
   {
-    "pagenum": "258",
+    "slug": "258",
     "emory_page": 276,
     "first_root": 493,
     "section": "hebrew",
@@ -2177,7 +2177,7 @@
     "prev": "257"
   },
   {
-    "pagenum": "259",
+    "slug": "259",
     "emory_page": 277,
     "first_root": 495,
     "section": "hebrew",
@@ -2185,7 +2185,7 @@
     "prev": "258"
   },
   {
-    "pagenum": "260",
+    "slug": "260",
     "emory_page": 278,
     "first_root": 496,
     "section": "hebrew",
@@ -2193,7 +2193,7 @@
     "prev": "259"
   },
   {
-    "pagenum": "261",
+    "slug": "261",
     "emory_page": 279,
     "first_root": 496,
     "section": "hebrew",
@@ -2201,7 +2201,7 @@
     "prev": "260"
   },
   {
-    "pagenum": "262",
+    "slug": "262",
     "emory_page": 280,
     "first_root": 500,
     "section": "hebrew",
@@ -2209,7 +2209,7 @@
     "prev": "261"
   },
   {
-    "pagenum": "263",
+    "slug": "263",
     "emory_page": 281,
     "first_root": 502,
     "section": "hebrew",
@@ -2217,7 +2217,7 @@
     "prev": "262"
   },
   {
-    "pagenum": "264",
+    "slug": "264",
     "emory_page": 282,
     "first_root": 506,
     "section": "hebrew",
@@ -2225,7 +2225,7 @@
     "prev": "263"
   },
   {
-    "pagenum": "265",
+    "slug": "265",
     "emory_page": 283,
     "first_root": 509,
     "section": "hebrew",
@@ -2233,7 +2233,7 @@
     "prev": "264"
   },
   {
-    "pagenum": "266",
+    "slug": "266",
     "emory_page": 284,
     "first_root": 515,
     "section": "hebrew",
@@ -2241,7 +2241,7 @@
     "prev": "265"
   },
   {
-    "pagenum": "267",
+    "slug": "267",
     "emory_page": 285,
     "first_root": 519,
     "section": "hebrew",
@@ -2249,7 +2249,7 @@
     "prev": "266"
   },
   {
-    "pagenum": "268",
+    "slug": "268",
     "emory_page": 286,
     "first_root": 519,
     "section": "hebrew",
@@ -2257,7 +2257,7 @@
     "prev": "267"
   },
   {
-    "pagenum": "269",
+    "slug": "269",
     "emory_page": 287,
     "first_root": 522,
     "section": "hebrew",
@@ -2265,7 +2265,7 @@
     "prev": "268"
   },
   {
-    "pagenum": "270",
+    "slug": "270",
     "emory_page": 288,
     "first_root": 522,
     "section": "hebrew",
@@ -2273,7 +2273,7 @@
     "prev": "269"
   },
   {
-    "pagenum": "271",
+    "slug": "271",
     "emory_page": 289,
     "first_root": 522,
     "section": "hebrew",
@@ -2281,7 +2281,7 @@
     "prev": "270"
   },
   {
-    "pagenum": "272",
+    "slug": "272",
     "emory_page": 290,
     "first_root": 526,
     "section": "hebrew",
@@ -2289,7 +2289,7 @@
     "prev": "271"
   },
   {
-    "pagenum": "273",
+    "slug": "273",
     "emory_page": 291,
     "first_root": 530,
     "section": "hebrew",
@@ -2297,7 +2297,7 @@
     "prev": "272"
   },
   {
-    "pagenum": "274",
+    "slug": "274",
     "emory_page": 292,
     "first_root": 532,
     "section": "hebrew",
@@ -2305,7 +2305,7 @@
     "prev": "273"
   },
   {
-    "pagenum": "275",
+    "slug": "275",
     "emory_page": 293,
     "first_root": 535,
     "section": "hebrew",
@@ -2313,7 +2313,7 @@
     "prev": "274"
   },
   {
-    "pagenum": "276",
+    "slug": "276",
     "emory_page": 294,
     "first_root": 540,
     "section": "hebrew",
@@ -2321,7 +2321,7 @@
     "prev": "275"
   },
   {
-    "pagenum": "277",
+    "slug": "277",
     "emory_page": 295,
     "first_root": 543,
     "section": "hebrew",
@@ -2329,7 +2329,7 @@
     "prev": "276"
   },
   {
-    "pagenum": "278",
+    "slug": "278",
     "emory_page": 296,
     "first_root": 544,
     "section": "hebrew",
@@ -2337,7 +2337,7 @@
     "prev": "277"
   },
   {
-    "pagenum": "279",
+    "slug": "279",
     "emory_page": 297,
     "first_root": 549,
     "section": "hebrew",
@@ -2345,7 +2345,7 @@
     "prev": "278"
   },
   {
-    "pagenum": "280",
+    "slug": "280",
     "emory_page": 298,
     "first_root": 550,
     "section": "hebrew",
@@ -2353,7 +2353,7 @@
     "prev": "279"
   },
   {
-    "pagenum": "281",
+    "slug": "281",
     "emory_page": 299,
     "first_root": 552,
     "section": "hebrew",
@@ -2361,7 +2361,7 @@
     "prev": "280"
   },
   {
-    "pagenum": "282",
+    "slug": "282",
     "emory_page": 300,
     "first_root": 552,
     "section": "hebrew",
@@ -2369,7 +2369,7 @@
     "prev": "281"
   },
   {
-    "pagenum": "283",
+    "slug": "283",
     "emory_page": 301,
     "first_root": 553,
     "section": "hebrew",
@@ -2377,7 +2377,7 @@
     "prev": "282"
   },
   {
-    "pagenum": "284",
+    "slug": "284",
     "emory_page": 302,
     "first_root": 556,
     "section": "hebrew",
@@ -2385,7 +2385,7 @@
     "prev": "283"
   },
   {
-    "pagenum": "285",
+    "slug": "285",
     "emory_page": 303,
     "first_root": 560,
     "section": "hebrew",
@@ -2393,7 +2393,7 @@
     "prev": "284"
   },
   {
-    "pagenum": "286",
+    "slug": "286",
     "emory_page": 304,
     "first_root": 562,
     "section": "hebrew",
@@ -2401,7 +2401,7 @@
     "prev": "285"
   },
   {
-    "pagenum": "287",
+    "slug": "287",
     "emory_page": 305,
     "first_root": 565,
     "section": "hebrew",
@@ -2409,7 +2409,7 @@
     "prev": "286"
   },
   {
-    "pagenum": "288",
+    "slug": "288",
     "emory_page": 306,
     "first_root": 565,
     "section": "hebrew",
@@ -2417,7 +2417,7 @@
     "prev": "287"
   },
   {
-    "pagenum": "289",
+    "slug": "289",
     "emory_page": 307,
     "first_root": 566,
     "section": "hebrew",
@@ -2425,7 +2425,7 @@
     "prev": "288"
   },
   {
-    "pagenum": "290",
+    "slug": "290",
     "emory_page": 308,
     "first_root": 569,
     "section": "hebrew",
@@ -2433,7 +2433,7 @@
     "prev": "289"
   },
   {
-    "pagenum": "291",
+    "slug": "291",
     "emory_page": 309,
     "first_root": 572,
     "section": "hebrew",
@@ -2441,7 +2441,7 @@
     "prev": "290"
   },
   {
-    "pagenum": "292",
+    "slug": "292",
     "emory_page": 310,
     "first_root": 576,
     "section": "hebrew",
@@ -2449,7 +2449,7 @@
     "prev": "291"
   },
   {
-    "pagenum": "293",
+    "slug": "293",
     "emory_page": 311,
     "first_root": 579,
     "section": "hebrew",
@@ -2457,7 +2457,7 @@
     "prev": "292"
   },
   {
-    "pagenum": "294",
+    "slug": "294",
     "emory_page": 312,
     "first_root": 579,
     "section": "hebrew",
@@ -2465,7 +2465,7 @@
     "prev": "293"
   },
   {
-    "pagenum": "295",
+    "slug": "295",
     "emory_page": 313,
     "first_root": 584,
     "section": "hebrew",
@@ -2473,7 +2473,7 @@
     "prev": "294"
   },
   {
-    "pagenum": "296",
+    "slug": "296",
     "emory_page": 314,
     "first_root": 588,
     "section": "hebrew",
@@ -2481,7 +2481,7 @@
     "prev": "295"
   },
   {
-    "pagenum": "297",
+    "slug": "297",
     "emory_page": 315,
     "first_root": 588,
     "section": "hebrew",
@@ -2489,7 +2489,7 @@
     "prev": "296"
   },
   {
-    "pagenum": "298",
+    "slug": "298",
     "emory_page": 316,
     "first_root": 589,
     "section": "hebrew",
@@ -2497,7 +2497,7 @@
     "prev": "297"
   },
   {
-    "pagenum": "299",
+    "slug": "299",
     "emory_page": 317,
     "first_root": 591,
     "section": "hebrew",
@@ -2505,7 +2505,7 @@
     "prev": "298"
   },
   {
-    "pagenum": "300",
+    "slug": "300",
     "emory_page": 318,
     "first_root": 593,
     "section": "hebrew",
@@ -2513,7 +2513,7 @@
     "prev": "299"
   },
   {
-    "pagenum": "301",
+    "slug": "301",
     "emory_page": 319,
     "first_root": 597,
     "section": "hebrew",
@@ -2521,7 +2521,7 @@
     "prev": "300"
   },
   {
-    "pagenum": "302",
+    "slug": "302",
     "emory_page": 320,
     "first_root": 598,
     "section": "hebrew",
@@ -2529,7 +2529,7 @@
     "prev": "301"
   },
   {
-    "pagenum": "303",
+    "slug": "303",
     "emory_page": 321,
     "first_root": 599,
     "section": "hebrew",
@@ -2537,7 +2537,7 @@
     "prev": "302"
   },
   {
-    "pagenum": "304",
+    "slug": "304",
     "emory_page": 322,
     "first_root": 601,
     "section": "hebrew",
@@ -2545,7 +2545,7 @@
     "prev": "303"
   },
   {
-    "pagenum": "305",
+    "slug": "305",
     "emory_page": 323,
     "first_root": 601,
     "section": "hebrew",
@@ -2553,7 +2553,7 @@
     "prev": "304"
   },
   {
-    "pagenum": "306",
+    "slug": "306",
     "emory_page": 324,
     "first_root": 603,
     "section": "hebrew",
@@ -2561,7 +2561,7 @@
     "prev": "305"
   },
   {
-    "pagenum": "307",
+    "slug": "307",
     "emory_page": 325,
     "first_root": 603,
     "section": "hebrew",
@@ -2569,7 +2569,7 @@
     "prev": "306"
   },
   {
-    "pagenum": "308",
+    "slug": "308",
     "emory_page": 326,
     "first_root": 603,
     "section": "hebrew",
@@ -2577,7 +2577,7 @@
     "prev": "307"
   },
   {
-    "pagenum": "309",
+    "slug": "309",
     "emory_page": 327,
     "first_root": 603,
     "section": "hebrew",
@@ -2585,7 +2585,7 @@
     "prev": "308"
   },
   {
-    "pagenum": "310",
+    "slug": "310",
     "emory_page": 328,
     "first_root": 612,
     "section": "hebrew",
@@ -2593,7 +2593,7 @@
     "prev": "309"
   },
   {
-    "pagenum": "311",
+    "slug": "311",
     "emory_page": 329,
     "first_root": 612,
     "section": "hebrew",
@@ -2601,7 +2601,7 @@
     "prev": "310"
   },
   {
-    "pagenum": "312",
+    "slug": "312",
     "emory_page": 330,
     "first_root": 612,
     "section": "hebrew",
@@ -2609,7 +2609,7 @@
     "prev": "311"
   },
   {
-    "pagenum": "313",
+    "slug": "313",
     "emory_page": 331,
     "first_root": 612,
     "section": "hebrew",
@@ -2617,7 +2617,7 @@
     "prev": "312"
   },
   {
-    "pagenum": "314",
+    "slug": "314",
     "emory_page": 332,
     "first_root": 615,
     "section": "hebrew",
@@ -2625,7 +2625,7 @@
     "prev": "313"
   },
   {
-    "pagenum": "315",
+    "slug": "315",
     "emory_page": 333,
     "first_root": 615,
     "section": "hebrew",
@@ -2633,7 +2633,7 @@
     "prev": "314"
   },
   {
-    "pagenum": "316",
+    "slug": "316",
     "emory_page": 334,
     "first_root": 619,
     "section": "hebrew",
@@ -2641,7 +2641,7 @@
     "prev": "315"
   },
   {
-    "pagenum": "317",
+    "slug": "317",
     "emory_page": 335,
     "first_root": 622,
     "section": "hebrew",
@@ -2649,7 +2649,7 @@
     "prev": "316"
   },
   {
-    "pagenum": "318",
+    "slug": "318",
     "emory_page": 336,
     "first_root": 624,
     "section": "hebrew",
@@ -2657,7 +2657,7 @@
     "prev": "317"
   },
   {
-    "pagenum": "319",
+    "slug": "319",
     "emory_page": 337,
     "first_root": 627,
     "section": "hebrew",
@@ -2665,7 +2665,7 @@
     "prev": "318"
   },
   {
-    "pagenum": "320",
+    "slug": "320",
     "emory_page": 338,
     "first_root": 628,
     "section": "hebrew",
@@ -2673,7 +2673,7 @@
     "prev": "319"
   },
   {
-    "pagenum": "321",
+    "slug": "321",
     "emory_page": 339,
     "first_root": 631,
     "section": "hebrew",
@@ -2681,7 +2681,7 @@
     "prev": "320"
   },
   {
-    "pagenum": "322",
+    "slug": "322",
     "emory_page": 340,
     "first_root": 633,
     "section": "hebrew",
@@ -2689,7 +2689,7 @@
     "prev": "321"
   },
   {
-    "pagenum": "323",
+    "slug": "323",
     "emory_page": 341,
     "first_root": 635,
     "section": "hebrew",
@@ -2697,7 +2697,7 @@
     "prev": "322"
   },
   {
-    "pagenum": "324",
+    "slug": "324",
     "emory_page": 342,
     "first_root": 635,
     "section": "hebrew",
@@ -2705,7 +2705,7 @@
     "prev": "323"
   },
   {
-    "pagenum": "325",
+    "slug": "325",
     "emory_page": 343,
     "first_root": 637,
     "section": "hebrew",
@@ -2713,7 +2713,7 @@
     "prev": "324"
   },
   {
-    "pagenum": "326",
+    "slug": "326",
     "emory_page": 344,
     "first_root": 639,
     "section": "hebrew",
@@ -2721,7 +2721,7 @@
     "prev": "325"
   },
   {
-    "pagenum": "327",
+    "slug": "327",
     "emory_page": 345,
     "first_root": 640,
     "section": "hebrew",
@@ -2729,7 +2729,7 @@
     "prev": "326"
   },
   {
-    "pagenum": "328",
+    "slug": "328",
     "emory_page": 346,
     "first_root": 643,
     "section": "hebrew",
@@ -2737,7 +2737,7 @@
     "prev": "327"
   },
   {
-    "pagenum": "329",
+    "slug": "329",
     "emory_page": 347,
     "first_root": 645,
     "section": "hebrew",
@@ -2745,7 +2745,7 @@
     "prev": "328"
   },
   {
-    "pagenum": "330",
+    "slug": "330",
     "emory_page": 348,
     "first_root": 650,
     "section": "hebrew",
@@ -2753,7 +2753,7 @@
     "prev": "329"
   },
   {
-    "pagenum": "331",
+    "slug": "331",
     "emory_page": 349,
     "first_root": 652,
     "section": "hebrew",
@@ -2761,7 +2761,7 @@
     "prev": "330"
   },
   {
-    "pagenum": "332",
+    "slug": "332",
     "emory_page": 350,
     "first_root": 655,
     "section": "hebrew",
@@ -2769,7 +2769,7 @@
     "prev": "331"
   },
   {
-    "pagenum": "333",
+    "slug": "333",
     "emory_page": 351,
     "first_root": 656,
     "section": "hebrew",
@@ -2777,7 +2777,7 @@
     "prev": "332"
   },
   {
-    "pagenum": "334",
+    "slug": "334",
     "emory_page": 352,
     "first_root": 657,
     "section": "hebrew",
@@ -2785,7 +2785,7 @@
     "prev": "333"
   },
   {
-    "pagenum": "335",
+    "slug": "335",
     "emory_page": 353,
     "first_root": 660,
     "section": "hebrew",
@@ -2793,7 +2793,7 @@
     "prev": "334"
   },
   {
-    "pagenum": "336",
+    "slug": "336",
     "emory_page": 354,
     "first_root": 660,
     "section": "hebrew",
@@ -2801,7 +2801,7 @@
     "prev": "335"
   },
   {
-    "pagenum": "337",
+    "slug": "337",
     "emory_page": 355,
     "first_root": 662,
     "section": "hebrew",
@@ -2809,7 +2809,7 @@
     "prev": "336"
   },
   {
-    "pagenum": "338",
+    "slug": "338",
     "emory_page": 356,
     "first_root": 664,
     "section": "hebrew",
@@ -2817,7 +2817,7 @@
     "prev": "337"
   },
   {
-    "pagenum": "339",
+    "slug": "339",
     "emory_page": 357,
     "first_root": 664,
     "section": "hebrew",
@@ -2825,7 +2825,7 @@
     "prev": "338"
   },
   {
-    "pagenum": "340",
+    "slug": "340",
     "emory_page": 358,
     "first_root": 669,
     "section": "hebrew",
@@ -2833,7 +2833,7 @@
     "prev": "339"
   },
   {
-    "pagenum": "341",
+    "slug": "341",
     "emory_page": 359,
     "first_root": 672,
     "section": "hebrew",
@@ -2841,7 +2841,7 @@
     "prev": "340"
   },
   {
-    "pagenum": "342",
+    "slug": "342",
     "emory_page": 360,
     "first_root": 677,
     "section": "hebrew",
@@ -2849,7 +2849,7 @@
     "prev": "341"
   },
   {
-    "pagenum": "343",
+    "slug": "343",
     "emory_page": 361,
     "first_root": 679,
     "section": "hebrew",
@@ -2857,7 +2857,7 @@
     "prev": "342"
   },
   {
-    "pagenum": "344",
+    "slug": "344",
     "emory_page": 362,
     "first_root": 682,
     "section": "hebrew",
@@ -2865,7 +2865,7 @@
     "prev": "343"
   },
   {
-    "pagenum": "345",
+    "slug": "345",
     "emory_page": 363,
     "first_root": 684,
     "section": "hebrew",
@@ -2873,7 +2873,7 @@
     "prev": "344"
   },
   {
-    "pagenum": "346",
+    "slug": "346",
     "emory_page": 364,
     "first_root": 687,
     "section": "hebrew",
@@ -2881,7 +2881,7 @@
     "prev": "345"
   },
   {
-    "pagenum": "347",
+    "slug": "347",
     "emory_page": 365,
     "first_root": 688,
     "section": "hebrew",
@@ -2889,7 +2889,7 @@
     "prev": "346"
   },
   {
-    "pagenum": "348",
+    "slug": "348",
     "emory_page": 366,
     "first_root": 691,
     "section": "hebrew",
@@ -2897,7 +2897,7 @@
     "prev": "347"
   },
   {
-    "pagenum": "349",
+    "slug": "349",
     "emory_page": 367,
     "first_root": 692,
     "section": "hebrew",
@@ -2905,7 +2905,7 @@
     "prev": "348"
   },
   {
-    "pagenum": "350",
+    "slug": "350",
     "emory_page": 368,
     "first_root": 693,
     "section": "hebrew",
@@ -2913,7 +2913,7 @@
     "prev": "349"
   },
   {
-    "pagenum": "351",
+    "slug": "351",
     "emory_page": 369,
     "first_root": 696,
     "section": "hebrew",
@@ -2921,7 +2921,7 @@
     "prev": "350"
   },
   {
-    "pagenum": "352",
+    "slug": "352",
     "emory_page": 370,
     "first_root": 697,
     "section": "hebrew",
@@ -2929,7 +2929,7 @@
     "prev": "351"
   },
   {
-    "pagenum": "353",
+    "slug": "353",
     "emory_page": 371,
     "first_root": 700,
     "section": "hebrew",
@@ -2937,7 +2937,7 @@
     "prev": "352"
   },
   {
-    "pagenum": "354",
+    "slug": "354",
     "emory_page": 372,
     "first_root": 703,
     "section": "hebrew",
@@ -2945,7 +2945,7 @@
     "prev": "353"
   },
   {
-    "pagenum": "355",
+    "slug": "355",
     "emory_page": 373,
     "first_root": 708,
     "section": "hebrew",
@@ -2953,7 +2953,7 @@
     "prev": "354"
   },
   {
-    "pagenum": "356",
+    "slug": "356",
     "emory_page": 374,
     "first_root": 709,
     "section": "hebrew",
@@ -2961,7 +2961,7 @@
     "prev": "355"
   },
   {
-    "pagenum": "357",
+    "slug": "357",
     "emory_page": 375,
     "first_root": 712,
     "section": "hebrew",
@@ -2969,7 +2969,7 @@
     "prev": "356"
   },
   {
-    "pagenum": "358",
+    "slug": "358",
     "emory_page": 376,
     "first_root": 715,
     "section": "hebrew",
@@ -2977,7 +2977,7 @@
     "prev": "357"
   },
   {
-    "pagenum": "359",
+    "slug": "359",
     "emory_page": 377,
     "first_root": 721,
     "section": "hebrew",
@@ -2985,7 +2985,7 @@
     "prev": "358"
   },
   {
-    "pagenum": "360",
+    "slug": "360",
     "emory_page": 378,
     "first_root": 723,
     "section": "hebrew",
@@ -2993,7 +2993,7 @@
     "prev": "359"
   },
   {
-    "pagenum": "361",
+    "slug": "361",
     "emory_page": 379,
     "first_root": 726,
     "section": "hebrew",
@@ -3001,7 +3001,7 @@
     "prev": "360"
   },
   {
-    "pagenum": "362",
+    "slug": "362",
     "emory_page": 380,
     "first_root": 730,
     "section": "hebrew",
@@ -3009,7 +3009,7 @@
     "prev": "361"
   },
   {
-    "pagenum": "363",
+    "slug": "363",
     "emory_page": 381,
     "first_root": 730,
     "section": "hebrew",
@@ -3017,7 +3017,7 @@
     "prev": "362"
   },
   {
-    "pagenum": "364",
+    "slug": "364",
     "emory_page": 382,
     "first_root": 732,
     "section": "hebrew",
@@ -3025,7 +3025,7 @@
     "prev": "363"
   },
   {
-    "pagenum": "365",
+    "slug": "365",
     "emory_page": 383,
     "first_root": 735,
     "section": "hebrew",
@@ -3033,7 +3033,7 @@
     "prev": "364"
   },
   {
-    "pagenum": "366",
+    "slug": "366",
     "emory_page": 384,
     "first_root": 737,
     "section": "hebrew",
@@ -3041,7 +3041,7 @@
     "prev": "365"
   },
   {
-    "pagenum": "367",
+    "slug": "367",
     "emory_page": 385,
     "first_root": 740,
     "section": "hebrew",
@@ -3049,7 +3049,7 @@
     "prev": "366"
   },
   {
-    "pagenum": "368",
+    "slug": "368",
     "emory_page": 386,
     "first_root": 742,
     "section": "hebrew",
@@ -3057,7 +3057,7 @@
     "prev": "367"
   },
   {
-    "pagenum": "369",
+    "slug": "369",
     "emory_page": 387,
     "first_root": 744,
     "section": "hebrew",
@@ -3065,7 +3065,7 @@
     "prev": "368"
   },
   {
-    "pagenum": "370",
+    "slug": "370",
     "emory_page": 388,
     "first_root": 747,
     "section": "hebrew",
@@ -3073,7 +3073,7 @@
     "prev": "369"
   },
   {
-    "pagenum": "371",
+    "slug": "371",
     "emory_page": 389,
     "first_root": 751,
     "section": "hebrew",
@@ -3081,7 +3081,7 @@
     "prev": "370"
   },
   {
-    "pagenum": "372",
+    "slug": "372",
     "emory_page": 390,
     "first_root": 752,
     "section": "hebrew",
@@ -3089,7 +3089,7 @@
     "prev": "371"
   },
   {
-    "pagenum": "373",
+    "slug": "373",
     "emory_page": 391,
     "first_root": 753,
     "section": "hebrew",
@@ -3097,7 +3097,7 @@
     "prev": "372"
   },
   {
-    "pagenum": "374",
+    "slug": "374",
     "emory_page": 392,
     "first_root": 753,
     "section": "hebrew",
@@ -3105,7 +3105,7 @@
     "prev": "373"
   },
   {
-    "pagenum": "375",
+    "slug": "375",
     "emory_page": 393,
     "first_root": 753,
     "section": "hebrew",
@@ -3113,7 +3113,7 @@
     "prev": "374"
   },
   {
-    "pagenum": "376",
+    "slug": "376",
     "emory_page": 394,
     "first_root": 757,
     "section": "hebrew",
@@ -3121,7 +3121,7 @@
     "prev": "375"
   },
   {
-    "pagenum": "377",
+    "slug": "377",
     "emory_page": 395,
     "first_root": 763,
     "section": "hebrew",
@@ -3129,7 +3129,7 @@
     "prev": "376"
   },
   {
-    "pagenum": "378",
+    "slug": "378",
     "emory_page": 396,
     "first_root": 768,
     "section": "hebrew",
@@ -3137,7 +3137,7 @@
     "prev": "377"
   },
   {
-    "pagenum": "379",
+    "slug": "379",
     "emory_page": 397,
     "first_root": 769,
     "section": "hebrew",
@@ -3145,7 +3145,7 @@
     "prev": "378"
   },
   {
-    "pagenum": "380",
+    "slug": "380",
     "emory_page": 398,
     "first_root": 775,
     "section": "hebrew",
@@ -3153,7 +3153,7 @@
     "prev": "379"
   },
   {
-    "pagenum": "381",
+    "slug": "381",
     "emory_page": 399,
     "first_root": 780,
     "section": "hebrew",
@@ -3161,7 +3161,7 @@
     "prev": "380"
   },
   {
-    "pagenum": "382",
+    "slug": "382",
     "emory_page": 400,
     "first_root": 785,
     "section": "hebrew",
@@ -3169,7 +3169,7 @@
     "prev": "381"
   },
   {
-    "pagenum": "383",
+    "slug": "383",
     "emory_page": 401,
     "first_root": 790,
     "section": "hebrew",
@@ -3177,7 +3177,7 @@
     "prev": "382"
   },
   {
-    "pagenum": "384",
+    "slug": "384",
     "emory_page": 402,
     "first_root": 793,
     "section": "hebrew",
@@ -3185,7 +3185,7 @@
     "prev": "383"
   },
   {
-    "pagenum": "385",
+    "slug": "385",
     "emory_page": 403,
     "first_root": 793,
     "section": "hebrew",
@@ -3193,7 +3193,7 @@
     "prev": "384"
   },
   {
-    "pagenum": "386",
+    "slug": "386",
     "emory_page": 404,
     "first_root": 795,
     "section": "hebrew",
@@ -3201,7 +3201,7 @@
     "prev": "385"
   },
   {
-    "pagenum": "387",
+    "slug": "387",
     "emory_page": 405,
     "first_root": 799,
     "section": "hebrew",
@@ -3209,7 +3209,7 @@
     "prev": "386"
   },
   {
-    "pagenum": "388",
+    "slug": "388",
     "emory_page": 406,
     "first_root": 802,
     "section": "hebrew",
@@ -3217,7 +3217,7 @@
     "prev": "387"
   },
   {
-    "pagenum": "389",
+    "slug": "389",
     "emory_page": 407,
     "first_root": 802,
     "section": "hebrew",
@@ -3225,7 +3225,7 @@
     "prev": "388"
   },
   {
-    "pagenum": "390",
+    "slug": "390",
     "emory_page": 408,
     "first_root": 802,
     "section": "hebrew",
@@ -3233,7 +3233,7 @@
     "prev": "389"
   },
   {
-    "pagenum": "391",
+    "slug": "391",
     "emory_page": 409,
     "first_root": 804,
     "section": "hebrew",
@@ -3241,7 +3241,7 @@
     "prev": "390"
   },
   {
-    "pagenum": "392",
+    "slug": "392",
     "emory_page": 410,
     "first_root": 805,
     "section": "hebrew",
@@ -3249,7 +3249,7 @@
     "prev": "391"
   },
   {
-    "pagenum": "393",
+    "slug": "393",
     "emory_page": 411,
     "first_root": 806,
     "section": "hebrew",
@@ -3257,7 +3257,7 @@
     "prev": "392"
   },
   {
-    "pagenum": "394",
+    "slug": "394",
     "emory_page": 412,
     "first_root": 806,
     "section": "hebrew",
@@ -3265,7 +3265,7 @@
     "prev": "393"
   },
   {
-    "pagenum": "395",
+    "slug": "395",
     "emory_page": 413,
     "first_root": 806,
     "section": "hebrew",
@@ -3273,7 +3273,7 @@
     "prev": "394"
   },
   {
-    "pagenum": "396",
+    "slug": "396",
     "emory_page": 414,
     "first_root": 807,
     "section": "hebrew",
@@ -3281,7 +3281,7 @@
     "prev": "395"
   },
   {
-    "pagenum": "397",
+    "slug": "397",
     "emory_page": 415,
     "first_root": 809,
     "section": "hebrew",
@@ -3289,7 +3289,7 @@
     "prev": "396"
   },
   {
-    "pagenum": "398",
+    "slug": "398",
     "emory_page": 416,
     "first_root": 810,
     "section": "hebrew",
@@ -3297,7 +3297,7 @@
     "prev": "397"
   },
   {
-    "pagenum": "399",
+    "slug": "399",
     "emory_page": 417,
     "first_root": 810,
     "section": "hebrew",
@@ -3305,7 +3305,7 @@
     "prev": "398"
   },
   {
-    "pagenum": "400",
+    "slug": "400",
     "emory_page": 418,
     "first_root": 810,
     "section": "hebrew",
@@ -3313,7 +3313,7 @@
     "prev": "399"
   },
   {
-    "pagenum": "401",
+    "slug": "401",
     "emory_page": 419,
     "first_root": 812,
     "section": "hebrew",
@@ -3321,7 +3321,7 @@
     "prev": "400"
   },
   {
-    "pagenum": "402",
+    "slug": "402",
     "emory_page": 420,
     "first_root": 816,
     "section": "hebrew",
@@ -3329,7 +3329,7 @@
     "prev": "401"
   },
   {
-    "pagenum": "403",
+    "slug": "403",
     "emory_page": 421,
     "first_root": 817,
     "section": "hebrew",
@@ -3337,7 +3337,7 @@
     "prev": "402"
   },
   {
-    "pagenum": "404",
+    "slug": "404",
     "emory_page": 422,
     "first_root": 818,
     "section": "hebrew",
@@ -3345,7 +3345,7 @@
     "prev": "403"
   },
   {
-    "pagenum": "405",
+    "slug": "405",
     "emory_page": 423,
     "first_root": 821,
     "section": "hebrew",
@@ -3353,7 +3353,7 @@
     "prev": "404"
   },
   {
-    "pagenum": "406",
+    "slug": "406",
     "emory_page": 424,
     "first_root": 823,
     "section": "hebrew",
@@ -3361,7 +3361,7 @@
     "prev": "405"
   },
   {
-    "pagenum": "407",
+    "slug": "407",
     "emory_page": 425,
     "first_root": 824,
     "section": "hebrew",
@@ -3369,7 +3369,7 @@
     "prev": "406"
   },
   {
-    "pagenum": "408",
+    "slug": "408",
     "emory_page": 426,
     "first_root": 825,
     "section": "hebrew",
@@ -3377,7 +3377,7 @@
     "prev": "407"
   },
   {
-    "pagenum": "409",
+    "slug": "409",
     "emory_page": 427,
     "first_root": 825,
     "section": "hebrew",
@@ -3385,7 +3385,7 @@
     "prev": "408"
   },
   {
-    "pagenum": "410",
+    "slug": "410",
     "emory_page": 428,
     "first_root": 829,
     "section": "hebrew",
@@ -3393,7 +3393,7 @@
     "prev": "409"
   },
   {
-    "pagenum": "411",
+    "slug": "411",
     "emory_page": 429,
     "first_root": 830,
     "section": "hebrew",
@@ -3401,7 +3401,7 @@
     "prev": "410"
   },
   {
-    "pagenum": "412",
+    "slug": "412",
     "emory_page": 430,
     "first_root": 830,
     "section": "hebrew",
@@ -3409,7 +3409,7 @@
     "prev": "411"
   },
   {
-    "pagenum": "413",
+    "slug": "413",
     "emory_page": 431,
     "first_root": 835,
     "section": "hebrew",
@@ -3417,7 +3417,7 @@
     "prev": "412"
   },
   {
-    "pagenum": "414",
+    "slug": "414",
     "emory_page": 432,
     "first_root": 837,
     "section": "hebrew",
@@ -3425,7 +3425,7 @@
     "prev": "413"
   },
   {
-    "pagenum": "415",
+    "slug": "415",
     "emory_page": 433,
     "first_root": 838,
     "section": "hebrew",
@@ -3433,7 +3433,7 @@
     "prev": "414"
   },
   {
-    "pagenum": "416",
+    "slug": "416",
     "emory_page": 434,
     "first_root": 839,
     "section": "hebrew",
@@ -3441,7 +3441,7 @@
     "prev": "415"
   },
   {
-    "pagenum": "417",
+    "slug": "417",
     "emory_page": 435,
     "first_root": 839,
     "section": "hebrew",
@@ -3449,7 +3449,7 @@
     "prev": "416"
   },
   {
-    "pagenum": "418",
+    "slug": "418",
     "emory_page": 436,
     "first_root": 844,
     "section": "hebrew",
@@ -3457,7 +3457,7 @@
     "prev": "417"
   },
   {
-    "pagenum": "419",
+    "slug": "419",
     "emory_page": 437,
     "first_root": 848,
     "section": "hebrew",
@@ -3465,7 +3465,7 @@
     "prev": "418"
   },
   {
-    "pagenum": "420",
+    "slug": "420",
     "emory_page": 438,
     "first_root": 849,
     "section": "hebrew",
@@ -3473,7 +3473,7 @@
     "prev": "419"
   },
   {
-    "pagenum": "421",
+    "slug": "421",
     "emory_page": 439,
     "first_root": 851,
     "section": "hebrew",
@@ -3481,7 +3481,7 @@
     "prev": "420"
   },
   {
-    "pagenum": "422",
+    "slug": "422",
     "emory_page": 440,
     "first_root": 854,
     "section": "hebrew",
@@ -3489,7 +3489,7 @@
     "prev": "421"
   },
   {
-    "pagenum": "423",
+    "slug": "423",
     "emory_page": 441,
     "first_root": 854,
     "section": "hebrew",
@@ -3497,7 +3497,7 @@
     "prev": "422"
   },
   {
-    "pagenum": "424",
+    "slug": "424",
     "emory_page": 442,
     "first_root": 854,
     "section": "hebrew",
@@ -3505,7 +3505,7 @@
     "prev": "423"
   },
   {
-    "pagenum": "425",
+    "slug": "425",
     "emory_page": 443,
     "first_root": 854,
     "section": "hebrew",
@@ -3513,7 +3513,7 @@
     "prev": "424"
   },
   {
-    "pagenum": "426",
+    "slug": "426",
     "emory_page": 444,
     "first_root": 857,
     "section": "hebrew",
@@ -3521,7 +3521,7 @@
     "prev": "425"
   },
   {
-    "pagenum": "427",
+    "slug": "427",
     "emory_page": 445,
     "first_root": 859,
     "section": "hebrew",
@@ -3529,7 +3529,7 @@
     "prev": "426"
   },
   {
-    "pagenum": "428",
+    "slug": "428",
     "emory_page": 446,
     "first_root": 862,
     "section": "hebrew",
@@ -3537,7 +3537,7 @@
     "prev": "427"
   },
   {
-    "pagenum": "429",
+    "slug": "429",
     "emory_page": 447,
     "first_root": 867,
     "section": "hebrew",
@@ -3545,7 +3545,7 @@
     "prev": "428"
   },
   {
-    "pagenum": "430",
+    "slug": "430",
     "emory_page": 448,
     "first_root": 868,
     "section": "hebrew",
@@ -3553,7 +3553,7 @@
     "prev": "429"
   },
   {
-    "pagenum": "431",
+    "slug": "431",
     "emory_page": 449,
     "first_root": 869,
     "section": "hebrew",
@@ -3561,7 +3561,7 @@
     "prev": "430"
   },
   {
-    "pagenum": "432",
+    "slug": "432",
     "emory_page": 450,
     "first_root": 871,
     "section": "hebrew",
@@ -3569,7 +3569,7 @@
     "prev": "431"
   },
   {
-    "pagenum": "433",
+    "slug": "433",
     "emory_page": 451,
     "first_root": 871,
     "section": "hebrew",
@@ -3577,7 +3577,7 @@
     "prev": "432"
   },
   {
-    "pagenum": "434",
+    "slug": "434",
     "emory_page": 452,
     "first_root": 872,
     "section": "hebrew",
@@ -3585,7 +3585,7 @@
     "prev": "433"
   },
   {
-    "pagenum": "435",
+    "slug": "435",
     "emory_page": 453,
     "first_root": 872,
     "section": "hebrew",
@@ -3593,7 +3593,7 @@
     "prev": "434"
   },
   {
-    "pagenum": "436",
+    "slug": "436",
     "emory_page": 454,
     "first_root": 873,
     "section": "hebrew",
@@ -3601,7 +3601,7 @@
     "prev": "435"
   },
   {
-    "pagenum": "437",
+    "slug": "437",
     "emory_page": 455,
     "first_root": 876,
     "section": "hebrew",
@@ -3609,7 +3609,7 @@
     "prev": "436"
   },
   {
-    "pagenum": "438",
+    "slug": "438",
     "emory_page": 456,
     "first_root": 878,
     "section": "hebrew",
@@ -3617,7 +3617,7 @@
     "prev": "437"
   },
   {
-    "pagenum": "439",
+    "slug": "439",
     "emory_page": 457,
     "first_root": 880,
     "section": "hebrew",
@@ -3625,7 +3625,7 @@
     "prev": "438"
   },
   {
-    "pagenum": "440",
+    "slug": "440",
     "emory_page": 458,
     "first_root": 880,
     "section": "hebrew",
@@ -3633,7 +3633,7 @@
     "prev": "439"
   },
   {
-    "pagenum": "441",
+    "slug": "441",
     "emory_page": 459,
     "first_root": 881,
     "section": "hebrew",
@@ -3641,7 +3641,7 @@
     "prev": "440"
   },
   {
-    "pagenum": "442",
+    "slug": "442",
     "emory_page": 460,
     "first_root": 882,
     "section": "hebrew",
@@ -3649,7 +3649,7 @@
     "prev": "441"
   },
   {
-    "pagenum": "443",
+    "slug": "443",
     "emory_page": 461,
     "first_root": 882,
     "section": "hebrew",
@@ -3657,7 +3657,7 @@
     "prev": "442"
   },
   {
-    "pagenum": "444",
+    "slug": "444",
     "emory_page": 462,
     "first_root": 883,
     "section": "hebrew",
@@ -3665,7 +3665,7 @@
     "prev": "443"
   },
   {
-    "pagenum": "445",
+    "slug": "445",
     "emory_page": 463,
     "first_root": 887,
     "section": "hebrew",
@@ -3673,7 +3673,7 @@
     "prev": "444"
   },
   {
-    "pagenum": "446",
+    "slug": "446",
     "emory_page": 464,
     "first_root": 888,
     "section": "hebrew",
@@ -3681,7 +3681,7 @@
     "prev": "445"
   },
   {
-    "pagenum": "447",
+    "slug": "447",
     "emory_page": 465,
     "first_root": 888,
     "section": "hebrew",
@@ -3689,7 +3689,7 @@
     "prev": "446"
   },
   {
-    "pagenum": "448",
+    "slug": "448",
     "emory_page": 466,
     "first_root": 889,
     "section": "hebrew",
@@ -3697,7 +3697,7 @@
     "prev": "447"
   },
   {
-    "pagenum": "449",
+    "slug": "449",
     "emory_page": 467,
     "first_root": 889,
     "section": "hebrew",
@@ -3705,7 +3705,7 @@
     "prev": "448"
   },
   {
-    "pagenum": "450",
+    "slug": "450",
     "emory_page": 468,
     "first_root": 894,
     "section": "hebrew",
@@ -3713,7 +3713,7 @@
     "prev": "449"
   },
   {
-    "pagenum": "451",
+    "slug": "451",
     "emory_page": 469,
     "first_root": 895,
     "section": "hebrew",
@@ -3721,7 +3721,7 @@
     "prev": "450"
   },
   {
-    "pagenum": "452",
+    "slug": "452",
     "emory_page": 470,
     "first_root": 895,
     "section": "hebrew",
@@ -3729,7 +3729,7 @@
     "prev": "451"
   },
   {
-    "pagenum": "453",
+    "slug": "453",
     "emory_page": 471,
     "first_root": 897,
     "section": "hebrew",
@@ -3737,7 +3737,7 @@
     "prev": "452"
   },
   {
-    "pagenum": "454",
+    "slug": "454",
     "emory_page": 472,
     "first_root": 897,
     "section": "hebrew",
@@ -3745,7 +3745,7 @@
     "prev": "453"
   },
   {
-    "pagenum": "455",
+    "slug": "455",
     "emory_page": 473,
     "first_root": 897,
     "section": "hebrew",
@@ -3753,7 +3753,7 @@
     "prev": "454"
   },
   {
-    "pagenum": "456",
+    "slug": "456",
     "emory_page": 474,
     "first_root": 900,
     "section": "hebrew",
@@ -3761,7 +3761,7 @@
     "prev": "455"
   },
   {
-    "pagenum": "457",
+    "slug": "457",
     "emory_page": 475,
     "first_root": 901,
     "section": "hebrew",
@@ -3769,7 +3769,7 @@
     "prev": "456"
   },
   {
-    "pagenum": "458",
+    "slug": "458",
     "emory_page": 476,
     "first_root": 901,
     "section": "hebrew",
@@ -3777,7 +3777,7 @@
     "prev": "457"
   },
   {
-    "pagenum": "459",
+    "slug": "459",
     "emory_page": 477,
     "first_root": 903,
     "section": "hebrew",
@@ -3785,7 +3785,7 @@
     "prev": "458"
   },
   {
-    "pagenum": "460",
+    "slug": "460",
     "emory_page": 478,
     "first_root": 907,
     "section": "hebrew",
@@ -3793,7 +3793,7 @@
     "prev": "459"
   },
   {
-    "pagenum": "461",
+    "slug": "461",
     "emory_page": 479,
     "first_root": 910,
     "section": "hebrew",
@@ -3801,7 +3801,7 @@
     "prev": "460"
   },
   {
-    "pagenum": "462",
+    "slug": "462",
     "emory_page": 480,
     "first_root": 914,
     "section": "hebrew",
@@ -3809,7 +3809,7 @@
     "prev": "461"
   },
   {
-    "pagenum": "463",
+    "slug": "463",
     "emory_page": 481,
     "first_root": 914,
     "section": "hebrew",
@@ -3817,7 +3817,7 @@
     "prev": "462"
   },
   {
-    "pagenum": "464",
+    "slug": "464",
     "emory_page": 482,
     "first_root": 915,
     "section": "hebrew",
@@ -3825,7 +3825,7 @@
     "prev": "463"
   },
   {
-    "pagenum": "465",
+    "slug": "465",
     "emory_page": 483,
     "first_root": 918,
     "section": "hebrew",
@@ -3833,7 +3833,7 @@
     "prev": "464"
   },
   {
-    "pagenum": "466",
+    "slug": "466",
     "emory_page": 484,
     "first_root": 918,
     "section": "hebrew",
@@ -3841,7 +3841,7 @@
     "prev": "465"
   },
   {
-    "pagenum": "467",
+    "slug": "467",
     "emory_page": 485,
     "first_root": 918,
     "section": "hebrew",
@@ -3849,7 +3849,7 @@
     "prev": "466"
   },
   {
-    "pagenum": "468",
+    "slug": "468",
     "emory_page": 486,
     "first_root": 921,
     "section": "hebrew",
@@ -3857,7 +3857,7 @@
     "prev": "467"
   },
   {
-    "pagenum": "469",
+    "slug": "469",
     "emory_page": 487,
     "first_root": 922,
     "section": "hebrew",
@@ -3865,7 +3865,7 @@
     "prev": "468"
   },
   {
-    "pagenum": "470",
+    "slug": "470",
     "emory_page": 488,
     "first_root": 925,
     "section": "hebrew",
@@ -3873,7 +3873,7 @@
     "prev": "469"
   },
   {
-    "pagenum": "471",
+    "slug": "471",
     "emory_page": 489,
     "first_root": 928,
     "section": "hebrew",
@@ -3881,7 +3881,7 @@
     "prev": "470"
   },
   {
-    "pagenum": "472",
+    "slug": "472",
     "emory_page": 490,
     "first_root": 928,
     "section": "hebrew",
@@ -3889,7 +3889,7 @@
     "prev": "471"
   },
   {
-    "pagenum": "473",
+    "slug": "473",
     "emory_page": 491,
     "first_root": 928,
     "section": "hebrew",
@@ -3897,7 +3897,7 @@
     "prev": "472"
   },
   {
-    "pagenum": "474",
+    "slug": "474",
     "emory_page": 492,
     "first_root": 928,
     "section": "hebrew",
@@ -3905,7 +3905,7 @@
     "prev": "473"
   },
   {
-    "pagenum": "475",
+    "slug": "475",
     "emory_page": 493,
     "first_root": 929,
     "section": "hebrew",
@@ -3913,7 +3913,7 @@
     "prev": "474"
   },
   {
-    "pagenum": "476",
+    "slug": "476",
     "emory_page": 494,
     "first_root": 931,
     "section": "hebrew",
@@ -3921,7 +3921,7 @@
     "prev": "475"
   },
   {
-    "pagenum": "477",
+    "slug": "477",
     "emory_page": 495,
     "first_root": 932,
     "section": "hebrew",
@@ -3929,7 +3929,7 @@
     "prev": "476"
   },
   {
-    "pagenum": "478",
+    "slug": "478",
     "emory_page": 496,
     "first_root": 932,
     "section": "hebrew",
@@ -3937,7 +3937,7 @@
     "prev": "477"
   },
   {
-    "pagenum": "479",
+    "slug": "479",
     "emory_page": 497,
     "first_root": 932,
     "section": "hebrew",
@@ -3945,7 +3945,7 @@
     "prev": "478"
   },
   {
-    "pagenum": "480",
+    "slug": "480",
     "emory_page": 498,
     "first_root": 935,
     "section": "hebrew",
@@ -3953,7 +3953,7 @@
     "prev": "479"
   },
   {
-    "pagenum": "481",
+    "slug": "481",
     "emory_page": 499,
     "first_root": 935,
     "section": "hebrew",
@@ -3961,7 +3961,7 @@
     "prev": "480"
   },
   {
-    "pagenum": "482",
+    "slug": "482",
     "emory_page": 500,
     "first_root": 935,
     "section": "hebrew",
@@ -3969,7 +3969,7 @@
     "prev": "481"
   },
   {
-    "pagenum": "483",
+    "slug": "483",
     "emory_page": 501,
     "first_root": 937,
     "section": "hebrew",
@@ -3977,7 +3977,7 @@
     "prev": "482"
   },
   {
-    "pagenum": "484",
+    "slug": "484",
     "emory_page": 502,
     "first_root": 940,
     "section": "hebrew",
@@ -3985,7 +3985,7 @@
     "prev": "483"
   },
   {
-    "pagenum": "485",
+    "slug": "485",
     "emory_page": 503,
     "first_root": 946,
     "section": "hebrew",
@@ -3993,7 +3993,7 @@
     "prev": "484"
   },
   {
-    "pagenum": "486",
+    "slug": "486",
     "emory_page": 504,
     "first_root": 946,
     "section": "hebrew",
@@ -4001,7 +4001,7 @@
     "prev": "485"
   },
   {
-    "pagenum": "487",
+    "slug": "487",
     "emory_page": 505,
     "first_root": 949,
     "section": "hebrew",
@@ -4009,7 +4009,7 @@
     "prev": "486"
   },
   {
-    "pagenum": "488",
+    "slug": "488",
     "emory_page": 506,
     "first_root": 951,
     "section": "hebrew",
@@ -4017,7 +4017,7 @@
     "prev": "487"
   },
   {
-    "pagenum": "489",
+    "slug": "489",
     "emory_page": 507,
     "first_root": 953,
     "section": "hebrew",
@@ -4025,7 +4025,7 @@
     "prev": "488"
   },
   {
-    "pagenum": "490",
+    "slug": "490",
     "emory_page": 508,
     "first_root": 953,
     "section": "hebrew",
@@ -4033,7 +4033,7 @@
     "prev": "489"
   },
   {
-    "pagenum": "491",
+    "slug": "491",
     "emory_page": 509,
     "first_root": 954,
     "section": "hebrew",
@@ -4041,7 +4041,7 @@
     "prev": "490"
   },
   {
-    "pagenum": "492",
+    "slug": "492",
     "emory_page": 510,
     "first_root": 957,
     "section": "hebrew",
@@ -4049,7 +4049,7 @@
     "prev": "491"
   },
   {
-    "pagenum": "493",
+    "slug": "493",
     "emory_page": 511,
     "first_root": 960,
     "section": "hebrew",
@@ -4057,7 +4057,7 @@
     "prev": "492"
   },
   {
-    "pagenum": "494",
+    "slug": "494",
     "emory_page": 512,
     "first_root": 961,
     "section": "hebrew",
@@ -4065,7 +4065,7 @@
     "prev": "493"
   },
   {
-    "pagenum": "495",
+    "slug": "495",
     "emory_page": 513,
     "first_root": 965,
     "section": "hebrew",
@@ -4073,7 +4073,7 @@
     "prev": "494"
   },
   {
-    "pagenum": "496",
+    "slug": "496",
     "emory_page": 514,
     "first_root": 966,
     "section": "hebrew",
@@ -4081,7 +4081,7 @@
     "prev": "495"
   },
   {
-    "pagenum": "497",
+    "slug": "497",
     "emory_page": 515,
     "first_root": 967,
     "section": "hebrew",
@@ -4089,7 +4089,7 @@
     "prev": "496"
   },
   {
-    "pagenum": "498",
+    "slug": "498",
     "emory_page": 516,
     "first_root": 969,
     "section": "hebrew",
@@ -4097,7 +4097,7 @@
     "prev": "497"
   },
   {
-    "pagenum": "499",
+    "slug": "499",
     "emory_page": 517,
     "first_root": 971,
     "section": "hebrew",
@@ -4105,7 +4105,7 @@
     "prev": "498"
   },
   {
-    "pagenum": "500",
+    "slug": "500",
     "emory_page": 518,
     "first_root": 974,
     "section": "hebrew",
@@ -4113,7 +4113,7 @@
     "prev": "499"
   },
   {
-    "pagenum": "501",
+    "slug": "501",
     "emory_page": 519,
     "first_root": 977,
     "section": "hebrew",
@@ -4121,7 +4121,7 @@
     "prev": "500"
   },
   {
-    "pagenum": "502",
+    "slug": "502",
     "emory_page": 520,
     "first_root": 979,
     "section": "hebrew",
@@ -4129,7 +4129,7 @@
     "prev": "501"
   },
   {
-    "pagenum": "503",
+    "slug": "503",
     "emory_page": 521,
     "first_root": 981,
     "section": "hebrew",
@@ -4137,7 +4137,7 @@
     "prev": "502"
   },
   {
-    "pagenum": "504",
+    "slug": "504",
     "emory_page": 522,
     "first_root": 981,
     "section": "hebrew",
@@ -4145,7 +4145,7 @@
     "prev": "503"
   },
   {
-    "pagenum": "505",
+    "slug": "505",
     "emory_page": 523,
     "first_root": 983,
     "section": "hebrew",
@@ -4153,7 +4153,7 @@
     "prev": "504"
   },
   {
-    "pagenum": "506",
+    "slug": "506",
     "emory_page": 524,
     "first_root": 986,
     "section": "hebrew",
@@ -4161,7 +4161,7 @@
     "prev": "505"
   },
   {
-    "pagenum": "507",
+    "slug": "507",
     "emory_page": 525,
     "first_root": 987,
     "section": "hebrew",
@@ -4169,7 +4169,7 @@
     "prev": "506"
   },
   {
-    "pagenum": "508",
+    "slug": "508",
     "emory_page": 526,
     "first_root": 990,
     "section": "hebrew",
@@ -4177,7 +4177,7 @@
     "prev": "507"
   },
   {
-    "pagenum": "509",
+    "slug": "509",
     "emory_page": 527,
     "first_root": 994,
     "section": "hebrew",
@@ -4185,7 +4185,7 @@
     "prev": "508"
   },
   {
-    "pagenum": "510",
+    "slug": "510",
     "emory_page": 528,
     "first_root": 996,
     "section": "hebrew",
@@ -4193,7 +4193,7 @@
     "prev": "509"
   },
   {
-    "pagenum": "511",
+    "slug": "511",
     "emory_page": 529,
     "first_root": 996,
     "section": "hebrew",
@@ -4201,7 +4201,7 @@
     "prev": "510"
   },
   {
-    "pagenum": "512",
+    "slug": "512",
     "emory_page": 530,
     "first_root": 996,
     "section": "hebrew",
@@ -4209,7 +4209,7 @@
     "prev": "511"
   },
   {
-    "pagenum": "513",
+    "slug": "513",
     "emory_page": 531,
     "first_root": 996,
     "section": "hebrew",
@@ -4217,7 +4217,7 @@
     "prev": "512"
   },
   {
-    "pagenum": "514",
+    "slug": "514",
     "emory_page": 532,
     "first_root": 996,
     "section": "hebrew",
@@ -4225,7 +4225,7 @@
     "prev": "513"
   },
   {
-    "pagenum": "515",
+    "slug": "515",
     "emory_page": 533,
     "first_root": 996,
     "section": "hebrew",
@@ -4233,7 +4233,7 @@
     "prev": "514"
   },
   {
-    "pagenum": "516",
+    "slug": "516",
     "emory_page": 534,
     "first_root": 996,
     "section": "hebrew",
@@ -4241,7 +4241,7 @@
     "prev": "515"
   },
   {
-    "pagenum": "517",
+    "slug": "517",
     "emory_page": 535,
     "first_root": 996,
     "section": "hebrew",
@@ -4249,7 +4249,7 @@
     "prev": "516"
   },
   {
-    "pagenum": "518",
+    "slug": "518",
     "emory_page": 536,
     "first_root": 997,
     "section": "hebrew",
@@ -4257,7 +4257,7 @@
     "prev": "517"
   },
   {
-    "pagenum": "519",
+    "slug": "519",
     "emory_page": 537,
     "first_root": 997,
     "section": "hebrew",
@@ -4265,7 +4265,7 @@
     "prev": "518"
   },
   {
-    "pagenum": "520",
+    "slug": "520",
     "emory_page": 538,
     "first_root": 998,
     "section": "hebrew",
@@ -4273,7 +4273,7 @@
     "prev": "519"
   },
   {
-    "pagenum": "521",
+    "slug": "521",
     "emory_page": 539,
     "first_root": 1001,
     "section": "hebrew",
@@ -4281,7 +4281,7 @@
     "prev": "520"
   },
   {
-    "pagenum": "522",
+    "slug": "522",
     "emory_page": 540,
     "first_root": 1003,
     "section": "hebrew",
@@ -4289,7 +4289,7 @@
     "prev": "521"
   },
   {
-    "pagenum": "523",
+    "slug": "523",
     "emory_page": 541,
     "first_root": 1004,
     "section": "hebrew",
@@ -4297,7 +4297,7 @@
     "prev": "522"
   },
   {
-    "pagenum": "524",
+    "slug": "524",
     "emory_page": 542,
     "first_root": 1004,
     "section": "hebrew",
@@ -4305,7 +4305,7 @@
     "prev": "523"
   },
   {
-    "pagenum": "525",
+    "slug": "525",
     "emory_page": 543,
     "first_root": 1004,
     "section": "hebrew",
@@ -4313,7 +4313,7 @@
     "prev": "524"
   },
   {
-    "pagenum": "526",
+    "slug": "526",
     "emory_page": 544,
     "first_root": 1006,
     "section": "hebrew",
@@ -4321,7 +4321,7 @@
     "prev": "525"
   },
   {
-    "pagenum": "527",
+    "slug": "527",
     "emory_page": 545,
     "first_root": 1007,
     "section": "hebrew",
@@ -4329,7 +4329,7 @@
     "prev": "526"
   },
   {
-    "pagenum": "528",
+    "slug": "528",
     "emory_page": 546,
     "first_root": 1007,
     "section": "hebrew",
@@ -4337,7 +4337,7 @@
     "prev": "527"
   },
   {
-    "pagenum": "529",
+    "slug": "529",
     "emory_page": 547,
     "first_root": 1012,
     "section": "hebrew",
@@ -4345,7 +4345,7 @@
     "prev": "528"
   },
   {
-    "pagenum": "530",
+    "slug": "530",
     "emory_page": 548,
     "first_root": 1014,
     "section": "hebrew",
@@ -4353,7 +4353,7 @@
     "prev": "529"
   },
   {
-    "pagenum": "531",
+    "slug": "531",
     "emory_page": 549,
     "first_root": 1018,
     "section": "hebrew",
@@ -4361,7 +4361,7 @@
     "prev": "530"
   },
   {
-    "pagenum": "532",
+    "slug": "532",
     "emory_page": 550,
     "first_root": 1019,
     "section": "hebrew",
@@ -4369,7 +4369,7 @@
     "prev": "531"
   },
   {
-    "pagenum": "533",
+    "slug": "533",
     "emory_page": 551,
     "first_root": 1021,
     "section": "hebrew",
@@ -4377,7 +4377,7 @@
     "prev": "532"
   },
   {
-    "pagenum": "534",
+    "slug": "534",
     "emory_page": 552,
     "first_root": 1026,
     "section": "hebrew",
@@ -4385,7 +4385,7 @@
     "prev": "533"
   },
   {
-    "pagenum": "535",
+    "slug": "535",
     "emory_page": 553,
     "first_root": 1029,
     "section": "hebrew",
@@ -4393,7 +4393,7 @@
     "prev": "534"
   },
   {
-    "pagenum": "536",
+    "slug": "536",
     "emory_page": 554,
     "first_root": 1030,
     "section": "hebrew",
@@ -4401,7 +4401,7 @@
     "prev": "535"
   },
   {
-    "pagenum": "537",
+    "slug": "537",
     "emory_page": 555,
     "first_root": 1031,
     "section": "hebrew",
@@ -4409,7 +4409,7 @@
     "prev": "536"
   },
   {
-    "pagenum": "538",
+    "slug": "538",
     "emory_page": 556,
     "first_root": 1034,
     "section": "hebrew",
@@ -4417,7 +4417,7 @@
     "prev": "537"
   },
   {
-    "pagenum": "539",
+    "slug": "539",
     "emory_page": 557,
     "first_root": 1037,
     "section": "hebrew",
@@ -4425,7 +4425,7 @@
     "prev": "538"
   },
   {
-    "pagenum": "540",
+    "slug": "540",
     "emory_page": 558,
     "first_root": 1038,
     "section": "hebrew",
@@ -4433,7 +4433,7 @@
     "prev": "539"
   },
   {
-    "pagenum": "541",
+    "slug": "541",
     "emory_page": 559,
     "first_root": 1041,
     "section": "hebrew",
@@ -4441,7 +4441,7 @@
     "prev": "540"
   },
   {
-    "pagenum": "542",
+    "slug": "542",
     "emory_page": 560,
     "first_root": 1045,
     "section": "hebrew",
@@ -4449,7 +4449,7 @@
     "prev": "541"
   },
   {
-    "pagenum": "543",
+    "slug": "543",
     "emory_page": 561,
     "first_root": 1045,
     "section": "hebrew",
@@ -4457,7 +4457,7 @@
     "prev": "542"
   },
   {
-    "pagenum": "544",
+    "slug": "544",
     "emory_page": 562,
     "first_root": 1046,
     "section": "hebrew",
@@ -4465,7 +4465,7 @@
     "prev": "543"
   },
   {
-    "pagenum": "545",
+    "slug": "545",
     "emory_page": 563,
     "first_root": 1050,
     "section": "hebrew",
@@ -4473,7 +4473,7 @@
     "prev": "544"
   },
   {
-    "pagenum": "546",
+    "slug": "546",
     "emory_page": 564,
     "first_root": 1052,
     "section": "hebrew",
@@ -4481,7 +4481,7 @@
     "prev": "545"
   },
   {
-    "pagenum": "547",
+    "slug": "547",
     "emory_page": 565,
     "first_root": 1056,
     "section": "hebrew",
@@ -4489,7 +4489,7 @@
     "prev": "546"
   },
   {
-    "pagenum": "548",
+    "slug": "548",
     "emory_page": 566,
     "first_root": 1057,
     "section": "hebrew",
@@ -4497,7 +4497,7 @@
     "prev": "547"
   },
   {
-    "pagenum": "549",
+    "slug": "549",
     "emory_page": 567,
     "first_root": 1062,
     "section": "hebrew",
@@ -4505,7 +4505,7 @@
     "prev": "548"
   },
   {
-    "pagenum": "550",
+    "slug": "550",
     "emory_page": 568,
     "first_root": 1064,
     "section": "hebrew",
@@ -4513,7 +4513,7 @@
     "prev": "549"
   },
   {
-    "pagenum": "551",
+    "slug": "551",
     "emory_page": 569,
     "first_root": 1066,
     "section": "hebrew",
@@ -4521,7 +4521,7 @@
     "prev": "550"
   },
   {
-    "pagenum": "552",
+    "slug": "552",
     "emory_page": 570,
     "first_root": 1067,
     "section": "hebrew",
@@ -4529,7 +4529,7 @@
     "prev": "551"
   },
   {
-    "pagenum": "553",
+    "slug": "553",
     "emory_page": 571,
     "first_root": 1067,
     "section": "hebrew",
@@ -4537,7 +4537,7 @@
     "prev": "552"
   },
   {
-    "pagenum": "554",
+    "slug": "554",
     "emory_page": 572,
     "first_root": 1070,
     "section": "hebrew",
@@ -4545,7 +4545,7 @@
     "prev": "553"
   },
   {
-    "pagenum": "555",
+    "slug": "555",
     "emory_page": 573,
     "first_root": 1072,
     "section": "hebrew",
@@ -4553,7 +4553,7 @@
     "prev": "554"
   },
   {
-    "pagenum": "556",
+    "slug": "556",
     "emory_page": 574,
     "first_root": 1076,
     "section": "hebrew",
@@ -4561,7 +4561,7 @@
     "prev": "555"
   },
   {
-    "pagenum": "557",
+    "slug": "557",
     "emory_page": 575,
     "first_root": 1079,
     "section": "hebrew",
@@ -4569,7 +4569,7 @@
     "prev": "556"
   },
   {
-    "pagenum": "558",
+    "slug": "558",
     "emory_page": 576,
     "first_root": 1082,
     "section": "hebrew",
@@ -4577,7 +4577,7 @@
     "prev": "557"
   },
   {
-    "pagenum": "559",
+    "slug": "559",
     "emory_page": 577,
     "first_root": 1084,
     "section": "hebrew",
@@ -4585,7 +4585,7 @@
     "prev": "558"
   },
   {
-    "pagenum": "560",
+    "slug": "560",
     "emory_page": 578,
     "first_root": 1084,
     "section": "hebrew",
@@ -4593,7 +4593,7 @@
     "prev": "559"
   },
   {
-    "pagenum": "561",
+    "slug": "561",
     "emory_page": 579,
     "first_root": 1090,
     "section": "hebrew",
@@ -4601,7 +4601,7 @@
     "prev": "560"
   },
   {
-    "pagenum": "562",
+    "slug": "562",
     "emory_page": 580,
     "first_root": 1093,
     "section": "hebrew",
@@ -4609,7 +4609,7 @@
     "prev": "561"
   },
   {
-    "pagenum": "563",
+    "slug": "563",
     "emory_page": 581,
     "first_root": 1096,
     "section": "hebrew",
@@ -4617,7 +4617,7 @@
     "prev": "562"
   },
   {
-    "pagenum": "564",
+    "slug": "564",
     "emory_page": 582,
     "first_root": 1098,
     "section": "hebrew",
@@ -4625,7 +4625,7 @@
     "prev": "563"
   },
   {
-    "pagenum": "565",
+    "slug": "565",
     "emory_page": 583,
     "first_root": 1099,
     "section": "hebrew",
@@ -4633,7 +4633,7 @@
     "prev": "564"
   },
   {
-    "pagenum": "566",
+    "slug": "566",
     "emory_page": 584,
     "first_root": 1100,
     "section": "hebrew",
@@ -4641,7 +4641,7 @@
     "prev": "565"
   },
   {
-    "pagenum": "567",
+    "slug": "567",
     "emory_page": 585,
     "first_root": 1100,
     "section": "hebrew",
@@ -4649,7 +4649,7 @@
     "prev": "566"
   },
   {
-    "pagenum": "568",
+    "slug": "568",
     "emory_page": 586,
     "first_root": 1103,
     "section": "hebrew",
@@ -4657,7 +4657,7 @@
     "prev": "567"
   },
   {
-    "pagenum": "569",
+    "slug": "569",
     "emory_page": 587,
     "first_root": 1105,
     "section": "hebrew",
@@ -4665,7 +4665,7 @@
     "prev": "568"
   },
   {
-    "pagenum": "570",
+    "slug": "570",
     "emory_page": 588,
     "first_root": 1105,
     "section": "hebrew",
@@ -4673,7 +4673,7 @@
     "prev": "569"
   },
   {
-    "pagenum": "571",
+    "slug": "571",
     "emory_page": 589,
     "first_root": 1107,
     "section": "hebrew",
@@ -4681,7 +4681,7 @@
     "prev": "570"
   },
   {
-    "pagenum": "572",
+    "slug": "572",
     "emory_page": 590,
     "first_root": 1109,
     "section": "hebrew",
@@ -4689,7 +4689,7 @@
     "prev": "571"
   },
   {
-    "pagenum": "573",
+    "slug": "573",
     "emory_page": 591,
     "first_root": 1109,
     "section": "hebrew",
@@ -4697,7 +4697,7 @@
     "prev": "572"
   },
   {
-    "pagenum": "574",
+    "slug": "574",
     "emory_page": 592,
     "first_root": 1109,
     "section": "hebrew",
@@ -4705,7 +4705,7 @@
     "prev": "573"
   },
   {
-    "pagenum": "575",
+    "slug": "575",
     "emory_page": 593,
     "first_root": 1109,
     "section": "hebrew",
@@ -4713,7 +4713,7 @@
     "prev": "574"
   },
   {
-    "pagenum": "576",
+    "slug": "576",
     "emory_page": 594,
     "first_root": 1115,
     "section": "hebrew",
@@ -4721,7 +4721,7 @@
     "prev": "575"
   },
   {
-    "pagenum": "577",
+    "slug": "577",
     "emory_page": 595,
     "first_root": 1117,
     "section": "hebrew",
@@ -4729,7 +4729,7 @@
     "prev": "576"
   },
   {
-    "pagenum": "578",
+    "slug": "578",
     "emory_page": 596,
     "first_root": 1117,
     "section": "hebrew",
@@ -4737,7 +4737,7 @@
     "prev": "577"
   },
   {
-    "pagenum": "579",
+    "slug": "579",
     "emory_page": 597,
     "first_root": 1117,
     "section": "hebrew",
@@ -4745,7 +4745,7 @@
     "prev": "578"
   },
   {
-    "pagenum": "580",
+    "slug": "580",
     "emory_page": 598,
     "first_root": 1117,
     "section": "hebrew",
@@ -4753,7 +4753,7 @@
     "prev": "579"
   },
   {
-    "pagenum": "581",
+    "slug": "581",
     "emory_page": 599,
     "first_root": 1117,
     "section": "hebrew",
@@ -4761,7 +4761,7 @@
     "prev": "580"
   },
   {
-    "pagenum": "582",
+    "slug": "582",
     "emory_page": 600,
     "first_root": 1117,
     "section": "hebrew",
@@ -4769,7 +4769,7 @@
     "prev": "581"
   },
   {
-    "pagenum": "583",
+    "slug": "583",
     "emory_page": 601,
     "first_root": 1117,
     "section": "hebrew",
@@ -4777,7 +4777,7 @@
     "prev": "582"
   },
   {
-    "pagenum": "584",
+    "slug": "584",
     "emory_page": 602,
     "first_root": 1118,
     "section": "hebrew",
@@ -4785,7 +4785,7 @@
     "prev": "583"
   },
   {
-    "pagenum": "585",
+    "slug": "585",
     "emory_page": 603,
     "first_root": 1120,
     "section": "hebrew",
@@ -4793,7 +4793,7 @@
     "prev": "584"
   },
   {
-    "pagenum": "586",
+    "slug": "586",
     "emory_page": 604,
     "first_root": 1121,
     "section": "hebrew",
@@ -4801,7 +4801,7 @@
     "prev": "585"
   },
   {
-    "pagenum": "587",
+    "slug": "587",
     "emory_page": 605,
     "first_root": 1124,
     "section": "hebrew",
@@ -4809,7 +4809,7 @@
     "prev": "586"
   },
   {
-    "pagenum": "588",
+    "slug": "588",
     "emory_page": 606,
     "first_root": 1127,
     "section": "hebrew",
@@ -4817,7 +4817,7 @@
     "prev": "587"
   },
   {
-    "pagenum": "589",
+    "slug": "589",
     "emory_page": 607,
     "first_root": 1129,
     "section": "hebrew",
@@ -4825,7 +4825,7 @@
     "prev": "588"
   },
   {
-    "pagenum": "590",
+    "slug": "590",
     "emory_page": 608,
     "first_root": 1130,
     "section": "hebrew",
@@ -4833,7 +4833,7 @@
     "prev": "589"
   },
   {
-    "pagenum": "591",
+    "slug": "591",
     "emory_page": 609,
     "first_root": 1132,
     "section": "hebrew",
@@ -4841,7 +4841,7 @@
     "prev": "590"
   },
   {
-    "pagenum": "592",
+    "slug": "592",
     "emory_page": 610,
     "first_root": 1133,
     "section": "hebrew",
@@ -4849,7 +4849,7 @@
     "prev": "591"
   },
   {
-    "pagenum": "593",
+    "slug": "593",
     "emory_page": 611,
     "first_root": 1133,
     "section": "hebrew",
@@ -4857,7 +4857,7 @@
     "prev": "592"
   },
   {
-    "pagenum": "594",
+    "slug": "594",
     "emory_page": 612,
     "first_root": 1135,
     "section": "hebrew",
@@ -4865,7 +4865,7 @@
     "prev": "593"
   },
   {
-    "pagenum": "595",
+    "slug": "595",
     "emory_page": 613,
     "first_root": 1137,
     "section": "hebrew",
@@ -4873,7 +4873,7 @@
     "prev": "594"
   },
   {
-    "pagenum": "596",
+    "slug": "596",
     "emory_page": 614,
     "first_root": 1138,
     "section": "hebrew",
@@ -4881,7 +4881,7 @@
     "prev": "595"
   },
   {
-    "pagenum": "597",
+    "slug": "597",
     "emory_page": 615,
     "first_root": 1141,
     "section": "hebrew",
@@ -4889,7 +4889,7 @@
     "prev": "596"
   },
   {
-    "pagenum": "598",
+    "slug": "598",
     "emory_page": 616,
     "first_root": 1144,
     "section": "hebrew",
@@ -4897,7 +4897,7 @@
     "prev": "597"
   },
   {
-    "pagenum": "599",
+    "slug": "599",
     "emory_page": 617,
     "first_root": 1146,
     "section": "hebrew",
@@ -4905,7 +4905,7 @@
     "prev": "598"
   },
   {
-    "pagenum": "600",
+    "slug": "600",
     "emory_page": 618,
     "first_root": 1148,
     "section": "hebrew",
@@ -4913,7 +4913,7 @@
     "prev": "599"
   },
   {
-    "pagenum": "601",
+    "slug": "601",
     "emory_page": 619,
     "first_root": 1149,
     "section": "hebrew",
@@ -4921,7 +4921,7 @@
     "prev": "600"
   },
   {
-    "pagenum": "602",
+    "slug": "602",
     "emory_page": 620,
     "first_root": 1151,
     "section": "hebrew",
@@ -4929,7 +4929,7 @@
     "prev": "601"
   },
   {
-    "pagenum": "603",
+    "slug": "603",
     "emory_page": 621,
     "first_root": 1151,
     "section": "hebrew",
@@ -4937,7 +4937,7 @@
     "prev": "602"
   },
   {
-    "pagenum": "604",
+    "slug": "604",
     "emory_page": 622,
     "first_root": 1152,
     "section": "hebrew",
@@ -4945,7 +4945,7 @@
     "prev": "603"
   },
   {
-    "pagenum": "605",
+    "slug": "605",
     "emory_page": 623,
     "first_root": 1154,
     "section": "hebrew",
@@ -4953,7 +4953,7 @@
     "prev": "604"
   },
   {
-    "pagenum": "606",
+    "slug": "606",
     "emory_page": 624,
     "first_root": 1157,
     "section": "hebrew",
@@ -4961,7 +4961,7 @@
     "prev": "605"
   },
   {
-    "pagenum": "607",
+    "slug": "607",
     "emory_page": 625,
     "first_root": 1161,
     "section": "hebrew",
@@ -4969,7 +4969,7 @@
     "prev": "606"
   },
   {
-    "pagenum": "608",
+    "slug": "608",
     "emory_page": 626,
     "first_root": 1163,
     "section": "hebrew",
@@ -4977,7 +4977,7 @@
     "prev": "607"
   },
   {
-    "pagenum": "609",
+    "slug": "609",
     "emory_page": 627,
     "first_root": 1165,
     "section": "hebrew",
@@ -4985,7 +4985,7 @@
     "prev": "608"
   },
   {
-    "pagenum": "610",
+    "slug": "610",
     "emory_page": 628,
     "first_root": 1169,
     "section": "hebrew",
@@ -4993,7 +4993,7 @@
     "prev": "609"
   },
   {
-    "pagenum": "611",
+    "slug": "611",
     "emory_page": 629,
     "first_root": 1172,
     "section": "hebrew",
@@ -5001,7 +5001,7 @@
     "prev": "610"
   },
   {
-    "pagenum": "612",
+    "slug": "612",
     "emory_page": 630,
     "first_root": 1173,
     "section": "hebrew",
@@ -5009,7 +5009,7 @@
     "prev": "611"
   },
   {
-    "pagenum": "613",
+    "slug": "613",
     "emory_page": 631,
     "first_root": 1175,
     "section": "hebrew",
@@ -5017,7 +5017,7 @@
     "prev": "612"
   },
   {
-    "pagenum": "614",
+    "slug": "614",
     "emory_page": 632,
     "first_root": 1177,
     "section": "hebrew",
@@ -5025,7 +5025,7 @@
     "prev": "613"
   },
   {
-    "pagenum": "615",
+    "slug": "615",
     "emory_page": 633,
     "first_root": 1179,
     "section": "hebrew",
@@ -5033,7 +5033,7 @@
     "prev": "614"
   },
   {
-    "pagenum": "616",
+    "slug": "616",
     "emory_page": 634,
     "first_root": 1181,
     "section": "hebrew",
@@ -5041,7 +5041,7 @@
     "prev": "615"
   },
   {
-    "pagenum": "617",
+    "slug": "617",
     "emory_page": 635,
     "first_root": 1181,
     "section": "hebrew",
@@ -5049,7 +5049,7 @@
     "prev": "616"
   },
   {
-    "pagenum": "618",
+    "slug": "618",
     "emory_page": 636,
     "first_root": 1185,
     "section": "hebrew",
@@ -5057,7 +5057,7 @@
     "prev": "617"
   },
   {
-    "pagenum": "619",
+    "slug": "619",
     "emory_page": 637,
     "first_root": 1187,
     "section": "hebrew",
@@ -5065,7 +5065,7 @@
     "prev": "618"
   },
   {
-    "pagenum": "620",
+    "slug": "620",
     "emory_page": 638,
     "first_root": 1190,
     "section": "hebrew",
@@ -5073,7 +5073,7 @@
     "prev": "619"
   },
   {
-    "pagenum": "621",
+    "slug": "621",
     "emory_page": 639,
     "first_root": 1192,
     "section": "hebrew",
@@ -5081,7 +5081,7 @@
     "prev": "620"
   },
   {
-    "pagenum": "622",
+    "slug": "622",
     "emory_page": 640,
     "first_root": 1196,
     "section": "hebrew",
@@ -5089,7 +5089,7 @@
     "prev": "621"
   },
   {
-    "pagenum": "623",
+    "slug": "623",
     "emory_page": 641,
     "first_root": 1199,
     "section": "hebrew",
@@ -5097,7 +5097,7 @@
     "prev": "622"
   },
   {
-    "pagenum": "624",
+    "slug": "624",
     "emory_page": 642,
     "first_root": 1203,
     "section": "hebrew",
@@ -5105,7 +5105,7 @@
     "prev": "623"
   },
   {
-    "pagenum": "625",
+    "slug": "625",
     "emory_page": 643,
     "first_root": 1206,
     "section": "hebrew",
@@ -5113,7 +5113,7 @@
     "prev": "624"
   },
   {
-    "pagenum": "626",
+    "slug": "626",
     "emory_page": 644,
     "first_root": 1210,
     "section": "hebrew",
@@ -5121,7 +5121,7 @@
     "prev": "625"
   },
   {
-    "pagenum": "627",
+    "slug": "627",
     "emory_page": 645,
     "first_root": 1213,
     "section": "hebrew",
@@ -5129,7 +5129,7 @@
     "prev": "626"
   },
   {
-    "pagenum": "628",
+    "slug": "628",
     "emory_page": 646,
     "first_root": 1214,
     "section": "hebrew",
@@ -5137,7 +5137,7 @@
     "prev": "627"
   },
   {
-    "pagenum": "629",
+    "slug": "629",
     "emory_page": 647,
     "first_root": 1214,
     "section": "hebrew",
@@ -5145,7 +5145,7 @@
     "prev": "628"
   },
   {
-    "pagenum": "630",
+    "slug": "630",
     "emory_page": 648,
     "first_root": 1218,
     "section": "hebrew",
@@ -5153,7 +5153,7 @@
     "prev": "629"
   },
   {
-    "pagenum": "631",
+    "slug": "631",
     "emory_page": 649,
     "first_root": 1220,
     "section": "hebrew",
@@ -5161,7 +5161,7 @@
     "prev": "630"
   },
   {
-    "pagenum": "632",
+    "slug": "632",
     "emory_page": 650,
     "first_root": 1223,
     "section": "hebrew",
@@ -5169,7 +5169,7 @@
     "prev": "631"
   },
   {
-    "pagenum": "633",
+    "slug": "633",
     "emory_page": 651,
     "first_root": 1228,
     "section": "hebrew",
@@ -5177,7 +5177,7 @@
     "prev": "632"
   },
   {
-    "pagenum": "634",
+    "slug": "634",
     "emory_page": 652,
     "first_root": 1230,
     "section": "hebrew",
@@ -5185,7 +5185,7 @@
     "prev": "633"
   },
   {
-    "pagenum": "635",
+    "slug": "635",
     "emory_page": 653,
     "first_root": 1231,
     "section": "hebrew",
@@ -5193,7 +5193,7 @@
     "prev": "634"
   },
   {
-    "pagenum": "636",
+    "slug": "636",
     "emory_page": 654,
     "first_root": 1233,
     "section": "hebrew",
@@ -5201,7 +5201,7 @@
     "prev": "635"
   },
   {
-    "pagenum": "637",
+    "slug": "637",
     "emory_page": 655,
     "first_root": 1235,
     "section": "hebrew",
@@ -5209,7 +5209,7 @@
     "prev": "636"
   },
   {
-    "pagenum": "638",
+    "slug": "638",
     "emory_page": 656,
     "first_root": 1238,
     "section": "hebrew",
@@ -5217,7 +5217,7 @@
     "prev": "637"
   },
   {
-    "pagenum": "639",
+    "slug": "639",
     "emory_page": 657,
     "first_root": 1241,
     "section": "hebrew",
@@ -5225,7 +5225,7 @@
     "prev": "638"
   },
   {
-    "pagenum": "640",
+    "slug": "640",
     "emory_page": 658,
     "first_root": 1241,
     "section": "hebrew",
@@ -5233,7 +5233,7 @@
     "prev": "639"
   },
   {
-    "pagenum": "641",
+    "slug": "641",
     "emory_page": 659,
     "first_root": 1241,
     "section": "hebrew",
@@ -5241,7 +5241,7 @@
     "prev": "640"
   },
   {
-    "pagenum": "642",
+    "slug": "642",
     "emory_page": 660,
     "first_root": 1244,
     "section": "hebrew",
@@ -5249,7 +5249,7 @@
     "prev": "641"
   },
   {
-    "pagenum": "643",
+    "slug": "643",
     "emory_page": 661,
     "first_root": 1246,
     "section": "hebrew",
@@ -5257,7 +5257,7 @@
     "prev": "642"
   },
   {
-    "pagenum": "644",
+    "slug": "644",
     "emory_page": 662,
     "first_root": 1251,
     "section": "hebrew",
@@ -5265,7 +5265,7 @@
     "prev": "643"
   },
   {
-    "pagenum": "645",
+    "slug": "645",
     "emory_page": 663,
     "first_root": 1252,
     "section": "hebrew",
@@ -5273,7 +5273,7 @@
     "prev": "644"
   },
   {
-    "pagenum": "646",
+    "slug": "646",
     "emory_page": 664,
     "first_root": 1252,
     "section": "hebrew",
@@ -5281,7 +5281,7 @@
     "prev": "645"
   },
   {
-    "pagenum": "647",
+    "slug": "647",
     "emory_page": 665,
     "first_root": 1255,
     "section": "hebrew",
@@ -5289,7 +5289,7 @@
     "prev": "646"
   },
   {
-    "pagenum": "648",
+    "slug": "648",
     "emory_page": 666,
     "first_root": 1256,
     "section": "hebrew",
@@ -5297,7 +5297,7 @@
     "prev": "647"
   },
   {
-    "pagenum": "649",
+    "slug": "649",
     "emory_page": 667,
     "first_root": 1259,
     "section": "hebrew",
@@ -5305,7 +5305,7 @@
     "prev": "648"
   },
   {
-    "pagenum": "650",
+    "slug": "650",
     "emory_page": 668,
     "first_root": 1262,
     "section": "hebrew",
@@ -5313,7 +5313,7 @@
     "prev": "649"
   },
   {
-    "pagenum": "651",
+    "slug": "651",
     "emory_page": 669,
     "first_root": 1266,
     "section": "hebrew",
@@ -5321,7 +5321,7 @@
     "prev": "650"
   },
   {
-    "pagenum": "652",
+    "slug": "652",
     "emory_page": 670,
     "first_root": 1269,
     "section": "hebrew",
@@ -5329,7 +5329,7 @@
     "prev": "651"
   },
   {
-    "pagenum": "653",
+    "slug": "653",
     "emory_page": 671,
     "first_root": 1271,
     "section": "hebrew",
@@ -5337,7 +5337,7 @@
     "prev": "652"
   },
   {
-    "pagenum": "654",
+    "slug": "654",
     "emory_page": 672,
     "first_root": 1276,
     "section": "hebrew",
@@ -5345,7 +5345,7 @@
     "prev": "653"
   },
   {
-    "pagenum": "655",
+    "slug": "655",
     "emory_page": 673,
     "first_root": 1277,
     "section": "hebrew",
@@ -5353,7 +5353,7 @@
     "prev": "654"
   },
   {
-    "pagenum": "656",
+    "slug": "656",
     "emory_page": 674,
     "first_root": 1278,
     "section": "hebrew",
@@ -5361,7 +5361,7 @@
     "prev": "655"
   },
   {
-    "pagenum": "657",
+    "slug": "657",
     "emory_page": 675,
     "first_root": 1278,
     "section": "hebrew",
@@ -5369,7 +5369,7 @@
     "prev": "656"
   },
   {
-    "pagenum": "658",
+    "slug": "658",
     "emory_page": 676,
     "first_root": 1279,
     "section": "hebrew",
@@ -5377,7 +5377,7 @@
     "prev": "657"
   },
   {
-    "pagenum": "659",
+    "slug": "659",
     "emory_page": 677,
     "first_root": 1281,
     "section": "hebrew",
@@ -5385,7 +5385,7 @@
     "prev": "658"
   },
   {
-    "pagenum": "660",
+    "slug": "660",
     "emory_page": 678,
     "first_root": 1281,
     "section": "hebrew",
@@ -5393,7 +5393,7 @@
     "prev": "659"
   },
   {
-    "pagenum": "661",
+    "slug": "661",
     "emory_page": 679,
     "first_root": 1282,
     "section": "hebrew",
@@ -5401,7 +5401,7 @@
     "prev": "660"
   },
   {
-    "pagenum": "662",
+    "slug": "662",
     "emory_page": 680,
     "first_root": 1283,
     "section": "hebrew",
@@ -5409,7 +5409,7 @@
     "prev": "661"
   },
   {
-    "pagenum": "663",
+    "slug": "663",
     "emory_page": 681,
     "first_root": 1287,
     "section": "hebrew",
@@ -5417,7 +5417,7 @@
     "prev": "662"
   },
   {
-    "pagenum": "664",
+    "slug": "664",
     "emory_page": 682,
     "first_root": 1289,
     "section": "hebrew",
@@ -5425,7 +5425,7 @@
     "prev": "663"
   },
   {
-    "pagenum": "665",
+    "slug": "665",
     "emory_page": 683,
     "first_root": 1292,
     "section": "hebrew",
@@ -5433,7 +5433,7 @@
     "prev": "664"
   },
   {
-    "pagenum": "666",
+    "slug": "666",
     "emory_page": 684,
     "first_root": 1296,
     "section": "hebrew",
@@ -5441,7 +5441,7 @@
     "prev": "665"
   },
   {
-    "pagenum": "667",
+    "slug": "667",
     "emory_page": 685,
     "first_root": 1299,
     "section": "hebrew",
@@ -5449,7 +5449,7 @@
     "prev": "666"
   },
   {
-    "pagenum": "668",
+    "slug": "668",
     "emory_page": 686,
     "first_root": 1302,
     "section": "hebrew",
@@ -5457,7 +5457,7 @@
     "prev": "667"
   },
   {
-    "pagenum": "669",
+    "slug": "669",
     "emory_page": 687,
     "first_root": 1306,
     "section": "hebrew",
@@ -5465,7 +5465,7 @@
     "prev": "668"
   },
   {
-    "pagenum": "670",
+    "slug": "670",
     "emory_page": 688,
     "first_root": 1306,
     "section": "hebrew",
@@ -5473,7 +5473,7 @@
     "prev": "669"
   },
   {
-    "pagenum": "671",
+    "slug": "671",
     "emory_page": 689,
     "first_root": 1306,
     "section": "hebrew",
@@ -5481,7 +5481,7 @@
     "prev": "670"
   },
   {
-    "pagenum": "672",
+    "slug": "672",
     "emory_page": 690,
     "first_root": 1306,
     "section": "hebrew",
@@ -5489,7 +5489,7 @@
     "prev": "671"
   },
   {
-    "pagenum": "673",
+    "slug": "673",
     "emory_page": 691,
     "first_root": 1309,
     "section": "hebrew",
@@ -5497,7 +5497,7 @@
     "prev": "672"
   },
   {
-    "pagenum": "674",
+    "slug": "674",
     "emory_page": 692,
     "first_root": 1314,
     "section": "hebrew",
@@ -5505,7 +5505,7 @@
     "prev": "673"
   },
   {
-    "pagenum": "675",
+    "slug": "675",
     "emory_page": 693,
     "first_root": 1317,
     "section": "hebrew",
@@ -5513,7 +5513,7 @@
     "prev": "674"
   },
   {
-    "pagenum": "676",
+    "slug": "676",
     "emory_page": 694,
     "first_root": 1321,
     "section": "hebrew",
@@ -5521,7 +5521,7 @@
     "prev": "675"
   },
   {
-    "pagenum": "677",
+    "slug": "677",
     "emory_page": 695,
     "first_root": 1325,
     "section": "hebrew",
@@ -5529,7 +5529,7 @@
     "prev": "676"
   },
   {
-    "pagenum": "678",
+    "slug": "678",
     "emory_page": 696,
     "first_root": 1326,
     "section": "hebrew",
@@ -5537,7 +5537,7 @@
     "prev": "677"
   },
   {
-    "pagenum": "679",
+    "slug": "679",
     "emory_page": 697,
     "first_root": 1326,
     "section": "hebrew",
@@ -5545,7 +5545,7 @@
     "prev": "678"
   },
   {
-    "pagenum": "680",
+    "slug": "680",
     "emory_page": 698,
     "first_root": 1326,
     "section": "hebrew",
@@ -5553,7 +5553,7 @@
     "prev": "679"
   },
   {
-    "pagenum": "681",
+    "slug": "681",
     "emory_page": 699,
     "first_root": 1326,
     "section": "hebrew",
@@ -5561,7 +5561,7 @@
     "prev": "680"
   },
   {
-    "pagenum": "682",
+    "slug": "682",
     "emory_page": 700,
     "first_root": 1326,
     "section": "hebrew",
@@ -5569,7 +5569,7 @@
     "prev": "681"
   },
   {
-    "pagenum": "683",
+    "slug": "683",
     "emory_page": 701,
     "first_root": 1330,
     "section": "hebrew",
@@ -5577,7 +5577,7 @@
     "prev": "682"
   },
   {
-    "pagenum": "684",
+    "slug": "684",
     "emory_page": 702,
     "first_root": 1336,
     "section": "hebrew",
@@ -5585,7 +5585,7 @@
     "prev": "683"
   },
   {
-    "pagenum": "685",
+    "slug": "685",
     "emory_page": 703,
     "first_root": 1337,
     "section": "hebrew",
@@ -5593,7 +5593,7 @@
     "prev": "684"
   },
   {
-    "pagenum": "686",
+    "slug": "686",
     "emory_page": 704,
     "first_root": 1337,
     "section": "hebrew",
@@ -5601,7 +5601,7 @@
     "prev": "685"
   },
   {
-    "pagenum": "687",
+    "slug": "687",
     "emory_page": 705,
     "first_root": 1339,
     "section": "hebrew",
@@ -5609,7 +5609,7 @@
     "prev": "686"
   },
   {
-    "pagenum": "688",
+    "slug": "688",
     "emory_page": 706,
     "first_root": 1342,
     "section": "hebrew",
@@ -5617,7 +5617,7 @@
     "prev": "687"
   },
   {
-    "pagenum": "689",
+    "slug": "689",
     "emory_page": 707,
     "first_root": 1343,
     "section": "hebrew",
@@ -5625,7 +5625,7 @@
     "prev": "688"
   },
   {
-    "pagenum": "690",
+    "slug": "690",
     "emory_page": 708,
     "first_root": 1346,
     "section": "hebrew",
@@ -5633,7 +5633,7 @@
     "prev": "689"
   },
   {
-    "pagenum": "691",
+    "slug": "691",
     "emory_page": 709,
     "first_root": 1351,
     "section": "hebrew",
@@ -5641,7 +5641,7 @@
     "prev": "690"
   },
   {
-    "pagenum": "692",
+    "slug": "692",
     "emory_page": 710,
     "first_root": 1353,
     "section": "hebrew",
@@ -5649,7 +5649,7 @@
     "prev": "691"
   },
   {
-    "pagenum": "693",
+    "slug": "693",
     "emory_page": 711,
     "first_root": 1354,
     "section": "hebrew",
@@ -5657,7 +5657,7 @@
     "prev": "692"
   },
   {
-    "pagenum": "694",
+    "slug": "694",
     "emory_page": 712,
     "first_root": 1356,
     "section": "hebrew",
@@ -5665,7 +5665,7 @@
     "prev": "693"
   },
   {
-    "pagenum": "695",
+    "slug": "695",
     "emory_page": 713,
     "first_root": 1359,
     "section": "hebrew",
@@ -5673,7 +5673,7 @@
     "prev": "694"
   },
   {
-    "pagenum": "696",
+    "slug": "696",
     "emory_page": 714,
     "first_root": 1360,
     "section": "hebrew",
@@ -5681,7 +5681,7 @@
     "prev": "695"
   },
   {
-    "pagenum": "697",
+    "slug": "697",
     "emory_page": 715,
     "first_root": 1361,
     "section": "hebrew",
@@ -5689,7 +5689,7 @@
     "prev": "696"
   },
   {
-    "pagenum": "698",
+    "slug": "698",
     "emory_page": 716,
     "first_root": 1370,
     "section": "hebrew",
@@ -5697,7 +5697,7 @@
     "prev": "697"
   },
   {
-    "pagenum": "699",
+    "slug": "699",
     "emory_page": 717,
     "first_root": 1374,
     "section": "hebrew",
@@ -5705,7 +5705,7 @@
     "prev": "698"
   },
   {
-    "pagenum": "700",
+    "slug": "700",
     "emory_page": 718,
     "first_root": 1376,
     "section": "hebrew",
@@ -5713,7 +5713,7 @@
     "prev": "699"
   },
   {
-    "pagenum": "701",
+    "slug": "701",
     "emory_page": 719,
     "first_root": 1379,
     "section": "hebrew",
@@ -5721,7 +5721,7 @@
     "prev": "700"
   },
   {
-    "pagenum": "702",
+    "slug": "702",
     "emory_page": 720,
     "first_root": 1382,
     "section": "hebrew",
@@ -5729,7 +5729,7 @@
     "prev": "701"
   },
   {
-    "pagenum": "703",
+    "slug": "703",
     "emory_page": 721,
     "first_root": 1385,
     "section": "hebrew",
@@ -5737,7 +5737,7 @@
     "prev": "702"
   },
   {
-    "pagenum": "704",
+    "slug": "704",
     "emory_page": 722,
     "first_root": 1388,
     "section": "hebrew",
@@ -5745,7 +5745,7 @@
     "prev": "703"
   },
   {
-    "pagenum": "705",
+    "slug": "705",
     "emory_page": 723,
     "first_root": 1392,
     "section": "hebrew",
@@ -5753,7 +5753,7 @@
     "prev": "704"
   },
   {
-    "pagenum": "706",
+    "slug": "706",
     "emory_page": 724,
     "first_root": 1396,
     "section": "hebrew",
@@ -5761,7 +5761,7 @@
     "prev": "705"
   },
   {
-    "pagenum": "707",
+    "slug": "707",
     "emory_page": 725,
     "first_root": 1396,
     "section": "hebrew",
@@ -5769,7 +5769,7 @@
     "prev": "706"
   },
   {
-    "pagenum": "708",
+    "slug": "708",
     "emory_page": 726,
     "first_root": 1396,
     "section": "hebrew",
@@ -5777,7 +5777,7 @@
     "prev": "707"
   },
   {
-    "pagenum": "709",
+    "slug": "709",
     "emory_page": 727,
     "first_root": 1397,
     "section": "hebrew",
@@ -5785,7 +5785,7 @@
     "prev": "708"
   },
   {
-    "pagenum": "710",
+    "slug": "710",
     "emory_page": 728,
     "first_root": 1400,
     "section": "hebrew",
@@ -5793,7 +5793,7 @@
     "prev": "709"
   },
   {
-    "pagenum": "711",
+    "slug": "711",
     "emory_page": 729,
     "first_root": 1402,
     "section": "hebrew",
@@ -5801,7 +5801,7 @@
     "prev": "710"
   },
   {
-    "pagenum": "712",
+    "slug": "712",
     "emory_page": 730,
     "first_root": 1405,
     "section": "hebrew",
@@ -5809,7 +5809,7 @@
     "prev": "711"
   },
   {
-    "pagenum": "713",
+    "slug": "713",
     "emory_page": 731,
     "first_root": 1405,
     "section": "hebrew",
@@ -5817,7 +5817,7 @@
     "prev": "712"
   },
   {
-    "pagenum": "714",
+    "slug": "714",
     "emory_page": 732,
     "first_root": 1405,
     "section": "hebrew",
@@ -5825,7 +5825,7 @@
     "prev": "713"
   },
   {
-    "pagenum": "715",
+    "slug": "715",
     "emory_page": 733,
     "first_root": 1405,
     "section": "hebrew",
@@ -5833,7 +5833,7 @@
     "prev": "714"
   },
   {
-    "pagenum": "716",
+    "slug": "716",
     "emory_page": 734,
     "first_root": 1410,
     "section": "hebrew",
@@ -5841,7 +5841,7 @@
     "prev": "715"
   },
   {
-    "pagenum": "717",
+    "slug": "717",
     "emory_page": 735,
     "first_root": 1410,
     "section": "hebrew",
@@ -5849,7 +5849,7 @@
     "prev": "716"
   },
   {
-    "pagenum": "718",
+    "slug": "718",
     "emory_page": 736,
     "first_root": 1410,
     "section": "hebrew",
@@ -5857,7 +5857,7 @@
     "prev": "717"
   },
   {
-    "pagenum": "719",
+    "slug": "719",
     "emory_page": 737,
     "first_root": 1410,
     "section": "hebrew",
@@ -5865,7 +5865,7 @@
     "prev": "718"
   },
   {
-    "pagenum": "720",
+    "slug": "720",
     "emory_page": 738,
     "first_root": 1410,
     "section": "hebrew",
@@ -5873,7 +5873,7 @@
     "prev": "719"
   },
   {
-    "pagenum": "721",
+    "slug": "721",
     "emory_page": 739,
     "first_root": 1413,
     "section": "hebrew",
@@ -5881,7 +5881,7 @@
     "prev": "720"
   },
   {
-    "pagenum": "722",
+    "slug": "722",
     "emory_page": 740,
     "first_root": 1414,
     "section": "hebrew",
@@ -5889,7 +5889,7 @@
     "prev": "721"
   },
   {
-    "pagenum": "723",
+    "slug": "723",
     "emory_page": 741,
     "first_root": 1419,
     "section": "hebrew",
@@ -5897,7 +5897,7 @@
     "prev": "722"
   },
   {
-    "pagenum": "724",
+    "slug": "724",
     "emory_page": 742,
     "first_root": 1419,
     "section": "hebrew",
@@ -5905,7 +5905,7 @@
     "prev": "723"
   },
   {
-    "pagenum": "725",
+    "slug": "725",
     "emory_page": 743,
     "first_root": 1420,
     "section": "hebrew",
@@ -5913,7 +5913,7 @@
     "prev": "724"
   },
   {
-    "pagenum": "726",
+    "slug": "726",
     "emory_page": 744,
     "first_root": 1424,
     "section": "hebrew",
@@ -5921,7 +5921,7 @@
     "prev": "725"
   },
   {
-    "pagenum": "727",
+    "slug": "727",
     "emory_page": 745,
     "first_root": 1429,
     "section": "hebrew",
@@ -5929,7 +5929,7 @@
     "prev": "726"
   },
   {
-    "pagenum": "728",
+    "slug": "728",
     "emory_page": 746,
     "first_root": 1431,
     "section": "hebrew",
@@ -5937,7 +5937,7 @@
     "prev": "727"
   },
   {
-    "pagenum": "729",
+    "slug": "729",
     "emory_page": 747,
     "first_root": 1431,
     "section": "hebrew",
@@ -5945,7 +5945,7 @@
     "prev": "728"
   },
   {
-    "pagenum": "730",
+    "slug": "730",
     "emory_page": 748,
     "first_root": 1433,
     "section": "hebrew",
@@ -5953,7 +5953,7 @@
     "prev": "729"
   },
   {
-    "pagenum": "731",
+    "slug": "731",
     "emory_page": 749,
     "first_root": 1434,
     "section": "hebrew",
@@ -5961,7 +5961,7 @@
     "prev": "730"
   },
   {
-    "pagenum": "732",
+    "slug": "732",
     "emory_page": 750,
     "first_root": 1438,
     "section": "hebrew",
@@ -5969,7 +5969,7 @@
     "prev": "731"
   },
   {
-    "pagenum": "733",
+    "slug": "733",
     "emory_page": 751,
     "first_root": 1439,
     "section": "hebrew",
@@ -5977,7 +5977,7 @@
     "prev": "732"
   },
   {
-    "pagenum": "734",
+    "slug": "734",
     "emory_page": 752,
     "first_root": 1444,
     "section": "hebrew",
@@ -5985,7 +5985,7 @@
     "prev": "733"
   },
   {
-    "pagenum": "735",
+    "slug": "735",
     "emory_page": 753,
     "first_root": 1445,
     "section": "hebrew",
@@ -5993,7 +5993,7 @@
     "prev": "734"
   },
   {
-    "pagenum": "736",
+    "slug": "736",
     "emory_page": 754,
     "first_root": 1450,
     "section": "hebrew",
@@ -6001,7 +6001,7 @@
     "prev": "735"
   },
   {
-    "pagenum": "737",
+    "slug": "737",
     "emory_page": 755,
     "first_root": 1450,
     "section": "hebrew",
@@ -6009,7 +6009,7 @@
     "prev": "736"
   },
   {
-    "pagenum": "738",
+    "slug": "738",
     "emory_page": 756,
     "first_root": 1452,
     "section": "hebrew",
@@ -6017,7 +6017,7 @@
     "prev": "737"
   },
   {
-    "pagenum": "739",
+    "slug": "739",
     "emory_page": 757,
     "first_root": 1452,
     "section": "hebrew",
@@ -6025,7 +6025,7 @@
     "prev": "738"
   },
   {
-    "pagenum": "740",
+    "slug": "740",
     "emory_page": 758,
     "first_root": 1454,
     "section": "hebrew",
@@ -6033,7 +6033,7 @@
     "prev": "739"
   },
   {
-    "pagenum": "741",
+    "slug": "741",
     "emory_page": 759,
     "first_root": 1456,
     "section": "hebrew",
@@ -6041,7 +6041,7 @@
     "prev": "740"
   },
   {
-    "pagenum": "742",
+    "slug": "742",
     "emory_page": 760,
     "first_root": 1462,
     "section": "hebrew",
@@ -6049,7 +6049,7 @@
     "prev": "741"
   },
   {
-    "pagenum": "743",
+    "slug": "743",
     "emory_page": 761,
     "first_root": 1464,
     "section": "hebrew",
@@ -6057,7 +6057,7 @@
     "prev": "742"
   },
   {
-    "pagenum": "744",
+    "slug": "744",
     "emory_page": 762,
     "first_root": 1465,
     "section": "hebrew",
@@ -6065,7 +6065,7 @@
     "prev": "743"
   },
   {
-    "pagenum": "745",
+    "slug": "745",
     "emory_page": 763,
     "first_root": 1465,
     "section": "hebrew",
@@ -6073,7 +6073,7 @@
     "prev": "744"
   },
   {
-    "pagenum": "746",
+    "slug": "746",
     "emory_page": 764,
     "first_root": 1468,
     "section": "hebrew",
@@ -6081,7 +6081,7 @@
     "prev": "745"
   },
   {
-    "pagenum": "747",
+    "slug": "747",
     "emory_page": 765,
     "first_root": 1471,
     "section": "hebrew",
@@ -6089,7 +6089,7 @@
     "prev": "746"
   },
   {
-    "pagenum": "748",
+    "slug": "748",
     "emory_page": 766,
     "first_root": 1473,
     "section": "hebrew",
@@ -6097,7 +6097,7 @@
     "prev": "747"
   },
   {
-    "pagenum": "749",
+    "slug": "749",
     "emory_page": 767,
     "first_root": 1473,
     "section": "hebrew",
@@ -6105,7 +6105,7 @@
     "prev": "748"
   },
   {
-    "pagenum": "750",
+    "slug": "750",
     "emory_page": 768,
     "first_root": 1473,
     "section": "hebrew",
@@ -6113,7 +6113,7 @@
     "prev": "749"
   },
   {
-    "pagenum": "751",
+    "slug": "751",
     "emory_page": 769,
     "first_root": 1473,
     "section": "hebrew",
@@ -6121,7 +6121,7 @@
     "prev": "750"
   },
   {
-    "pagenum": "752",
+    "slug": "752",
     "emory_page": 770,
     "first_root": 1473,
     "section": "hebrew",
@@ -6129,7 +6129,7 @@
     "prev": "751"
   },
   {
-    "pagenum": "753",
+    "slug": "753",
     "emory_page": 771,
     "first_root": 1473,
     "section": "hebrew",
@@ -6137,7 +6137,7 @@
     "prev": "752"
   },
   {
-    "pagenum": "754",
+    "slug": "754",
     "emory_page": 772,
     "first_root": 1473,
     "section": "hebrew",
@@ -6145,7 +6145,7 @@
     "prev": "753"
   },
   {
-    "pagenum": "755",
+    "slug": "755",
     "emory_page": 773,
     "first_root": 1473,
     "section": "hebrew",
@@ -6153,7 +6153,7 @@
     "prev": "754"
   },
   {
-    "pagenum": "756",
+    "slug": "756",
     "emory_page": 774,
     "first_root": 1473,
     "section": "hebrew",
@@ -6161,7 +6161,7 @@
     "prev": "755"
   },
   {
-    "pagenum": "757",
+    "slug": "757",
     "emory_page": 775,
     "first_root": 1473,
     "section": "hebrew",
@@ -6169,7 +6169,7 @@
     "prev": "756"
   },
   {
-    "pagenum": "758",
+    "slug": "758",
     "emory_page": 776,
     "first_root": 1473,
     "section": "hebrew",
@@ -6177,7 +6177,7 @@
     "prev": "757"
   },
   {
-    "pagenum": "759",
+    "slug": "759",
     "emory_page": 777,
     "first_root": 1475,
     "section": "hebrew",
@@ -6185,7 +6185,7 @@
     "prev": "758"
   },
   {
-    "pagenum": "760",
+    "slug": "760",
     "emory_page": 778,
     "first_root": 1477,
     "section": "hebrew",
@@ -6193,7 +6193,7 @@
     "prev": "759"
   },
   {
-    "pagenum": "761",
+    "slug": "761",
     "emory_page": 779,
     "first_root": 1480,
     "section": "hebrew",
@@ -6201,7 +6201,7 @@
     "prev": "760"
   },
   {
-    "pagenum": "762",
+    "slug": "762",
     "emory_page": 780,
     "first_root": 1480,
     "section": "hebrew",
@@ -6209,7 +6209,7 @@
     "prev": "761"
   },
   {
-    "pagenum": "763",
+    "slug": "763",
     "emory_page": 781,
     "first_root": 1486,
     "section": "hebrew",
@@ -6217,7 +6217,7 @@
     "prev": "762"
   },
   {
-    "pagenum": "764",
+    "slug": "764",
     "emory_page": 782,
     "first_root": 1486,
     "section": "hebrew",
@@ -6225,7 +6225,7 @@
     "prev": "763"
   },
   {
-    "pagenum": "765",
+    "slug": "765",
     "emory_page": 783,
     "first_root": 1488,
     "section": "hebrew",
@@ -6233,7 +6233,7 @@
     "prev": "764"
   },
   {
-    "pagenum": "766",
+    "slug": "766",
     "emory_page": 784,
     "first_root": 1489,
     "section": "hebrew",
@@ -6241,7 +6241,7 @@
     "prev": "765"
   },
   {
-    "pagenum": "767",
+    "slug": "767",
     "emory_page": 785,
     "first_root": 1490,
     "section": "hebrew",
@@ -6249,7 +6249,7 @@
     "prev": "766"
   },
   {
-    "pagenum": "768",
+    "slug": "768",
     "emory_page": 786,
     "first_root": 1490,
     "section": "hebrew",
@@ -6257,7 +6257,7 @@
     "prev": "767"
   },
   {
-    "pagenum": "769",
+    "slug": "769",
     "emory_page": 787,
     "first_root": 1490,
     "section": "hebrew",
@@ -6265,7 +6265,7 @@
     "prev": "768"
   },
   {
-    "pagenum": "770",
+    "slug": "770",
     "emory_page": 788,
     "first_root": 1493,
     "section": "hebrew",
@@ -6273,7 +6273,7 @@
     "prev": "769"
   },
   {
-    "pagenum": "771",
+    "slug": "771",
     "emory_page": 789,
     "first_root": 1496,
     "section": "hebrew",
@@ -6281,7 +6281,7 @@
     "prev": "770"
   },
   {
-    "pagenum": "772",
+    "slug": "772",
     "emory_page": 790,
     "first_root": 1500,
     "section": "hebrew",
@@ -6289,7 +6289,7 @@
     "prev": "771"
   },
   {
-    "pagenum": "773",
+    "slug": "773",
     "emory_page": 791,
     "first_root": 1500,
     "section": "hebrew",
@@ -6297,7 +6297,7 @@
     "prev": "772"
   },
   {
-    "pagenum": "774",
+    "slug": "774",
     "emory_page": 792,
     "first_root": 1500,
     "section": "hebrew",
@@ -6305,7 +6305,7 @@
     "prev": "773"
   },
   {
-    "pagenum": "775",
+    "slug": "775",
     "emory_page": 793,
     "first_root": 1501,
     "section": "hebrew",
@@ -6313,7 +6313,7 @@
     "prev": "774"
   },
   {
-    "pagenum": "776",
+    "slug": "776",
     "emory_page": 794,
     "first_root": 1502,
     "section": "hebrew",
@@ -6321,7 +6321,7 @@
     "prev": "775"
   },
   {
-    "pagenum": "777",
+    "slug": "777",
     "emory_page": 795,
     "first_root": 1505,
     "section": "hebrew",
@@ -6329,7 +6329,7 @@
     "prev": "776"
   },
   {
-    "pagenum": "778",
+    "slug": "778",
     "emory_page": 796,
     "first_root": 1509,
     "section": "hebrew",
@@ -6337,7 +6337,7 @@
     "prev": "777"
   },
   {
-    "pagenum": "779",
+    "slug": "779",
     "emory_page": 797,
     "first_root": 1513,
     "section": "hebrew",
@@ -6345,7 +6345,7 @@
     "prev": "778"
   },
   {
-    "pagenum": "780",
+    "slug": "780",
     "emory_page": 798,
     "first_root": 1515,
     "section": "hebrew",
@@ -6353,7 +6353,7 @@
     "prev": "779"
   },
   {
-    "pagenum": "781",
+    "slug": "781",
     "emory_page": 799,
     "first_root": 1519,
     "section": "hebrew",
@@ -6361,7 +6361,7 @@
     "prev": "780"
   },
   {
-    "pagenum": "782",
+    "slug": "782",
     "emory_page": 800,
     "first_root": 1523,
     "section": "hebrew",
@@ -6369,7 +6369,7 @@
     "prev": "781"
   },
   {
-    "pagenum": "783",
+    "slug": "783",
     "emory_page": 801,
     "first_root": 1526,
     "section": "hebrew",
@@ -6377,7 +6377,7 @@
     "prev": "782"
   },
   {
-    "pagenum": "784",
+    "slug": "784",
     "emory_page": 802,
     "first_root": 1527,
     "section": "hebrew",
@@ -6385,7 +6385,7 @@
     "prev": "783"
   },
   {
-    "pagenum": "785",
+    "slug": "785",
     "emory_page": 803,
     "first_root": 1532,
     "section": "hebrew",
@@ -6393,7 +6393,7 @@
     "prev": "784"
   },
   {
-    "pagenum": "786",
+    "slug": "786",
     "emory_page": 804,
     "first_root": 1535,
     "section": "hebrew",
@@ -6401,7 +6401,7 @@
     "prev": "785"
   },
   {
-    "pagenum": "787",
+    "slug": "787",
     "emory_page": 805,
     "first_root": 1538,
     "section": "hebrew",
@@ -6409,7 +6409,7 @@
     "prev": "786"
   },
   {
-    "pagenum": "788",
+    "slug": "788",
     "emory_page": 806,
     "first_root": 1541,
     "section": "hebrew",
@@ -6417,7 +6417,7 @@
     "prev": "787"
   },
   {
-    "pagenum": "789",
+    "slug": "789",
     "emory_page": 807,
     "first_root": 1542,
     "section": "hebrew",
@@ -6425,7 +6425,7 @@
     "prev": "788"
   },
   {
-    "pagenum": "790",
+    "slug": "790",
     "emory_page": 808,
     "first_root": 1545,
     "section": "hebrew",
@@ -6433,7 +6433,7 @@
     "prev": "789"
   },
   {
-    "pagenum": "791",
+    "slug": "791",
     "emory_page": 809,
     "first_root": 1550,
     "section": "hebrew",
@@ -6441,7 +6441,7 @@
     "prev": "790"
   },
   {
-    "pagenum": "792",
+    "slug": "792",
     "emory_page": 810,
     "first_root": 1553,
     "section": "hebrew",
@@ -6449,7 +6449,7 @@
     "prev": "791"
   },
   {
-    "pagenum": "793",
+    "slug": "793",
     "emory_page": 811,
     "first_root": 1557,
     "section": "hebrew",
@@ -6457,7 +6457,7 @@
     "prev": "792"
   },
   {
-    "pagenum": "794",
+    "slug": "794",
     "emory_page": 812,
     "first_root": 1557,
     "section": "hebrew",
@@ -6465,7 +6465,7 @@
     "prev": "793"
   },
   {
-    "pagenum": "795",
+    "slug": "795",
     "emory_page": 813,
     "first_root": 1557,
     "section": "hebrew",
@@ -6473,7 +6473,7 @@
     "prev": "794"
   },
   {
-    "pagenum": "796",
+    "slug": "796",
     "emory_page": 814,
     "first_root": 1560,
     "section": "hebrew",
@@ -6481,7 +6481,7 @@
     "prev": "795"
   },
   {
-    "pagenum": "797",
+    "slug": "797",
     "emory_page": 815,
     "first_root": 1560,
     "section": "hebrew",
@@ -6489,7 +6489,7 @@
     "prev": "796"
   },
   {
-    "pagenum": "798",
+    "slug": "798",
     "emory_page": 816,
     "first_root": 1562,
     "section": "hebrew",
@@ -6497,7 +6497,7 @@
     "prev": "797"
   },
   {
-    "pagenum": "799",
+    "slug": "799",
     "emory_page": 817,
     "first_root": 1566,
     "section": "hebrew",
@@ -6505,7 +6505,7 @@
     "prev": "798"
   },
   {
-    "pagenum": "800",
+    "slug": "800",
     "emory_page": 818,
     "first_root": 1568,
     "section": "hebrew",
@@ -6513,7 +6513,7 @@
     "prev": "799"
   },
   {
-    "pagenum": "801",
+    "slug": "801",
     "emory_page": 819,
     "first_root": 1573,
     "section": "hebrew",
@@ -6521,7 +6521,7 @@
     "prev": "800"
   },
   {
-    "pagenum": "802",
+    "slug": "802",
     "emory_page": 820,
     "first_root": 1577,
     "section": "hebrew",
@@ -6529,7 +6529,7 @@
     "prev": "801"
   },
   {
-    "pagenum": "803",
+    "slug": "803",
     "emory_page": 821,
     "first_root": 1582,
     "section": "hebrew",
@@ -6537,7 +6537,7 @@
     "prev": "802"
   },
   {
-    "pagenum": "804",
+    "slug": "804",
     "emory_page": 822,
     "first_root": 1585,
     "section": "hebrew",
@@ -6545,7 +6545,7 @@
     "prev": "803"
   },
   {
-    "pagenum": "805",
+    "slug": "805",
     "emory_page": 823,
     "first_root": 1586,
     "section": "hebrew",
@@ -6553,7 +6553,7 @@
     "prev": "804"
   },
   {
-    "pagenum": "806",
+    "slug": "806",
     "emory_page": 824,
     "first_root": 1590,
     "section": "hebrew",
@@ -6561,7 +6561,7 @@
     "prev": "805"
   },
   {
-    "pagenum": "807",
+    "slug": "807",
     "emory_page": 825,
     "first_root": 1597,
     "section": "hebrew",
@@ -6569,7 +6569,7 @@
     "prev": "806"
   },
   {
-    "pagenum": "808",
+    "slug": "808",
     "emory_page": 826,
     "first_root": 1602,
     "section": "hebrew",
@@ -6577,7 +6577,7 @@
     "prev": "807"
   },
   {
-    "pagenum": "809",
+    "slug": "809",
     "emory_page": 827,
     "first_root": 1606,
     "section": "hebrew",
@@ -6585,7 +6585,7 @@
     "prev": "808"
   },
   {
-    "pagenum": "810",
+    "slug": "810",
     "emory_page": 828,
     "first_root": 1610,
     "section": "hebrew",
@@ -6593,7 +6593,7 @@
     "prev": "809"
   },
   {
-    "pagenum": "811",
+    "slug": "811",
     "emory_page": 829,
     "first_root": 1612,
     "section": "hebrew",
@@ -6601,7 +6601,7 @@
     "prev": "810"
   },
   {
-    "pagenum": "812",
+    "slug": "812",
     "emory_page": 830,
     "first_root": 1614,
     "section": "hebrew",
@@ -6609,7 +6609,7 @@
     "prev": "811"
   },
   {
-    "pagenum": "813",
+    "slug": "813",
     "emory_page": 831,
     "first_root": 1617,
     "section": "hebrew",
@@ -6617,7 +6617,7 @@
     "prev": "812"
   },
   {
-    "pagenum": "814",
+    "slug": "814",
     "emory_page": 832,
     "first_root": 1619,
     "section": "hebrew",
@@ -6625,7 +6625,7 @@
     "prev": "813"
   },
   {
-    "pagenum": "815",
+    "slug": "815",
     "emory_page": 833,
     "first_root": 1620,
     "section": "hebrew",
@@ -6633,7 +6633,7 @@
     "prev": "814"
   },
   {
-    "pagenum": "816",
+    "slug": "816",
     "emory_page": 834,
     "first_root": 1620,
     "section": "hebrew",
@@ -6641,7 +6641,7 @@
     "prev": "815"
   },
   {
-    "pagenum": "817",
+    "slug": "817",
     "emory_page": 835,
     "first_root": 1620,
     "section": "hebrew",
@@ -6649,7 +6649,7 @@
     "prev": "816"
   },
   {
-    "pagenum": "818",
+    "slug": "818",
     "emory_page": 836,
     "first_root": 1620,
     "section": "hebrew",
@@ -6657,7 +6657,7 @@
     "prev": "817"
   },
   {
-    "pagenum": "819",
+    "slug": "819",
     "emory_page": 837,
     "first_root": 1623,
     "section": "hebrew",
@@ -6665,7 +6665,7 @@
     "prev": "818"
   },
   {
-    "pagenum": "820",
+    "slug": "820",
     "emory_page": 838,
     "first_root": 1626,
     "section": "hebrew",
@@ -6673,7 +6673,7 @@
     "prev": "819"
   },
   {
-    "pagenum": "821",
+    "slug": "821",
     "emory_page": 839,
     "first_root": 1631,
     "section": "hebrew",
@@ -6681,7 +6681,7 @@
     "prev": "820"
   },
   {
-    "pagenum": "822",
+    "slug": "822",
     "emory_page": 840,
     "first_root": 1638,
     "section": "hebrew",
@@ -6689,7 +6689,7 @@
     "prev": "821"
   },
   {
-    "pagenum": "823",
+    "slug": "823",
     "emory_page": 841,
     "first_root": 1640,
     "section": "hebrew",
@@ -6697,7 +6697,7 @@
     "prev": "822"
   },
   {
-    "pagenum": "824",
+    "slug": "824",
     "emory_page": 842,
     "first_root": 1641,
     "section": "hebrew",
@@ -6705,7 +6705,7 @@
     "prev": "823"
   },
   {
-    "pagenum": "825",
+    "slug": "825",
     "emory_page": 843,
     "first_root": 1646,
     "section": "hebrew",
@@ -6713,7 +6713,7 @@
     "prev": "824"
   },
   {
-    "pagenum": "826",
+    "slug": "826",
     "emory_page": 844,
     "first_root": 1648,
     "section": "hebrew",
@@ -6721,7 +6721,7 @@
     "prev": "825"
   },
   {
-    "pagenum": "827",
+    "slug": "827",
     "emory_page": 845,
     "first_root": 1655,
     "section": "hebrew",
@@ -6729,7 +6729,7 @@
     "prev": "826"
   },
   {
-    "pagenum": "828",
+    "slug": "828",
     "emory_page": 846,
     "first_root": 1659,
     "section": "hebrew",
@@ -6737,7 +6737,7 @@
     "prev": "827"
   },
   {
-    "pagenum": "829",
+    "slug": "829",
     "emory_page": 847,
     "first_root": 1661,
     "section": "hebrew",
@@ -6745,7 +6745,7 @@
     "prev": "828"
   },
   {
-    "pagenum": "830",
+    "slug": "830",
     "emory_page": 848,
     "first_root": 1665,
     "section": "hebrew",
@@ -6753,7 +6753,7 @@
     "prev": "829"
   },
   {
-    "pagenum": "831",
+    "slug": "831",
     "emory_page": 849,
     "first_root": 1670,
     "section": "hebrew",
@@ -6761,7 +6761,7 @@
     "prev": "830"
   },
   {
-    "pagenum": "832",
+    "slug": "832",
     "emory_page": 850,
     "first_root": 1675,
     "section": "hebrew",
@@ -6769,7 +6769,7 @@
     "prev": "831"
   },
   {
-    "pagenum": "833",
+    "slug": "833",
     "emory_page": 851,
     "first_root": 1676,
     "section": "hebrew",
@@ -6777,7 +6777,7 @@
     "prev": "832"
   },
   {
-    "pagenum": "834",
+    "slug": "834",
     "emory_page": 852,
     "first_root": 1678,
     "section": "hebrew",
@@ -6785,7 +6785,7 @@
     "prev": "833"
   },
   {
-    "pagenum": "835",
+    "slug": "835",
     "emory_page": 853,
     "first_root": 1678,
     "section": "hebrew",
@@ -6793,7 +6793,7 @@
     "prev": "834"
   },
   {
-    "pagenum": "836",
+    "slug": "836",
     "emory_page": 854,
     "first_root": 1680,
     "section": "hebrew",
@@ -6801,7 +6801,7 @@
     "prev": "835"
   },
   {
-    "pagenum": "837",
+    "slug": "837",
     "emory_page": 855,
     "first_root": 1684,
     "section": "hebrew",
@@ -6809,7 +6809,7 @@
     "prev": "836"
   },
   {
-    "pagenum": "838",
+    "slug": "838",
     "emory_page": 856,
     "first_root": 1687,
     "section": "hebrew",
@@ -6817,7 +6817,7 @@
     "prev": "837"
   },
   {
-    "pagenum": "839",
+    "slug": "839",
     "emory_page": 857,
     "first_root": 1691,
     "section": "hebrew",
@@ -6825,7 +6825,7 @@
     "prev": "838"
   },
   {
-    "pagenum": "840",
+    "slug": "840",
     "emory_page": 858,
     "first_root": 1698,
     "section": "hebrew",
@@ -6833,7 +6833,7 @@
     "prev": "839"
   },
   {
-    "pagenum": "841",
+    "slug": "841",
     "emory_page": 859,
     "first_root": 1702,
     "section": "hebrew",
@@ -6841,7 +6841,7 @@
     "prev": "840"
   },
   {
-    "pagenum": "842",
+    "slug": "842",
     "emory_page": 860,
     "first_root": 1702,
     "section": "hebrew",
@@ -6849,7 +6849,7 @@
     "prev": "841"
   },
   {
-    "pagenum": "843",
+    "slug": "843",
     "emory_page": 861,
     "first_root": 1706,
     "section": "hebrew",
@@ -6857,7 +6857,7 @@
     "prev": "842"
   },
   {
-    "pagenum": "844",
+    "slug": "844",
     "emory_page": 862,
     "first_root": 1708,
     "section": "hebrew",
@@ -6865,7 +6865,7 @@
     "prev": "843"
   },
   {
-    "pagenum": "845",
+    "slug": "845",
     "emory_page": 863,
     "first_root": 1710,
     "section": "hebrew",
@@ -6873,7 +6873,7 @@
     "prev": "844"
   },
   {
-    "pagenum": "846",
+    "slug": "846",
     "emory_page": 864,
     "first_root": 1712,
     "section": "hebrew",
@@ -6881,7 +6881,7 @@
     "prev": "845"
   },
   {
-    "pagenum": "847",
+    "slug": "847",
     "emory_page": 865,
     "first_root": 1718,
     "section": "hebrew",
@@ -6889,7 +6889,7 @@
     "prev": "846"
   },
   {
-    "pagenum": "848",
+    "slug": "848",
     "emory_page": 866,
     "first_root": 1721,
     "section": "hebrew",
@@ -6897,7 +6897,7 @@
     "prev": "847"
   },
   {
-    "pagenum": "849",
+    "slug": "849",
     "emory_page": 867,
     "first_root": 1724,
     "section": "hebrew",
@@ -6905,7 +6905,7 @@
     "prev": "848"
   },
   {
-    "pagenum": "850",
+    "slug": "850",
     "emory_page": 868,
     "first_root": 1729,
     "section": "hebrew",
@@ -6913,7 +6913,7 @@
     "prev": "849"
   },
   {
-    "pagenum": "851",
+    "slug": "851",
     "emory_page": 869,
     "first_root": 1731,
     "section": "hebrew",
@@ -6921,7 +6921,7 @@
     "prev": "850"
   },
   {
-    "pagenum": "852",
+    "slug": "852",
     "emory_page": 870,
     "first_root": 1737,
     "section": "hebrew",
@@ -6929,7 +6929,7 @@
     "prev": "851"
   },
   {
-    "pagenum": "853",
+    "slug": "853",
     "emory_page": 871,
     "first_root": 1741,
     "section": "hebrew",
@@ -6937,7 +6937,7 @@
     "prev": "852"
   },
   {
-    "pagenum": "854",
+    "slug": "854",
     "emory_page": 872,
     "first_root": 1744,
     "section": "hebrew",
@@ -6945,7 +6945,7 @@
     "prev": "853"
   },
   {
-    "pagenum": "855",
+    "slug": "855",
     "emory_page": 873,
     "first_root": 1748,
     "section": "hebrew",
@@ -6953,7 +6953,7 @@
     "prev": "854"
   },
   {
-    "pagenum": "856",
+    "slug": "856",
     "emory_page": 874,
     "first_root": 1755,
     "section": "hebrew",
@@ -6961,7 +6961,7 @@
     "prev": "855"
   },
   {
-    "pagenum": "857",
+    "slug": "857",
     "emory_page": 875,
     "first_root": 1761,
     "section": "hebrew",
@@ -6969,7 +6969,7 @@
     "prev": "856"
   },
   {
-    "pagenum": "858",
+    "slug": "858",
     "emory_page": 876,
     "first_root": 1766,
     "section": "hebrew",
@@ -6977,7 +6977,7 @@
     "prev": "857"
   },
   {
-    "pagenum": "859",
+    "slug": "859",
     "emory_page": 877,
     "first_root": 1768,
     "section": "hebrew",
@@ -6985,7 +6985,7 @@
     "prev": "858"
   },
   {
-    "pagenum": "860",
+    "slug": "860",
     "emory_page": 878,
     "first_root": 1771,
     "section": "hebrew",
@@ -6993,7 +6993,7 @@
     "prev": "859"
   },
   {
-    "pagenum": "861",
+    "slug": "861",
     "emory_page": 879,
     "first_root": 1777,
     "section": "hebrew",
@@ -7001,7 +7001,7 @@
     "prev": "860"
   },
   {
-    "pagenum": "862",
+    "slug": "862",
     "emory_page": 880,
     "first_root": 1780,
     "section": "hebrew",
@@ -7009,7 +7009,7 @@
     "prev": "861"
   },
   {
-    "pagenum": "863",
+    "slug": "863",
     "emory_page": 881,
     "first_root": 1786,
     "section": "hebrew",
@@ -7017,7 +7017,7 @@
     "prev": "862"
   },
   {
-    "pagenum": "864",
+    "slug": "864",
     "emory_page": 882,
     "first_root": 1788,
     "section": "hebrew",
@@ -7025,7 +7025,7 @@
     "prev": "863"
   },
   {
-    "pagenum": "865",
+    "slug": "865",
     "emory_page": 883,
     "first_root": 1789,
     "section": "hebrew",
@@ -7033,7 +7033,7 @@
     "prev": "864"
   },
   {
-    "pagenum": "866",
+    "slug": "866",
     "emory_page": 884,
     "first_root": 1794,
     "section": "hebrew",
@@ -7041,7 +7041,7 @@
     "prev": "865"
   },
   {
-    "pagenum": "867",
+    "slug": "867",
     "emory_page": 885,
     "first_root": 1797,
     "section": "hebrew",
@@ -7049,7 +7049,7 @@
     "prev": "866"
   },
   {
-    "pagenum": "868",
+    "slug": "868",
     "emory_page": 886,
     "first_root": 1798,
     "section": "hebrew",
@@ -7057,7 +7057,7 @@
     "prev": "867"
   },
   {
-    "pagenum": "869",
+    "slug": "869",
     "emory_page": 887,
     "first_root": 1802,
     "section": "hebrew",
@@ -7065,7 +7065,7 @@
     "prev": "868"
   },
   {
-    "pagenum": "870",
+    "slug": "870",
     "emory_page": 888,
     "first_root": 1802,
     "section": "hebrew",
@@ -7073,7 +7073,7 @@
     "prev": "869"
   },
   {
-    "pagenum": "871",
+    "slug": "871",
     "emory_page": 889,
     "first_root": 1804,
     "section": "hebrew",
@@ -7081,7 +7081,7 @@
     "prev": "870"
   },
   {
-    "pagenum": "872",
+    "slug": "872",
     "emory_page": 890,
     "first_root": 1804,
     "section": "hebrew",
@@ -7089,7 +7089,7 @@
     "prev": "871"
   },
   {
-    "pagenum": "873",
+    "slug": "873",
     "emory_page": 891,
     "first_root": 1804,
     "section": "hebrew",
@@ -7097,7 +7097,7 @@
     "prev": "872"
   },
   {
-    "pagenum": "874",
+    "slug": "874",
     "emory_page": 892,
     "first_root": 1806,
     "section": "hebrew",
@@ -7105,7 +7105,7 @@
     "prev": "873"
   },
   {
-    "pagenum": "875",
+    "slug": "875",
     "emory_page": 893,
     "first_root": 1807,
     "section": "hebrew",
@@ -7113,7 +7113,7 @@
     "prev": "874"
   },
   {
-    "pagenum": "876",
+    "slug": "876",
     "emory_page": 894,
     "first_root": 1811,
     "section": "hebrew",
@@ -7121,7 +7121,7 @@
     "prev": "875"
   },
   {
-    "pagenum": "877",
+    "slug": "877",
     "emory_page": 895,
     "first_root": 1812,
     "section": "hebrew",
@@ -7129,7 +7129,7 @@
     "prev": "876"
   },
   {
-    "pagenum": "878",
+    "slug": "878",
     "emory_page": 896,
     "first_root": 1812,
     "section": "hebrew",
@@ -7137,7 +7137,7 @@
     "prev": "877"
   },
   {
-    "pagenum": "879",
+    "slug": "879",
     "emory_page": 897,
     "first_root": 1812,
     "section": "hebrew",
@@ -7145,7 +7145,7 @@
     "prev": "878"
   },
   {
-    "pagenum": "880",
+    "slug": "880",
     "emory_page": 898,
     "first_root": 1814,
     "section": "hebrew",
@@ -7153,7 +7153,7 @@
     "prev": "879"
   },
   {
-    "pagenum": "881",
+    "slug": "881",
     "emory_page": 899,
     "first_root": 1821,
     "section": "hebrew",
@@ -7161,7 +7161,7 @@
     "prev": "880"
   },
   {
-    "pagenum": "882",
+    "slug": "882",
     "emory_page": 900,
     "first_root": 1823,
     "section": "hebrew",
@@ -7169,7 +7169,7 @@
     "prev": "881"
   },
   {
-    "pagenum": "883",
+    "slug": "883",
     "emory_page": 901,
     "first_root": 1827,
     "section": "hebrew",
@@ -7177,7 +7177,7 @@
     "prev": "882"
   },
   {
-    "pagenum": "884",
+    "slug": "884",
     "emory_page": 902,
     "first_root": 1829,
     "section": "hebrew",
@@ -7185,7 +7185,7 @@
     "prev": "883"
   },
   {
-    "pagenum": "885",
+    "slug": "885",
     "emory_page": 903,
     "first_root": 1831,
     "section": "hebrew",
@@ -7193,7 +7193,7 @@
     "prev": "884"
   },
   {
-    "pagenum": "886",
+    "slug": "886",
     "emory_page": 904,
     "first_root": 1834,
     "section": "hebrew",
@@ -7201,7 +7201,7 @@
     "prev": "885"
   },
   {
-    "pagenum": "887",
+    "slug": "887",
     "emory_page": 905,
     "first_root": 1838,
     "section": "hebrew",
@@ -7209,7 +7209,7 @@
     "prev": "886"
   },
   {
-    "pagenum": "888",
+    "slug": "888",
     "emory_page": 906,
     "first_root": 1844,
     "section": "hebrew",
@@ -7217,7 +7217,7 @@
     "prev": "887"
   },
   {
-    "pagenum": "889",
+    "slug": "889",
     "emory_page": 907,
     "first_root": 1845,
     "section": "hebrew",
@@ -7225,7 +7225,7 @@
     "prev": "888"
   },
   {
-    "pagenum": "890",
+    "slug": "890",
     "emory_page": 908,
     "first_root": 1849,
     "section": "hebrew",
@@ -7233,7 +7233,7 @@
     "prev": "889"
   },
   {
-    "pagenum": "891",
+    "slug": "891",
     "emory_page": 909,
     "first_root": 1857,
     "section": "hebrew",
@@ -7241,7 +7241,7 @@
     "prev": "890"
   },
   {
-    "pagenum": "892",
+    "slug": "892",
     "emory_page": 910,
     "first_root": 1860,
     "section": "hebrew",
@@ -7249,7 +7249,7 @@
     "prev": "891"
   },
   {
-    "pagenum": "893",
+    "slug": "893",
     "emory_page": 911,
     "first_root": 1864,
     "section": "hebrew",
@@ -7257,7 +7257,7 @@
     "prev": "892"
   },
   {
-    "pagenum": "894",
+    "slug": "894",
     "emory_page": 912,
     "first_root": 1867,
     "section": "hebrew",
@@ -7265,7 +7265,7 @@
     "prev": "893"
   },
   {
-    "pagenum": "895",
+    "slug": "895",
     "emory_page": 913,
     "first_root": 1867,
     "section": "hebrew",
@@ -7273,7 +7273,7 @@
     "prev": "894"
   },
   {
-    "pagenum": "896",
+    "slug": "896",
     "emory_page": 914,
     "first_root": 1868,
     "section": "hebrew",
@@ -7281,7 +7281,7 @@
     "prev": "895"
   },
   {
-    "pagenum": "897",
+    "slug": "897",
     "emory_page": 915,
     "first_root": 1869,
     "section": "hebrew",
@@ -7289,7 +7289,7 @@
     "prev": "896"
   },
   {
-    "pagenum": "898",
+    "slug": "898",
     "emory_page": 916,
     "first_root": 1869,
     "section": "hebrew",
@@ -7297,7 +7297,7 @@
     "prev": "897"
   },
   {
-    "pagenum": "899",
+    "slug": "899",
     "emory_page": 917,
     "first_root": 1871,
     "section": "hebrew",
@@ -7305,7 +7305,7 @@
     "prev": "898"
   },
   {
-    "pagenum": "900",
+    "slug": "900",
     "emory_page": 918,
     "first_root": 1871,
     "section": "hebrew",
@@ -7313,7 +7313,7 @@
     "prev": "899"
   },
   {
-    "pagenum": "901",
+    "slug": "901",
     "emory_page": 919,
     "first_root": 1875,
     "section": "hebrew",
@@ -7321,7 +7321,7 @@
     "prev": "900"
   },
   {
-    "pagenum": "902",
+    "slug": "902",
     "emory_page": 920,
     "first_root": 1878,
     "section": "hebrew",
@@ -7329,7 +7329,7 @@
     "prev": "901"
   },
   {
-    "pagenum": "903",
+    "slug": "903",
     "emory_page": 921,
     "first_root": 1885,
     "section": "hebrew",
@@ -7337,7 +7337,7 @@
     "prev": "902"
   },
   {
-    "pagenum": "904",
+    "slug": "904",
     "emory_page": 922,
     "first_root": 1888,
     "section": "hebrew",
@@ -7345,7 +7345,7 @@
     "prev": "903"
   },
   {
-    "pagenum": "905",
+    "slug": "905",
     "emory_page": 923,
     "first_root": 1893,
     "section": "hebrew",
@@ -7353,7 +7353,7 @@
     "prev": "904"
   },
   {
-    "pagenum": "906",
+    "slug": "906",
     "emory_page": 924,
     "first_root": 1895,
     "section": "hebrew",
@@ -7361,7 +7361,7 @@
     "prev": "905"
   },
   {
-    "pagenum": "907",
+    "slug": "907",
     "emory_page": 925,
     "first_root": 1895,
     "section": "hebrew",
@@ -7369,7 +7369,7 @@
     "prev": "906"
   },
   {
-    "pagenum": "908",
+    "slug": "908",
     "emory_page": 926,
     "first_root": 1895,
     "section": "hebrew",
@@ -7377,7 +7377,7 @@
     "prev": "907"
   },
   {
-    "pagenum": "909",
+    "slug": "909",
     "emory_page": 927,
     "first_root": 1895,
     "section": "hebrew",
@@ -7385,7 +7385,7 @@
     "prev": "908"
   },
   {
-    "pagenum": "910",
+    "slug": "910",
     "emory_page": 928,
     "first_root": 1897,
     "section": "hebrew",
@@ -7393,7 +7393,7 @@
     "prev": "909"
   },
   {
-    "pagenum": "911",
+    "slug": "911",
     "emory_page": 929,
     "first_root": 1897,
     "section": "hebrew",
@@ -7401,7 +7401,7 @@
     "prev": "910"
   },
   {
-    "pagenum": "912",
+    "slug": "912",
     "emory_page": 930,
     "first_root": 1898,
     "section": "hebrew",
@@ -7409,7 +7409,7 @@
     "prev": "911"
   },
   {
-    "pagenum": "913",
+    "slug": "913",
     "emory_page": 931,
     "first_root": 1898,
     "section": "hebrew",
@@ -7417,7 +7417,7 @@
     "prev": "912"
   },
   {
-    "pagenum": "914",
+    "slug": "914",
     "emory_page": 932,
     "first_root": 1901,
     "section": "hebrew",
@@ -7425,7 +7425,7 @@
     "prev": "913"
   },
   {
-    "pagenum": "915",
+    "slug": "915",
     "emory_page": 933,
     "first_root": 1902,
     "section": "hebrew",
@@ -7433,7 +7433,7 @@
     "prev": "914"
   },
   {
-    "pagenum": "916",
+    "slug": "916",
     "emory_page": 934,
     "first_root": 1905,
     "section": "hebrew",
@@ -7441,7 +7441,7 @@
     "prev": "915"
   },
   {
-    "pagenum": "917",
+    "slug": "917",
     "emory_page": 935,
     "first_root": 1905,
     "section": "hebrew",
@@ -7449,7 +7449,7 @@
     "prev": "916"
   },
   {
-    "pagenum": "918",
+    "slug": "918",
     "emory_page": 936,
     "first_root": 1909,
     "section": "hebrew",
@@ -7457,7 +7457,7 @@
     "prev": "917"
   },
   {
-    "pagenum": "919",
+    "slug": "919",
     "emory_page": 937,
     "first_root": 1911,
     "section": "hebrew",
@@ -7465,7 +7465,7 @@
     "prev": "918"
   },
   {
-    "pagenum": "920",
+    "slug": "920",
     "emory_page": 938,
     "first_root": 1914,
     "section": "hebrew",
@@ -7473,7 +7473,7 @@
     "prev": "919"
   },
   {
-    "pagenum": "921",
+    "slug": "921",
     "emory_page": 939,
     "first_root": 1919,
     "section": "hebrew",
@@ -7481,7 +7481,7 @@
     "prev": "920"
   },
   {
-    "pagenum": "922",
+    "slug": "922",
     "emory_page": 940,
     "first_root": 1922,
     "section": "hebrew",
@@ -7489,7 +7489,7 @@
     "prev": "921"
   },
   {
-    "pagenum": "923",
+    "slug": "923",
     "emory_page": 941,
     "first_root": 1928,
     "section": "hebrew",
@@ -7497,7 +7497,7 @@
     "prev": "922"
   },
   {
-    "pagenum": "924",
+    "slug": "924",
     "emory_page": 942,
     "first_root": 1930,
     "section": "hebrew",
@@ -7505,7 +7505,7 @@
     "prev": "923"
   },
   {
-    "pagenum": "925",
+    "slug": "925",
     "emory_page": 943,
     "first_root": 1930,
     "section": "hebrew",
@@ -7513,7 +7513,7 @@
     "prev": "924"
   },
   {
-    "pagenum": "926",
+    "slug": "926",
     "emory_page": 944,
     "first_root": 1932,
     "section": "hebrew",
@@ -7521,7 +7521,7 @@
     "prev": "925"
   },
   {
-    "pagenum": "927",
+    "slug": "927",
     "emory_page": 945,
     "first_root": 1932,
     "section": "hebrew",
@@ -7529,7 +7529,7 @@
     "prev": "926"
   },
   {
-    "pagenum": "928",
+    "slug": "928",
     "emory_page": 946,
     "first_root": 1932,
     "section": "hebrew",
@@ -7537,7 +7537,7 @@
     "prev": "927"
   },
   {
-    "pagenum": "929",
+    "slug": "929",
     "emory_page": 947,
     "first_root": 1934,
     "section": "hebrew",
@@ -7545,7 +7545,7 @@
     "prev": "928"
   },
   {
-    "pagenum": "930",
+    "slug": "930",
     "emory_page": 948,
     "first_root": 1938,
     "section": "hebrew",
@@ -7553,7 +7553,7 @@
     "prev": "929"
   },
   {
-    "pagenum": "931",
+    "slug": "931",
     "emory_page": 949,
     "first_root": 1942,
     "section": "hebrew",
@@ -7561,7 +7561,7 @@
     "prev": "930"
   },
   {
-    "pagenum": "932",
+    "slug": "932",
     "emory_page": 950,
     "first_root": 1944,
     "section": "hebrew",
@@ -7569,7 +7569,7 @@
     "prev": "931"
   },
   {
-    "pagenum": "933",
+    "slug": "933",
     "emory_page": 951,
     "first_root": 1945,
     "section": "hebrew",
@@ -7577,7 +7577,7 @@
     "prev": "932"
   },
   {
-    "pagenum": "934",
+    "slug": "934",
     "emory_page": 952,
     "first_root": 1951,
     "section": "hebrew",
@@ -7585,7 +7585,7 @@
     "prev": "933"
   },
   {
-    "pagenum": "935",
+    "slug": "935",
     "emory_page": 953,
     "first_root": 1952,
     "section": "hebrew",
@@ -7593,7 +7593,7 @@
     "prev": "934"
   },
   {
-    "pagenum": "936",
+    "slug": "936",
     "emory_page": 954,
     "first_root": 1958,
     "section": "hebrew",
@@ -7601,7 +7601,7 @@
     "prev": "935"
   },
   {
-    "pagenum": "937",
+    "slug": "937",
     "emory_page": 955,
     "first_root": 1960,
     "section": "hebrew",
@@ -7609,7 +7609,7 @@
     "prev": "936"
   },
   {
-    "pagenum": "938",
+    "slug": "938",
     "emory_page": 956,
     "first_root": 1962,
     "section": "hebrew",
@@ -7617,7 +7617,7 @@
     "prev": "937"
   },
   {
-    "pagenum": "939",
+    "slug": "939",
     "emory_page": 957,
     "first_root": 1963,
     "section": "hebrew",
@@ -7625,7 +7625,7 @@
     "prev": "938"
   },
   {
-    "pagenum": "940",
+    "slug": "940",
     "emory_page": 958,
     "first_root": 1966,
     "section": "hebrew",
@@ -7633,7 +7633,7 @@
     "prev": "939"
   },
   {
-    "pagenum": "941",
+    "slug": "941",
     "emory_page": 959,
     "first_root": 1969,
     "section": "hebrew",
@@ -7641,7 +7641,7 @@
     "prev": "940"
   },
   {
-    "pagenum": "942",
+    "slug": "942",
     "emory_page": 960,
     "first_root": 1974,
     "section": "hebrew",
@@ -7649,7 +7649,7 @@
     "prev": "941"
   },
   {
-    "pagenum": "943",
+    "slug": "943",
     "emory_page": 961,
     "first_root": 1977,
     "section": "hebrew",
@@ -7657,7 +7657,7 @@
     "prev": "942"
   },
   {
-    "pagenum": "944",
+    "slug": "944",
     "emory_page": 962,
     "first_root": 1982,
     "section": "hebrew",
@@ -7665,7 +7665,7 @@
     "prev": "943"
   },
   {
-    "pagenum": "945",
+    "slug": "945",
     "emory_page": 963,
     "first_root": 1983,
     "section": "hebrew",
@@ -7673,7 +7673,7 @@
     "prev": "944"
   },
   {
-    "pagenum": "946",
+    "slug": "946",
     "emory_page": 964,
     "first_root": 1984,
     "section": "hebrew",
@@ -7681,7 +7681,7 @@
     "prev": "945"
   },
   {
-    "pagenum": "947",
+    "slug": "947",
     "emory_page": 965,
     "first_root": 1988,
     "section": "hebrew",
@@ -7689,7 +7689,7 @@
     "prev": "946"
   },
   {
-    "pagenum": "948",
+    "slug": "948",
     "emory_page": 966,
     "first_root": 1988,
     "section": "hebrew",
@@ -7697,7 +7697,7 @@
     "prev": "947"
   },
   {
-    "pagenum": "949",
+    "slug": "949",
     "emory_page": 967,
     "first_root": 1989,
     "section": "hebrew",
@@ -7705,7 +7705,7 @@
     "prev": "948"
   },
   {
-    "pagenum": "950",
+    "slug": "950",
     "emory_page": 968,
     "first_root": 1993,
     "section": "hebrew",
@@ -7713,7 +7713,7 @@
     "prev": "949"
   },
   {
-    "pagenum": "951",
+    "slug": "951",
     "emory_page": 969,
     "first_root": 1995,
     "section": "hebrew",
@@ -7721,7 +7721,7 @@
     "prev": "950"
   },
   {
-    "pagenum": "952",
+    "slug": "952",
     "emory_page": 970,
     "first_root": 2001,
     "section": "hebrew",
@@ -7729,7 +7729,7 @@
     "prev": "951"
   },
   {
-    "pagenum": "953",
+    "slug": "953",
     "emory_page": 971,
     "first_root": 2003,
     "section": "hebrew",
@@ -7737,7 +7737,7 @@
     "prev": "952"
   },
   {
-    "pagenum": "954",
+    "slug": "954",
     "emory_page": 972,
     "first_root": 2007,
     "section": "hebrew",
@@ -7745,7 +7745,7 @@
     "prev": "953"
   },
   {
-    "pagenum": "955",
+    "slug": "955",
     "emory_page": 973,
     "first_root": 2012,
     "section": "hebrew",
@@ -7753,7 +7753,7 @@
     "prev": "954"
   },
   {
-    "pagenum": "956",
+    "slug": "956",
     "emory_page": 974,
     "first_root": 2014,
     "section": "hebrew",
@@ -7761,7 +7761,7 @@
     "prev": "955"
   },
   {
-    "pagenum": "957",
+    "slug": "957",
     "emory_page": 975,
     "first_root": 2017,
     "section": "hebrew",
@@ -7769,7 +7769,7 @@
     "prev": "956"
   },
   {
-    "pagenum": "958",
+    "slug": "958",
     "emory_page": 976,
     "first_root": 2023,
     "section": "hebrew",
@@ -7777,7 +7777,7 @@
     "prev": "957"
   },
   {
-    "pagenum": "959",
+    "slug": "959",
     "emory_page": 977,
     "first_root": 2027,
     "section": "hebrew",
@@ -7785,7 +7785,7 @@
     "prev": "958"
   },
   {
-    "pagenum": "960",
+    "slug": "960",
     "emory_page": 978,
     "first_root": 2032,
     "section": "hebrew",
@@ -7793,7 +7793,7 @@
     "prev": "959"
   },
   {
-    "pagenum": "961",
+    "slug": "961",
     "emory_page": 979,
     "first_root": 2034,
     "section": "hebrew",
@@ -7801,7 +7801,7 @@
     "prev": "960"
   },
   {
-    "pagenum": "962",
+    "slug": "962",
     "emory_page": 980,
     "first_root": 2039,
     "section": "hebrew",
@@ -7809,7 +7809,7 @@
     "prev": "961"
   },
   {
-    "pagenum": "963",
+    "slug": "963",
     "emory_page": 981,
     "first_root": 2039,
     "section": "hebrew",
@@ -7817,7 +7817,7 @@
     "prev": "962"
   },
   {
-    "pagenum": "964",
+    "slug": "964",
     "emory_page": 982,
     "first_root": 2039,
     "section": "hebrew",
@@ -7825,7 +7825,7 @@
     "prev": "963"
   },
   {
-    "pagenum": "965",
+    "slug": "965",
     "emory_page": 983,
     "first_root": 2045,
     "section": "hebrew",
@@ -7833,7 +7833,7 @@
     "prev": "964"
   },
   {
-    "pagenum": "966",
+    "slug": "966",
     "emory_page": 984,
     "first_root": 2051,
     "section": "hebrew",
@@ -7841,7 +7841,7 @@
     "prev": "965"
   },
   {
-    "pagenum": "967",
+    "slug": "967",
     "emory_page": 985,
     "first_root": 2054,
     "section": "hebrew",
@@ -7849,7 +7849,7 @@
     "prev": "966"
   },
   {
-    "pagenum": "968",
+    "slug": "968",
     "emory_page": 986,
     "first_root": 2060,
     "section": "hebrew",
@@ -7857,7 +7857,7 @@
     "prev": "967"
   },
   {
-    "pagenum": "969",
+    "slug": "969",
     "emory_page": 987,
     "first_root": 2062,
     "section": "hebrew",
@@ -7865,7 +7865,7 @@
     "prev": "968"
   },
   {
-    "pagenum": "970",
+    "slug": "970",
     "emory_page": 988,
     "first_root": 2063,
     "section": "hebrew",
@@ -7873,7 +7873,7 @@
     "prev": "969"
   },
   {
-    "pagenum": "971",
+    "slug": "971",
     "emory_page": 989,
     "first_root": 2066,
     "section": "hebrew",
@@ -7881,7 +7881,7 @@
     "prev": "970"
   },
   {
-    "pagenum": "972",
+    "slug": "972",
     "emory_page": 990,
     "first_root": 2068,
     "section": "hebrew",
@@ -7889,7 +7889,7 @@
     "prev": "971"
   },
   {
-    "pagenum": "973",
+    "slug": "973",
     "emory_page": 991,
     "first_root": 2072,
     "section": "hebrew",
@@ -7897,7 +7897,7 @@
     "prev": "972"
   },
   {
-    "pagenum": "974",
+    "slug": "974",
     "emory_page": 992,
     "first_root": 2078,
     "section": "hebrew",
@@ -7905,7 +7905,7 @@
     "prev": "973"
   },
   {
-    "pagenum": "975",
+    "slug": "975",
     "emory_page": 993,
     "first_root": 2080,
     "section": "hebrew",
@@ -7913,7 +7913,7 @@
     "prev": "974"
   },
   {
-    "pagenum": "976",
+    "slug": "976",
     "emory_page": 994,
     "first_root": 2085,
     "section": "hebrew",
@@ -7921,7 +7921,7 @@
     "prev": "975"
   },
   {
-    "pagenum": "977",
+    "slug": "977",
     "emory_page": 995,
     "first_root": 2088,
     "section": "hebrew",
@@ -7929,7 +7929,7 @@
     "prev": "976"
   },
   {
-    "pagenum": "978",
+    "slug": "978",
     "emory_page": 996,
     "first_root": 2088,
     "section": "hebrew",
@@ -7937,7 +7937,7 @@
     "prev": "977"
   },
   {
-    "pagenum": "979",
+    "slug": "979",
     "emory_page": 997,
     "first_root": 2092,
     "section": "hebrew",
@@ -7945,7 +7945,7 @@
     "prev": "978"
   },
   {
-    "pagenum": "980",
+    "slug": "980",
     "emory_page": 998,
     "first_root": 2095,
     "section": "hebrew",
@@ -7953,7 +7953,7 @@
     "prev": "979"
   },
   {
-    "pagenum": "981",
+    "slug": "981",
     "emory_page": 999,
     "first_root": 2097,
     "section": "hebrew",
@@ -7961,7 +7961,7 @@
     "prev": "980"
   },
   {
-    "pagenum": "982",
+    "slug": "982",
     "emory_page": 1000,
     "first_root": 2097,
     "section": "hebrew",
@@ -7969,7 +7969,7 @@
     "prev": "981"
   },
   {
-    "pagenum": "983",
+    "slug": "983",
     "emory_page": 1001,
     "first_root": 2101,
     "section": "hebrew",
@@ -7977,7 +7977,7 @@
     "prev": "982"
   },
   {
-    "pagenum": "984",
+    "slug": "984",
     "emory_page": 1002,
     "first_root": 2102,
     "section": "hebrew",
@@ -7985,7 +7985,7 @@
     "prev": "983"
   },
   {
-    "pagenum": "985",
+    "slug": "985",
     "emory_page": 1003,
     "first_root": 2105,
     "section": "hebrew",
@@ -7993,7 +7993,7 @@
     "prev": "984"
   },
   {
-    "pagenum": "986",
+    "slug": "986",
     "emory_page": 1004,
     "first_root": 2108,
     "section": "hebrew",
@@ -8001,7 +8001,7 @@
     "prev": "985"
   },
   {
-    "pagenum": "987",
+    "slug": "987",
     "emory_page": 1005,
     "first_root": 2112,
     "section": "hebrew",
@@ -8009,7 +8009,7 @@
     "prev": "986"
   },
   {
-    "pagenum": "988",
+    "slug": "988",
     "emory_page": 1006,
     "first_root": 2112,
     "section": "hebrew",
@@ -8017,7 +8017,7 @@
     "prev": "987"
   },
   {
-    "pagenum": "989",
+    "slug": "989",
     "emory_page": 1007,
     "first_root": 2112,
     "section": "hebrew",
@@ -8025,7 +8025,7 @@
     "prev": "988"
   },
   {
-    "pagenum": "990",
+    "slug": "990",
     "emory_page": 1008,
     "first_root": 2115,
     "section": "hebrew",
@@ -8033,7 +8033,7 @@
     "prev": "989"
   },
   {
-    "pagenum": "991",
+    "slug": "991",
     "emory_page": 1009,
     "first_root": 2116,
     "section": "hebrew",
@@ -8041,7 +8041,7 @@
     "prev": "990"
   },
   {
-    "pagenum": "992",
+    "slug": "992",
     "emory_page": 1010,
     "first_root": 2117,
     "section": "hebrew",
@@ -8049,7 +8049,7 @@
     "prev": "991"
   },
   {
-    "pagenum": "993",
+    "slug": "993",
     "emory_page": 1011,
     "first_root": 2122,
     "section": "hebrew",
@@ -8057,7 +8057,7 @@
     "prev": "992"
   },
   {
-    "pagenum": "994",
+    "slug": "994",
     "emory_page": 1012,
     "first_root": 2124,
     "section": "hebrew",
@@ -8065,7 +8065,7 @@
     "prev": "993"
   },
   {
-    "pagenum": "995",
+    "slug": "995",
     "emory_page": 1013,
     "first_root": 2127,
     "section": "hebrew",
@@ -8073,7 +8073,7 @@
     "prev": "994"
   },
   {
-    "pagenum": "996",
+    "slug": "996",
     "emory_page": 1014,
     "first_root": 2130,
     "section": "hebrew",
@@ -8081,7 +8081,7 @@
     "prev": "995"
   },
   {
-    "pagenum": "997",
+    "slug": "997",
     "emory_page": 1015,
     "first_root": 2130,
     "section": "hebrew",
@@ -8089,7 +8089,7 @@
     "prev": "996"
   },
   {
-    "pagenum": "998",
+    "slug": "998",
     "emory_page": 1016,
     "first_root": 2130,
     "section": "hebrew",
@@ -8097,7 +8097,7 @@
     "prev": "997"
   },
   {
-    "pagenum": "999",
+    "slug": "999",
     "emory_page": 1017,
     "first_root": 2130,
     "section": "hebrew",
@@ -8105,7 +8105,7 @@
     "prev": "998"
   },
   {
-    "pagenum": "1000",
+    "slug": "1000",
     "emory_page": 1018,
     "first_root": 2132,
     "section": "hebrew",
@@ -8113,7 +8113,7 @@
     "prev": "999"
   },
   {
-    "pagenum": "1001",
+    "slug": "1001",
     "emory_page": 1019,
     "first_root": 2135,
     "section": "hebrew",
@@ -8121,7 +8121,7 @@
     "prev": "1000"
   },
   {
-    "pagenum": "1002",
+    "slug": "1002",
     "emory_page": 1020,
     "first_root": 2138,
     "section": "hebrew",
@@ -8129,7 +8129,7 @@
     "prev": "1001"
   },
   {
-    "pagenum": "1003",
+    "slug": "1003",
     "emory_page": 1021,
     "first_root": 2144,
     "section": "hebrew",
@@ -8137,7 +8137,7 @@
     "prev": "1002"
   },
   {
-    "pagenum": "1004",
+    "slug": "1004",
     "emory_page": 1022,
     "first_root": 2147,
     "section": "hebrew",
@@ -8145,7 +8145,7 @@
     "prev": "1003"
   },
   {
-    "pagenum": "1005",
+    "slug": "1005",
     "emory_page": 1023,
     "first_root": 2150,
     "section": "hebrew",
@@ -8153,7 +8153,7 @@
     "prev": "1004"
   },
   {
-    "pagenum": "1006",
+    "slug": "1006",
     "emory_page": 1024,
     "first_root": 2156,
     "section": "hebrew",
@@ -8161,7 +8161,7 @@
     "prev": "1005"
   },
   {
-    "pagenum": "1007",
+    "slug": "1007",
     "emory_page": 1025,
     "first_root": 2159,
     "section": "hebrew",
@@ -8169,7 +8169,7 @@
     "prev": "1006"
   },
   {
-    "pagenum": "1008",
+    "slug": "1008",
     "emory_page": 1026,
     "first_root": 2160,
     "section": "hebrew",
@@ -8177,7 +8177,7 @@
     "prev": "1007"
   },
   {
-    "pagenum": "1009",
+    "slug": "1009",
     "emory_page": 1027,
     "first_root": 2162,
     "section": "hebrew",
@@ -8185,7 +8185,7 @@
     "prev": "1008"
   },
   {
-    "pagenum": "1010",
+    "slug": "1010",
     "emory_page": 1028,
     "first_root": 2165,
     "section": "hebrew",
@@ -8193,7 +8193,7 @@
     "prev": "1009"
   },
   {
-    "pagenum": "1011",
+    "slug": "1011",
     "emory_page": 1029,
     "first_root": 2167,
     "section": "hebrew",
@@ -8201,7 +8201,7 @@
     "prev": "1010"
   },
   {
-    "pagenum": "1012",
+    "slug": "1012",
     "emory_page": 1030,
     "first_root": 2167,
     "section": "hebrew",
@@ -8209,7 +8209,7 @@
     "prev": "1011"
   },
   {
-    "pagenum": "1013",
+    "slug": "1013",
     "emory_page": 1031,
     "first_root": 2171,
     "section": "hebrew",
@@ -8217,7 +8217,7 @@
     "prev": "1012"
   },
   {
-    "pagenum": "1014",
+    "slug": "1014",
     "emory_page": 1032,
     "first_root": 2173,
     "section": "hebrew",
@@ -8225,7 +8225,7 @@
     "prev": "1013"
   },
   {
-    "pagenum": "1015",
+    "slug": "1015",
     "emory_page": 1033,
     "first_root": 2173,
     "section": "hebrew",
@@ -8233,7 +8233,7 @@
     "prev": "1014"
   },
   {
-    "pagenum": "1016",
+    "slug": "1016",
     "emory_page": 1034,
     "first_root": 2176,
     "section": "hebrew",
@@ -8241,7 +8241,7 @@
     "prev": "1015"
   },
   {
-    "pagenum": "1017",
+    "slug": "1017",
     "emory_page": 1035,
     "first_root": 2179,
     "section": "hebrew",
@@ -8249,7 +8249,7 @@
     "prev": "1016"
   },
   {
-    "pagenum": "1018",
+    "slug": "1018",
     "emory_page": 1036,
     "first_root": 2180,
     "section": "hebrew",
@@ -8257,7 +8257,7 @@
     "prev": "1017"
   },
   {
-    "pagenum": "1019",
+    "slug": "1019",
     "emory_page": 1037,
     "first_root": 2180,
     "section": "hebrew",
@@ -8265,7 +8265,7 @@
     "prev": "1018"
   },
   {
-    "pagenum": "1020",
+    "slug": "1020",
     "emory_page": 1038,
     "first_root": 2184,
     "section": "hebrew",
@@ -8273,7 +8273,7 @@
     "prev": "1019"
   },
   {
-    "pagenum": "1021",
+    "slug": "1021",
     "emory_page": 1039,
     "first_root": 2186,
     "section": "hebrew",
@@ -8281,7 +8281,7 @@
     "prev": "1020"
   },
   {
-    "pagenum": "1022",
+    "slug": "1022",
     "emory_page": 1040,
     "first_root": 2187,
     "section": "hebrew",
@@ -8289,7 +8289,7 @@
     "prev": "1021"
   },
   {
-    "pagenum": "1023",
+    "slug": "1023",
     "emory_page": 1041,
     "first_root": 2187,
     "section": "hebrew",
@@ -8297,7 +8297,7 @@
     "prev": "1022"
   },
   {
-    "pagenum": "1024",
+    "slug": "1024",
     "emory_page": 1042,
     "first_root": 2187,
     "section": "hebrew",
@@ -8305,7 +8305,7 @@
     "prev": "1023"
   },
   {
-    "pagenum": "1025",
+    "slug": "1025",
     "emory_page": 1043,
     "first_root": 2189,
     "section": "hebrew",
@@ -8313,7 +8313,7 @@
     "prev": "1024"
   },
   {
-    "pagenum": "1026",
+    "slug": "1026",
     "emory_page": 1044,
     "first_root": 2189,
     "section": "hebrew",
@@ -8321,7 +8321,7 @@
     "prev": "1025"
   },
   {
-    "pagenum": "1027",
+    "slug": "1027",
     "emory_page": 1045,
     "first_root": 2190,
     "section": "hebrew",
@@ -8329,7 +8329,7 @@
     "prev": "1026"
   },
   {
-    "pagenum": "1028",
+    "slug": "1028",
     "emory_page": 1046,
     "first_root": 2190,
     "section": "hebrew",
@@ -8337,7 +8337,7 @@
     "prev": "1027"
   },
   {
-    "pagenum": "1029",
+    "slug": "1029",
     "emory_page": 1047,
     "first_root": 2193,
     "section": "hebrew",
@@ -8345,7 +8345,7 @@
     "prev": "1028"
   },
   {
-    "pagenum": "1030",
+    "slug": "1030",
     "emory_page": 1048,
     "first_root": 2195,
     "section": "hebrew",
@@ -8353,7 +8353,7 @@
     "prev": "1029"
   },
   {
-    "pagenum": "1031",
+    "slug": "1031",
     "emory_page": 1049,
     "first_root": 2196,
     "section": "hebrew",
@@ -8361,7 +8361,7 @@
     "prev": "1030"
   },
   {
-    "pagenum": "1032",
+    "slug": "1032",
     "emory_page": 1050,
     "first_root": 2197,
     "section": "hebrew",
@@ -8369,7 +8369,7 @@
     "prev": "1031"
   },
   {
-    "pagenum": "1033",
+    "slug": "1033",
     "emory_page": 1051,
     "first_root": 2198,
     "section": "hebrew",
@@ -8377,7 +8377,7 @@
     "prev": "1032"
   },
   {
-    "pagenum": "1034",
+    "slug": "1034",
     "emory_page": 1052,
     "first_root": 2198,
     "section": "hebrew",
@@ -8385,7 +8385,7 @@
     "prev": "1033"
   },
   {
-    "pagenum": "1035",
+    "slug": "1035",
     "emory_page": 1053,
     "first_root": 2198,
     "section": "hebrew",
@@ -8393,7 +8393,7 @@
     "prev": "1034"
   },
   {
-    "pagenum": "1036",
+    "slug": "1036",
     "emory_page": 1054,
     "first_root": 2200,
     "section": "hebrew",
@@ -8401,7 +8401,7 @@
     "prev": "1035"
   },
   {
-    "pagenum": "1037",
+    "slug": "1037",
     "emory_page": 1055,
     "first_root": 2200,
     "section": "hebrew",
@@ -8409,7 +8409,7 @@
     "prev": "1036"
   },
   {
-    "pagenum": "1038",
+    "slug": "1038",
     "emory_page": 1056,
     "first_root": 2202,
     "section": "hebrew",
@@ -8417,7 +8417,7 @@
     "prev": "1037"
   },
   {
-    "pagenum": "1039",
+    "slug": "1039",
     "emory_page": 1057,
     "first_root": 2205,
     "section": "hebrew",
@@ -8425,7 +8425,7 @@
     "prev": "1038"
   },
   {
-    "pagenum": "1040",
+    "slug": "1040",
     "emory_page": 1058,
     "first_root": 2207,
     "section": "hebrew",
@@ -8433,7 +8433,7 @@
     "prev": "1039"
   },
   {
-    "pagenum": "1041",
+    "slug": "1041",
     "emory_page": 1059,
     "first_root": 2208,
     "section": "hebrew",
@@ -8441,7 +8441,7 @@
     "prev": "1040"
   },
   {
-    "pagenum": "1042",
+    "slug": "1042",
     "emory_page": 1060,
     "first_root": 2212,
     "section": "hebrew",
@@ -8449,7 +8449,7 @@
     "prev": "1041"
   },
   {
-    "pagenum": "1043",
+    "slug": "1043",
     "emory_page": 1061,
     "first_root": 2218,
     "section": "hebrew",
@@ -8457,7 +8457,7 @@
     "prev": "1042"
   },
   {
-    "pagenum": "1044",
+    "slug": "1044",
     "emory_page": 1062,
     "first_root": 2221,
     "section": "hebrew",
@@ -8465,7 +8465,7 @@
     "prev": "1043"
   },
   {
-    "pagenum": "1045",
+    "slug": "1045",
     "emory_page": 1063,
     "first_root": 2224,
     "section": "hebrew",
@@ -8473,7 +8473,7 @@
     "prev": "1044"
   },
   {
-    "pagenum": "1046",
+    "slug": "1046",
     "emory_page": 1064,
     "first_root": 2226,
     "section": "hebrew",
@@ -8481,7 +8481,7 @@
     "prev": "1045"
   },
   {
-    "pagenum": "1047",
+    "slug": "1047",
     "emory_page": 1065,
     "first_root": 2227,
     "section": "hebrew",
@@ -8489,7 +8489,7 @@
     "prev": "1046"
   },
   {
-    "pagenum": "1048",
+    "slug": "1048",
     "emory_page": 1066,
     "first_root": 2227,
     "section": "hebrew",
@@ -8497,7 +8497,7 @@
     "prev": "1047"
   },
   {
-    "pagenum": "1049",
+    "slug": "1049",
     "emory_page": 1067,
     "first_root": 2228,
     "section": "hebrew",
@@ -8505,7 +8505,7 @@
     "prev": "1048"
   },
   {
-    "pagenum": "1050",
+    "slug": "1050",
     "emory_page": 1068,
     "first_root": 2230,
     "section": "hebrew",
@@ -8513,7 +8513,7 @@
     "prev": "1049"
   },
   {
-    "pagenum": "1051",
+    "slug": "1051",
     "emory_page": 1069,
     "first_root": 2233,
     "section": "hebrew",
@@ -8521,7 +8521,7 @@
     "prev": "1050"
   },
   {
-    "pagenum": "1052",
+    "slug": "1052",
     "emory_page": 1070,
     "first_root": 2236,
     "section": "hebrew",
@@ -8529,7 +8529,7 @@
     "prev": "1051"
   },
   {
-    "pagenum": "1053",
+    "slug": "1053",
     "emory_page": 1071,
     "first_root": 2237,
     "section": "hebrew",
@@ -8537,7 +8537,7 @@
     "prev": "1052"
   },
   {
-    "pagenum": "1054",
+    "slug": "1054",
     "emory_page": 1072,
     "first_root": 2241,
     "section": "hebrew",
@@ -8545,7 +8545,7 @@
     "prev": "1053"
   },
   {
-    "pagenum": "1055",
+    "slug": "1055",
     "emory_page": 1073,
     "first_root": 2244,
     "section": "hebrew",
@@ -8553,7 +8553,7 @@
     "prev": "1054"
   },
   {
-    "pagenum": "1056",
+    "slug": "1056",
     "emory_page": 1074,
     "first_root": 2250,
     "section": "hebrew",
@@ -8561,7 +8561,7 @@
     "prev": "1055"
   },
   {
-    "pagenum": "1057",
+    "slug": "1057",
     "emory_page": 1075,
     "first_root": 2252,
     "section": "hebrew",
@@ -8569,7 +8569,7 @@
     "prev": "1056"
   },
   {
-    "pagenum": "1058",
+    "slug": "1058",
     "emory_page": 1076,
     "first_root": 2254,
     "section": "hebrew",
@@ -8577,7 +8577,7 @@
     "prev": "1057"
   },
   {
-    "pagenum": "1059",
+    "slug": "1059",
     "emory_page": 1077,
     "first_root": 2257,
     "section": "hebrew",
@@ -8585,7 +8585,7 @@
     "prev": "1058"
   },
   {
-    "pagenum": "1060",
+    "slug": "1060",
     "emory_page": 1078,
     "first_root": 2265,
     "section": "hebrew",
@@ -8593,7 +8593,7 @@
     "prev": "1059"
   },
   {
-    "pagenum": "1061",
+    "slug": "1061",
     "emory_page": 1079,
     "first_root": 2267,
     "section": "hebrew",
@@ -8601,7 +8601,7 @@
     "prev": "1060"
   },
   {
-    "pagenum": "1062",
+    "slug": "1062",
     "emory_page": 1080,
     "first_root": 2269,
     "section": "hebrew",
@@ -8609,7 +8609,7 @@
     "prev": "1061"
   },
   {
-    "pagenum": "1063",
+    "slug": "1063",
     "emory_page": 1081,
     "first_root": 2271,
     "section": "hebrew",
@@ -8617,7 +8617,7 @@
     "prev": "1062"
   },
   {
-    "pagenum": "1064",
+    "slug": "1064",
     "emory_page": 1082,
     "first_root": 2274,
     "section": "hebrew",
@@ -8625,7 +8625,7 @@
     "prev": "1063"
   },
   {
-    "pagenum": "1065",
+    "slug": "1065",
     "emory_page": 1083,
     "first_root": 2275,
     "section": "hebrew",
@@ -8633,7 +8633,7 @@
     "prev": "1064"
   },
   {
-    "pagenum": "1066",
+    "slug": "1066",
     "emory_page": 1084,
     "first_root": 2275,
     "section": "hebrew",
@@ -8641,7 +8641,7 @@
     "prev": "1065"
   },
   {
-    "pagenum": "1067",
+    "slug": "1067",
     "emory_page": 1085,
     "first_root": 2280,
     "section": "hebrew",
@@ -8649,7 +8649,7 @@
     "prev": "1066"
   },
   {
-    "pagenum": "1068",
+    "slug": "1068",
     "emory_page": 1086,
     "first_root": 2284,
     "section": "hebrew",
@@ -8657,7 +8657,7 @@
     "prev": "1067"
   },
   {
-    "pagenum": "1069",
+    "slug": "1069",
     "emory_page": 1087,
     "first_root": 2286,
     "section": "hebrew",
@@ -8665,7 +8665,7 @@
     "prev": "1068"
   },
   {
-    "pagenum": "1070",
+    "slug": "1070",
     "emory_page": 1088,
     "first_root": 2287,
     "section": "hebrew",
@@ -8673,7 +8673,7 @@
     "prev": "1069"
   },
   {
-    "pagenum": "1071",
+    "slug": "1071",
     "emory_page": 1089,
     "first_root": 2289,
     "section": "hebrew",
@@ -8681,7 +8681,7 @@
     "prev": "1070"
   },
   {
-    "pagenum": "1072",
+    "slug": "1072",
     "emory_page": 1090,
     "first_root": 2294,
     "section": "hebrew",
@@ -8689,7 +8689,7 @@
     "prev": "1071"
   },
   {
-    "pagenum": "1073",
+    "slug": "1073",
     "emory_page": 1091,
     "first_root": 2296,
     "section": "hebrew",
@@ -8697,7 +8697,7 @@
     "prev": "1072"
   },
   {
-    "pagenum": "1074",
+    "slug": "1074",
     "emory_page": 1092,
     "first_root": 2301,
     "section": "hebrew",
@@ -8705,7 +8705,7 @@
     "prev": "1073"
   },
   {
-    "pagenum": "1075",
+    "slug": "1075",
     "emory_page": 1093,
     "first_root": 2304,
     "section": "hebrew",
@@ -8713,7 +8713,7 @@
     "prev": "1074"
   },
   {
-    "pagenum": "1076",
+    "slug": "1076",
     "emory_page": 1094,
     "first_root": 2304,
     "section": "hebrew",
@@ -8721,7 +8721,7 @@
     "prev": "1075"
   },
   {
-    "pagenum": "1077",
+    "slug": "1077",
     "emory_page": 1095,
     "first_root": 2304,
     "section": "hebrew",
@@ -8729,7 +8729,7 @@
     "prev": "1076"
   },
   {
-    "pagenum": "1078",
+    "slug": "1078",
     "emory_page": 1096,
     "first_root": 2307,
     "section": "aramaic",
@@ -8737,7 +8737,7 @@
     "prev": "1077"
   },
   {
-    "pagenum": "1079",
+    "slug": "1079",
     "emory_page": 1097,
     "first_root": 2315,
     "section": "aramaic",
@@ -8745,7 +8745,7 @@
     "prev": "1078"
   },
   {
-    "pagenum": "1080",
+    "slug": "1080",
     "emory_page": 1098,
     "first_root": 2322,
     "section": "aramaic",
@@ -8753,7 +8753,7 @@
     "prev": "1079"
   },
   {
-    "pagenum": "1081",
+    "slug": "1081",
     "emory_page": 1099,
     "first_root": 2331,
     "section": "aramaic",
@@ -8761,7 +8761,7 @@
     "prev": "1080"
   },
   {
-    "pagenum": "1082",
+    "slug": "1082",
     "emory_page": 1100,
     "first_root": 2339,
     "section": "aramaic",
@@ -8769,7 +8769,7 @@
     "prev": "1081"
   },
   {
-    "pagenum": "1083",
+    "slug": "1083",
     "emory_page": 1101,
     "first_root": 2342,
     "section": "aramaic",
@@ -8777,7 +8777,7 @@
     "prev": "1082"
   },
   {
-    "pagenum": "1084",
+    "slug": "1084",
     "emory_page": 1102,
     "first_root": 2351,
     "section": "aramaic",
@@ -8785,7 +8785,7 @@
     "prev": "1083"
   },
   {
-    "pagenum": "1085",
+    "slug": "1085",
     "emory_page": 1103,
     "first_root": 2358,
     "section": "aramaic",
@@ -8793,7 +8793,7 @@
     "prev": "1084"
   },
   {
-    "pagenum": "1086",
+    "slug": "1086",
     "emory_page": 1104,
     "first_root": 2365,
     "section": "aramaic",
@@ -8801,7 +8801,7 @@
     "prev": "1085"
   },
   {
-    "pagenum": "1087",
+    "slug": "1087",
     "emory_page": 1105,
     "first_root": 2371,
     "section": "aramaic",
@@ -8809,7 +8809,7 @@
     "prev": "1086"
   },
   {
-    "pagenum": "1088",
+    "slug": "1088",
     "emory_page": 1106,
     "first_root": 2377,
     "section": "aramaic",
@@ -8817,7 +8817,7 @@
     "prev": "1087"
   },
   {
-    "pagenum": "1089",
+    "slug": "1089",
     "emory_page": 1107,
     "first_root": 2384,
     "section": "aramaic",
@@ -8825,7 +8825,7 @@
     "prev": "1088"
   },
   {
-    "pagenum": "1090",
+    "slug": "1090",
     "emory_page": 1108,
     "first_root": 2390,
     "section": "aramaic",
@@ -8833,7 +8833,7 @@
     "prev": "1089"
   },
   {
-    "pagenum": "1091",
+    "slug": "1091",
     "emory_page": 1109,
     "first_root": 2400,
     "section": "aramaic",
@@ -8841,7 +8841,7 @@
     "prev": "1090"
   },
   {
-    "pagenum": "1092",
+    "slug": "1092",
     "emory_page": 1110,
     "first_root": 2407,
     "section": "aramaic",
@@ -8849,7 +8849,7 @@
     "prev": "1091"
   },
   {
-    "pagenum": "1093",
+    "slug": "1093",
     "emory_page": 1111,
     "first_root": 2416,
     "section": "aramaic",
@@ -8857,7 +8857,7 @@
     "prev": "1092"
   },
   {
-    "pagenum": "1094",
+    "slug": "1094",
     "emory_page": 1112,
     "first_root": 2423,
     "section": "aramaic",
@@ -8865,7 +8865,7 @@
     "prev": "1093"
   },
   {
-    "pagenum": "1095",
+    "slug": "1095",
     "emory_page": 1113,
     "first_root": 2431,
     "section": "aramaic",
@@ -8873,7 +8873,7 @@
     "prev": "1094"
   },
   {
-    "pagenum": "1096",
+    "slug": "1096",
     "emory_page": 1114,
     "first_root": 2439,
     "section": "aramaic",
@@ -8881,7 +8881,7 @@
     "prev": "1095"
   },
   {
-    "pagenum": "1097",
+    "slug": "1097",
     "emory_page": 1115,
     "first_root": 2444,
     "section": "aramaic",
@@ -8889,7 +8889,7 @@
     "prev": "1096"
   },
   {
-    "pagenum": "1098",
+    "slug": "1098",
     "emory_page": 1116,
     "first_root": 2451,
     "section": "aramaic",
@@ -8897,7 +8897,7 @@
     "prev": "1097"
   },
   {
-    "pagenum": "1099",
+    "slug": "1099",
     "emory_page": 1117,
     "first_root": 2455,
     "section": "aramaic",
@@ -8905,7 +8905,7 @@
     "prev": "1098"
   },
   {
-    "pagenum": "1100",
+    "slug": "1100",
     "emory_page": 1118,
     "first_root": 2463,
     "section": "aramaic",
@@ -8913,7 +8913,7 @@
     "prev": "1099"
   },
   {
-    "pagenum": "1101",
+    "slug": "1101",
     "emory_page": 1119,
     "first_root": 2466,
     "section": "aramaic",
@@ -8921,7 +8921,7 @@
     "prev": "1100"
   },
   {
-    "pagenum": "1102",
+    "slug": "1102",
     "emory_page": 1120,
     "first_root": 2474,
     "section": "aramaic",
@@ -8929,7 +8929,7 @@
     "prev": "1101"
   },
   {
-    "pagenum": "1103",
+    "slug": "1103",
     "emory_page": 1121,
     "first_root": 2484,
     "section": "aramaic",
@@ -8937,7 +8937,7 @@
     "prev": "1102"
   },
   {
-    "pagenum": "1104",
+    "slug": "1104",
     "emory_page": 1122,
     "first_root": 2492,
     "section": "aramaic",
@@ -8945,7 +8945,7 @@
     "prev": "1103"
   },
   {
-    "pagenum": "1105",
+    "slug": "1105",
     "emory_page": 1123,
     "first_root": 2496,
     "section": "aramaic",
@@ -8953,7 +8953,7 @@
     "prev": "1104"
   },
   {
-    "pagenum": "1106",
+    "slug": "1106",
     "emory_page": 1124,
     "first_root": 2498,
     "section": "aramaic",
@@ -8961,7 +8961,7 @@
     "prev": "1105"
   },
   {
-    "pagenum": "1107",
+    "slug": "1107",
     "emory_page": 1125,
     "first_root": 2506,
     "section": "aramaic",
@@ -8969,7 +8969,7 @@
     "prev": "1106"
   },
   {
-    "pagenum": "1108",
+    "slug": "1108",
     "emory_page": 1126,
     "first_root": 2513,
     "section": "aramaic",
@@ -8977,7 +8977,7 @@
     "prev": "1107"
   },
   {
-    "pagenum": "1109",
+    "slug": "1109",
     "emory_page": 1127,
     "first_root": 2522,
     "section": "aramaic",
@@ -8985,7 +8985,7 @@
     "prev": "1108"
   },
   {
-    "pagenum": "1110",
+    "slug": "1110",
     "emory_page": 1128,
     "first_root": 2526,
     "section": "aramaic",
@@ -8993,7 +8993,7 @@
     "prev": "1109"
   },
   {
-    "pagenum": "1111",
+    "slug": "1111",
     "emory_page": 1129,
     "first_root": 2533,
     "section": "aramaic",
@@ -9001,7 +9001,7 @@
     "prev": "1110"
   },
   {
-    "pagenum": "1112",
+    "slug": "1112",
     "emory_page": 1130,
     "first_root": 2541,
     "section": "aramaic",
@@ -9009,7 +9009,7 @@
     "prev": "1111"
   },
   {
-    "pagenum": "1113",
+    "slug": "1113",
     "emory_page": 1131,
     "first_root": 2550,
     "section": "aramaic",
@@ -9017,7 +9017,7 @@
     "prev": "1112"
   },
   {
-    "pagenum": "1114",
+    "slug": "1114",
     "emory_page": 1132,
     "first_root": 2564,
     "section": "aramaic",
@@ -9025,7 +9025,7 @@
     "prev": "1113"
   },
   {
-    "pagenum": "1115",
+    "slug": "1115",
     "emory_page": 1133,
     "first_root": 2573,
     "section": "aramaic",
@@ -9033,7 +9033,7 @@
     "prev": "1114"
   },
   {
-    "pagenum": "1116",
+    "slug": "1116",
     "emory_page": 1134,
     "first_root": 2580,
     "section": "aramaic",
@@ -9041,7 +9041,7 @@
     "prev": "1115"
   },
   {
-    "pagenum": "1117",
+    "slug": "1117",
     "emory_page": 1135,
     "first_root": 2590,
     "section": "aramaic",
@@ -9049,70 +9049,70 @@
     "prev": "1116"
   },
   {
-    "pagenum": "1118",
+    "slug": "1118",
     "section": "aramaic",
     "prev": "1117",
     "emory_page": 1136,
     "next": "1119"
   },
   {
-    "pagenum": "1119",
+    "slug": "1119",
     "section": "errata",
     "emory_page": 1137,
     "next": "1120",
     "prev": "1118"
   },
   {
-    "pagenum": "1120",
+    "slug": "1120",
     "section": "errata",
     "emory_page": 1138,
     "next": "1121",
     "prev": "1119"
   },
   {
-    "pagenum": "1121",
+    "slug": "1121",
     "section": "errata",
     "emory_page": 1139,
     "next": "1122",
     "prev": "1120"
   },
   {
-    "pagenum": "1122",
+    "slug": "1122",
     "section": "errata",
     "emory_page": 1140,
     "next": "1123",
     "prev": "1121"
   },
   {
-    "pagenum": "1123",
+    "slug": "1123",
     "section": "errata",
     "emory_page": 1141,
     "next": "1124",
     "prev": "1122"
   },
   {
-    "pagenum": "1124",
+    "slug": "1124",
     "section": "errata",
     "emory_page": 1142,
     "next": "1125",
     "prev": "1123"
   },
   {
-    "pagenum": "1125",
+    "slug": "1125",
     "section": "errata",
     "emory_page": 1143,
     "next": "1126",
     "prev": "1124"
   },
   {
-    "pagenum": "1126",
+    "slug": "1126",
     "section": "errata",
     "emory_page": 1144,
     "next": "1127",
     "prev": "1125"
   },
   {
-    "pagenum": "1127",
+    "slug": "1127",
     "section": "errata",
     "emory_page": 1145,
     "next": "title",

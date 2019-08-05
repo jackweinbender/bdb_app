@@ -1,4 +1,6 @@
 const fs = require("fs")
+const letters = require("./letters.json")
+
 let roots_by_page = {
   "1": [
     {
@@ -15670,9 +15672,12 @@ for (page in roots_by_page) {
   roots = roots.concat(roots_by_page[page])
 }
 
-roots.map(r => {
-  r["sort_order"] = parseInt(r.sort_order)
-})
+// roots.map(r => {
+//   const idx = r["letter"]
+//   const { name } = letters.find(l => l.sort === idx)
+//   r["letter___NODE"] = name
+//   r["sort_order"] = parseInt(r.sort_order)
+// })
 
 output = JSON.stringify(roots, null, 2)
 

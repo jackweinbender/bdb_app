@@ -1,35 +1,36 @@
 import React from "react"
-import { Link } from "gatsby"
+import { graphql } from "gatsby"
 
-import Layout from "../components/layout"
-import Image from "../components/image"
+import Layout from "../templates/layout"
+import SectionNav from "../components/section_nav"
+import RootNav from "../components/root_nav"
 import SEO from "../components/seo"
 
 export default ({ data }) => {
-  const page = data.pagesJson
-  const title = `BDB Page ${page.pagenum}`
-  const next = `/page/${page.next}`
-  const prev = `/page/${page.prev}`
-  const img_crop = page.img_crop || "pct:9,2,82,96"
-
-  let url = `http://iiif.semitics-archive.org/iiif/2/bdb_emory_page-${page.pagenum}.jp2/${img_crop}/pct:60/0/gray.jpg`
-  
+  const page = data.page
+  const title = `BDB Page ${page.slug}`
   return (
     <Layout>
       <SEO title={title} />
+
+      <SectionNav />
+      <RootNav />
+
       <h1>{title}</h1>
+
+      <pre>{JSON.stringify(data, null, 2)}</pre>
     </Layout>
   )
 }
 
 export const query = graphql`
-  query($pagenum: String) {
-    pagesJson(pagenum: { eq: $pagenum }) {
-      pagenum
-      next
-      prev
-      emory_page
-      img_crop
+  query Page($slug: String) {
+    page: pagesJson(slug: { eq: $slug }) {
+      slug
+      # next
+      # prev
+      # emory_page
+      # img_crop
     }
   }
 `
