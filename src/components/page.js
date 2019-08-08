@@ -2,8 +2,8 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../templates/layout"
-import SectionNav from "../components/section_nav"
-import RootNav from "../components/root_nav"
+// import SectionNav from "../components/nav/section_nav"
+import LetterNav from "../components/nav/letter_nav"
 import SEO from "../components/seo"
 
 export default ({ data }) => {
@@ -13,8 +13,8 @@ export default ({ data }) => {
     <Layout>
       <SEO title={title} />
 
-      <SectionNav />
-      <RootNav />
+      {/* <SectionNav /> */}
+      <LetterNav />
 
       <h1>{title}</h1>
 

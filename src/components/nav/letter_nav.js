@@ -1,5 +1,6 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
+import RootsList from './roots_list'
 
 export default () => {
   const query = graphql`
@@ -43,18 +44,10 @@ export default () => {
     }
   `
   const render = data => {
-    const nav = data.hebrew.letters.map(({node}) => {
-      const roots = node.roots.map( r => (<div>{r.root}</div>))
-      return (
-        <div>
-          <div>{node.char}</div>
-          <div>{roots}</div>
-        </div>
-      )
+    return data.hebrew.letters.map(({ node }) => {
+      return <RootsList roots={node.roots} />
     })
-    // return <pre>{JSON.stringify(data, null, 2)}</pre>
-    return <div>{nav}</div>
   }
-
-  return <StaticQuery query={query} render={render} />
+  
+  return (<StaticQuery query={query} render={render} />)
 }
