@@ -5,9 +5,6 @@ import SectionNavList from "../components/SectionNavList"
 import "./SectionNav.css"
 
 class SectionNav extends Component {
-  constructor(props){
-    super(props)
-  }
   render() {
     const { data, currentSection } = this.props
     return (

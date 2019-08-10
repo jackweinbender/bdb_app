@@ -5,7 +5,7 @@ import "../components/SectionNavListItem.css"
 
 const SectionNavListItem = ({ item, currentSection }) => {
   // Check to see if the node is the current section
-  const isCurrentSelection = currentSection == item.slug ? 'current' : ''
+  const isCurrentSelection = currentSection === item.slug ? 'current' : ''
   const path = `/page/${item.start_page}`
   return (
     <li className="section-nav_li">
