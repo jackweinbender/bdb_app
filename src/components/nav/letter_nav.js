@@ -45,9 +45,14 @@ export default () => {
   `
   const render = data => {
     return data.hebrew.letters.map(({ node }) => {
-      return <RootsList roots={node.roots} />
+      return (
+        <div>
+          <h3>{node.char}</h3>
+          <RootsList roots={node.roots} />
+        </div>
+      )
     })
   }
   
-  return (<StaticQuery query={query} render={render} />)
+  return <StaticQuery query={query} render={render} />
 }
