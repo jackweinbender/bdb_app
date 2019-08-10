@@ -1,5 +1,10 @@
 [
   {
+    "slug": "title",
+    "display": "Title Page",
+    "start_page": "title"
+  },
+  {
     "slug": "preface",
     "display": "Preface",
     "start_page": "v"

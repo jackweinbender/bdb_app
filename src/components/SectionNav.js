@@ -7,22 +7,15 @@ import "./SectionNav.css"
 class SectionNav extends Component {
   constructor(props){
     super(props)
-    this.state = {
-      currentSection: 'hebrew'
-    }
-  }
-  setSection = (e) => {
-    this.setState({ currentSection: e })
   }
   render() {
-    const { data } = this.props
+    const { data, currentSection } = this.props
     return (
       <nav className="section-nav">
         <SectionNavList 
           items={data.sections.edges} 
-          currentSection={this.state.currentSection}
+          currentSection={currentSection}
         />
-        <button onClick={() => this.setSection('aramaic') }>Test</button>
       </nav>
     )
   }
@@ -41,6 +34,11 @@ const query = graphql`
     }
   }
 `
-export default () => (
-  <StaticQuery query={query} render={data => <SectionNav data={data} />} />
+export default ({ currentSection }) => (
+  <StaticQuery 
+    query={query} 
+    render={ data => (
+      <SectionNav data={data} currentSection={currentSection} />
+    )}
+  />
 )

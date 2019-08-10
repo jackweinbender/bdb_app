@@ -12,7 +12,7 @@ export default ({ data }) => {
   return (
     <Layout>
       <SEO title={title} />
-      <SectionNav />
+      <SectionNav currentSection={page.section}/>
       {/* <LetterNav /> */}
 
       <h1>{title}</h1>
@@ -26,6 +26,7 @@ export const query = graphql`
   query Page($slug: String) {
     page: pagesJson(slug: { eq: $slug }) {
       slug
+      section
       # next
       # prev
       # emory_page
