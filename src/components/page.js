@@ -12,7 +12,9 @@ export default ({ data }) => {
   return (
     <Layout>
       <SEO title={title} />
-      <SectionNav currentSection={page.section}/>
+      <SectionNav 
+        currentSection={page.section}
+      />
       {/* <LetterNav /> */}
 
       <h1>{title}</h1>

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Brown-Driver-Briggs Hebrew and Aramaic Lexicon of the Old Testament`,
-    description: `Brown-Driver-Briggs Hebrew and Aramaic Lexicon of the Old Testament`,
+    title: `Brown-Driver-Briggs`,
+    description: `The Brown-Driver-Briggs Hebrew and Aramaic Lexicon of the Old Testament`,
     author: `@jackweinbender`,
   },
   plugins: [
