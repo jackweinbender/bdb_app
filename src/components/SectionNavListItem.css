@@ -1,0 +1,23 @@
+.section-nav_li {
+    padding:0;
+    margin:0;
+}
+
+.section-nav_li a {
+    background: #1d253b;
+    color:white;
+    display: block;
+    text-align: center;
+    border-bottom: dotted 1px grey;
+    padding:0.25rem 0
+}
+
+.section-nav_li a {
+    color:white;
+    display: block;
+    text-align: center;
+}
+
+.section-nav_li a .current::before {
+    content: '»'
+}
