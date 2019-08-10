@@ -5,11 +5,24 @@ import SectionNavList from "../components/SectionNavList"
 import "./SectionNav.css"
 
 class SectionNav extends Component {
+  constructor(props){
+    super(props)
+    this.state = {
+      currentSection: 'hebrew'
+    }
+  }
+  setSection = (e) => {
+    this.setState({ currentSection: e })
+  }
   render() {
     const { data } = this.props
     return (
       <nav className="section-nav">
-        <SectionNavList items={data.sections.edges} />
+        <SectionNavList 
+          items={data.sections.edges} 
+          currentSection={this.state.currentSection}
+        />
+        <button onClick={() => this.setSection('aramaic') }>Test</button>
       </nav>
     )
   }

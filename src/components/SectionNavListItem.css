@@ -16,8 +16,15 @@
     color:white;
     display: block;
     text-align: center;
+    text-decoration: none;
+}
+.section-nav_li a:hover {
+    text-decoration: underline;
 }
 
-.section-nav_li a .current::before {
-    content: '»'
+.section-nav_li .current::before {
+    content: '» ';
+}
+.section-nav_li .current::after {
+    content: ' «';
 }
